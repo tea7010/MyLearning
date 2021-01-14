@@ -16,7 +16,7 @@
     * room, paper, time, experienceなど
     * 意味が変わる
 
-## Unit 72/73
+## Unit 72/73/74/75/76/77/78
 * aは人に話すときに相手にとって未知のものであるとき
 * theは既知・既出の特定のもの・人に対して
     * 一つしか存在しないもの、赤道・地球・*est系
@@ -27,3 +27,15 @@
     * the TV: 機器のこと、TV: コンテンツ
     * breakfast/lunch/dinnerはtheつけないが、aは a big lunchとかで使う
     * 数字と一緒に使うときはtheつけない
+    * school/hospital/college/dogs/childrenなど、一般的な意味でaはなしでOK. 特定のものにはthe付ける
+    * 上のやつらにMost付ける場合もthe不要
+    * 何かの中でという時はthe付ける。the figaffe is the tallest of all animalsみたいな
+    * 楽器もtheつける
+    * man/womanはthe不要
+    * the rich: リッチな人って感じ。複数のイメージ。the + ajective/nationality
+    * the Japaneseも同様。日本人的な意味。複数形として作用。
+    * 国とか島・町とかにはtheつけないが、the USAとかは例外
+    * 海とか水系にはthe付ける。the Amazon
+    * ビル名にはthe付ける
+    * of ~の場合、the付ける. the unizersity of Cambridge
+    * 報道系はthe付く。the BBC

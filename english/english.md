@@ -39,3 +39,20 @@
     * ビル名にはthe付ける
     * of ~の場合、the付ける. the unizersity of Cambridge
     * 報道系はthe付く。the BBC
+
+## Unit 79
+* 対であることが１つのものであるものは、plural
+    * trousers/jeans/pajamas/glasses/binoculars/scissors
+    * a pair of ~でa的な使い方できる
+* ~icsはsingular
+    * economics/maths/physics/politics
+* newsはpluralでない
+* family/firm/teamとかはpluralだけど、theyみたいにsingularとして扱う
+* personのpluralはpeople
+* 金額/期間/距離はsingularで扱う
+    * 2$ is, three years was, two miles isn't
+
+## Unit 80
+* nounA + nounB: nounAはadjectiveとして、nounBにかかる
+* nornAはpluralにしない. singular
+* a headache/a weekendなどくっつくやつもあるけど、決まりはなし。よく見るならOKって感じ

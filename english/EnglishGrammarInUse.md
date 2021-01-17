@@ -52,7 +52,27 @@
 * 金額/期間/距離はsingularで扱う
     * 2$ is, three years was, two miles isn't
 
-## Unit 80
+## Unit 80/81
 * nounA + nounB: nounAはadjectiveとして、nounBにかかる
 * nornAはpluralにしない. singular
 * a headache/a weekendなどくっつくやつもあるけど、決まりはなし。よく見るならOKって感じ
+* A's + norn: Aの所有物・付属するもの。人や動物に対して使う
+    * A's noun: singular, the cat's tail
+    * prulaには A' norn(sつけない), Mr and Mrs Carter's room
+* nounA of nounB or nounA nounBも可能
+    * the beggining/end/middle/top/botton/from/back/side of とか
+
+## Unit 82
+* SubjectとObjectが一緒の時~selを使う
+* himself, myselfなど I'll pay for myself
+* themselves = each other or one another
+* 誰がやったか強調したいときにも使う
+    * I've done it myself
+
+## Unit 83
+* A friend of mine/yours/his/hers/ours/theirs/A's
+* A good idea of A's
+* A senior/junior of mine: 俺の先輩・後輩のみたいな
+* My own, your own, 自分だけの、あなただけのみたない
+    * I want my own room.
+    * your ownで省略として使うときも

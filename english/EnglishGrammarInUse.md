@@ -76,3 +76,32 @@
 * My own, your own, 自分だけの、あなただけのみたない
     * I want my own room.
     * your ownで省略として使うときも
+
+## Unit 84
+* 最初に存在する物事をいうときにthereを使う
+* itは既出の物事を刺すとき
+* thereはto/at/in at the placeの代わりにも使える
+* there will/must/might/used to/ beという感じでも使える
+* これらの過去形として、there must/should have beenなどが使える
+* there is sure/bound/likely to beなど、強調できる
+* 仮の主語的なit
+    * X: To walk in the road is dangerousは主張までが長いので、使わない
+    * O: it is dangerous to walki in the road.
+    * 距離・時間・天気についてもitをsubjectとする
+
+## Unit 85
+* someとanyの違い
+    * someはpositive、anyはnegativeなsentenceで使われる
+    * I want something to eat.
+    * I don't want anything to eat.
+    * withoutなどの実質negativeなときもany使う
+* anyは、ifのあとや、具体的になんでもいい何かってときにも使われる
+* anybody/anyone/anything/anywhereなども同様。なんでもいいとき
+* someone/anyone/anybodyなどは単数で使う、これらをさすときにはthey系を使う
+
+## Unit 86
+* no + noun = not a/not anyの意味
+* Noneでnounの省略可能. none of nounもＯＫ
+* None of {plural}はsingular
+* Nothing/no-one/nobody/nowhereは、positiveでしか使わない
+

@@ -105,3 +105,47 @@
 * None of {plural}はsingular
 * Nothing/no-one/nobody/nowhereは、positiveでしか使わない
 
+## Unit 87
+* uncountableなものの大きさ・規模
+    * much
+        * positiveなセンテンスでは使わない（疑問・否定のとき）
+        * a lot of を使う
+    * little
+        * a little: some, a small amount
+        * only a little: ほぼない
+* pluralなものの大きさ・規模
+    * many
+    * few
+        * a few: some, a small number
+        * only a few: ほぼない
+* どっちでもOK
+    * a lot of/lots of/prenty of
+    * X: a lot of years O: many years
+
+## Unit 88
+* all/some/any/most/much/many/little/few/noは、A + nounで使える
+    * some people, many people, No cars
+* 上 + none, halfは、some of A + the/myなどで使える
+    * allとhalfはof省略可能。 All flowers, All of the flowers -> All the flowers
+* これらは二回目の単語の省略で単独でもOK
+    * Half of the money is mine, and half is yours.
+
+## Uni 89
+* both/neither/eitherは2つのものごとに対して使う。
+    * 3つ以上はa lot of/some/many/none of など
+* Both: 両方
+    * both A and B
+* Neither: Bothの否定みたいな感じ。どっちもnotだった
+    * neither A nor B
+* Either: one or the other, doesn't matter which one.
+    * either A or B
+* both/neither/either of the/人　などでつかえる。of省略もOK
+
+## Unit 90
+* everybody/everyoneはsubjectになれるが、allだけではだめ
+    * all of usなど
+    * everything I can do/all I can doなどはどっちでもOK
+    * all I've eaten todayなど、allのあとに説明いれれる
+* every/everyoneなどはsingularとして使う。theyと一緒
+* whole/allは意味は一緒だが、wholeはsingularと使う。uncountableなものはall使う
+* every dayなどは頻繁におこる定期的な使い方

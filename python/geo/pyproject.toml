@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "geo"
+version = "0.1.0"
+description = ""
+authors = [""]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyterlab = "^3.0.3"
+autopep8 = "^1.5.4"
+pyreadline = "^2.1"
+jedi = "<0.18.0"
+gdal = {path = "env_wh/GDAL-3.1.4-cp39-cp39-win_amd64.whl"}
+fiona = {path = "env_wh/Fiona-1.8.18-cp39-cp39-win_amd64.whl"}
+geopandas = "^0.8.1"
+fsspec = "^0.8.5"
+PyQt5 = "^5.15.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

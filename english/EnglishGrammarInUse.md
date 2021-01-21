@@ -149,3 +149,23 @@
 * every/everyoneなどはsingularとして使う。theyと一緒
 * whole/allは意味は一緒だが、wholeはsingularと使う。uncountableなものはall使う
 * every dayなどは頻繁におこる定期的な使い方
+
+## Uni 91
+* eachとeveryの違い
+* どっちもsinglar nounが後にくる感じ
+* 省略として単体でも使える
+    * None of the rooms was the same. Each was different.
+* each
+    * one by one, sepalately
+    * 少数のものに使うイメージ
+    * each of them/theなどもＯＫ
+    * The students were each given a book.みたいに、それぞれにみたいな言い方できる
+    * per的な使い方もできる
+* every
+    * all, as a group
+    * たくさんのものに対して使うイメージ
+    * every one of them/the noumなどもＯＫ
+    * everyoneは人
+    * every oneは、人・物の省略として使える
+
+## Unit 92

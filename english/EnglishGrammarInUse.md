@@ -168,4 +168,22 @@
     * everyoneは人
     * every oneは、人・物の省略として使える
 
-## Unit 92
+## Unit 92/93/94
+* Relative clauses
+    * どんな人・ものであるかを説明するのに使う
+    * who: 人につかう
+    * which: ものにつかう
+    * what: こと？につかう(the thing)
+    * that: 人・ものに使う
+    * whose: his/their/herのもの・人がsubjectに対して使う
+    * whom: whoをobjectとするときに使う。formalなもの
+    * where: 場所に対して使う
+    * the day/the year/the time (that): その瞬間に対して使う
+        * The last time that I met him, he looked great.
+    * the reason why(that): 理由に対して使う
+        * The reason why I'm phoning
+* relative clauseは、subject or objectとして位置
+    * subjectのときはclause省略できない
+        * the woman who/that lives next door 
+    * objectのときはけっこう省略する
+        * the books (that/which) you were looking for

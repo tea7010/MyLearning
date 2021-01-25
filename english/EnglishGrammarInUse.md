@@ -168,7 +168,7 @@
     * everyoneは人
     * every oneは、人・物の省略として使える
 
-## Unit 92/93/94
+## Unit 92/93/94/95/96
 * Relative clauses
     * どんな人・ものであるかを説明するのに使う
     * who: 人につかう
@@ -187,3 +187,19 @@
         * the woman who/that lives next door 
     * objectのときはけっこう省略する
         * the books (that/which) you were looking for
+* which/whoの前に具体的なものが来るとき、コンマで区切って詳細な情報を説明する感じでつかえる
+    * My brother Takuya, who lives in Tokyo.
+    * Takuya told me his new job, which is art.
+    * whose/whom/whereとかでも使える
+        * Kate has just been to Sweden, where her daughter lives.
+    * 分全体をobjectとしてwhich
+        * The weather was good, which we hadn't expected.
+* objectとなるwhom/whichの前にprepositionつけられる
+    * Mr Lee, to whom I spoke at the meeting, is very interested in our propsal.
+    * Two men, neither of whom I had seen before, came into the office.
+
+## Unit 97
+* Clauseとして~ing, ~edもものひとの説明として作用
+    * ~ingはdoingしている状態
+    * ~edは受け身passiveの状態。Past participles
+* who/whichが省略してるわけではない

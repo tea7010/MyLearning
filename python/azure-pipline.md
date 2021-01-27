@@ -1,0 +1,1 @@
+* https://github.com/Azure-Samples/azure-pipelines-python/blob/master/.azure-pipelines/simple_package.2-artifacts.yml

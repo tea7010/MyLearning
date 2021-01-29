@@ -203,3 +203,27 @@
     * ~ingはdoingしている状態
     * ~edは受け身passiveの状態。Past participles
 * who/whichが省略してるわけではない
+
+## Unit 98/99
+* adjectives + ing/edでそのもの・人がどんなものかを説明
+    * ~ingは物
+    * ~edは人
+    * Somebody is bored if something is boring. If something is boring, it makes you bored.
+    * interest/bore/tire/satisfy/depress/shock/surpriseなど
+* ajective: ものごとを説明するときの表現
+    * nounに使う(動詞にはadverbを使う)
+    * fact adjectives: 事実を説明するもの
+    * opinion adjectives: 個人的な印象を説明
+* 二つ以上を直列で使えるが、順番は opinion -> fact -> norm
+    * a nice long summer holiday
+    * a beautiful large round wooden table
+* fact複数の順番は、
+    * 大きさ: big/tall/large/small/short 
+    * 形状: round/wide/thin/fat/slim 
+    * 新しさ: new/old
+    * 色: red/blue 
+    * どこの: Russian/Japanese
+    * 素材: wooden/steel/cotton
+    * ex) a tall young man, an old white cotton shift
+* adjectiveはbe/get/become/seem/look/feel/sounds/tasteなどのあとに使われる
+    * Be carefull, You look tired.

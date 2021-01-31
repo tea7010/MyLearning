@@ -228,10 +228,19 @@
 * adjectiveはbe/get/become/seem/look/feel/sounds/tasteなどのあとに使われる
     * Be carefull, You look tired.
 
-## Unit 100
+## Unit 100/101
 * Adverbs: verbをadするもの
     * adjective + lyの形が多い
     * quick -> quickly, careful -> carefully, bad -> badly
 * friendly, lively, elderly, lonely, silly, lovelyなどは, lyで終わるがadjective
 * adverb + adjectiveという使い方もある
     * reasonably cheap, terribly sorry, incredibly quickly
+* Good: adjective, well: adverb
+    * Your English is good. You speak English well.
+    * well-known
+* fast/hard/lateなど、どっちでもなれる
+    * fast runner, run very fast
+* hardlyとhardは違う単語
+    * hardly: very little, almost not.
+    * He tried hard to find a job. He hardly tried.
+    * hardly any. hardly anybodh, hardly ever

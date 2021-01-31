@@ -227,3 +227,11 @@
     * ex) a tall young man, an old white cotton shift
 * adjectiveはbe/get/become/seem/look/feel/sounds/tasteなどのあとに使われる
     * Be carefull, You look tired.
+
+## Unit 100
+* Adverbs: verbをadするもの
+    * adjective + lyの形が多い
+    * quick -> quickly, careful -> carefully, bad -> badly
+* friendly, lively, elderly, lonely, silly, lovelyなどは, lyで終わるがadjective
+* adverb + adjectiveという使い方もある
+    * reasonably cheap, terribly sorry, incredibly quickly

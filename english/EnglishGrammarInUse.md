@@ -244,3 +244,30 @@
     * hardly: very little, almost not.
     * He tried hard to find a job. He hardly tried.
     * hardly any. hardly anybodh, hardly ever
+
+## Unit 102
+* soとsuch
+    * so + adjective/adverb
+    * such + noun or sunch + adjective + noun
+    * They are so nice. They are such nice people.
+* so ... that ~, such ... that ~
+* so long, such a long time
+* so far, such a long way
+* so much/many, such a lot of
+
+## Unit 103
+* adjective/adverb + enough, enough + noun
+    * I'm not fit enough, I'm lack of enough fitness.
+* too much/many > enoughなイメージ
+* She's not old enough to get a driving licence.
+* She's too young to get a driving licence.
+
+## Unit 104
+* quite/pretty/rather/fairly
+* quite/pretty: less than very much, but more than a little
+    * quite an old house. a pretty old house
+    * not quite: まったく(not completely)
+* rather: 否定的・良くない・予期してないものに使うquite/prettyって感じ
+    * The weather is not so good. It's rather rain.
+* fairly: 平均的、50%な感じ。 quite/pretty/ratherよりは弱い
+    * My room is fairly big. but I'd prefer a bigger one.

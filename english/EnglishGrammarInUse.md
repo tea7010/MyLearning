@@ -271,3 +271,14 @@
     * The weather is not so good. It's rather rain.
 * fairly: 平均的、50%な感じ。 quite/pretty/ratherよりは弱い
     * My room is fairly big. but I'd prefer a bigger one.
+
+## Unit 105
+* Comaratives: ~er or more ~
+    * ~erは短い単語に使う. syllable?
+    * moreは長い単語に使う two syllables or ~lyで終わるadverbs
+    * cheap -> cheaper, expensice -> more expensive
+    * clever/simple/quiteなど、どっちでもOKなやついる
+* good/well -> better
+* bad/badly -> worse
+* far -> farther/further
+    * furtherはadditionalなみたいな意味もある. further news

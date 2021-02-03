@@ -282,3 +282,11 @@
 * bad/badly -> worse
 * far -> farther/further
     * furtherはadditionalなみたいな意味もある. further news
+* more, ~erに使える強調
+    * positive sentense: much, a lot, far, a bit, a little, slightly
+    * negative sentense: no more ~, any longer
+* more and more/better and better: 継続的に強まっている感じ
+* the comparative SV, the comaparative SV: すればするほどみたいな
+    * the more expensive the hotel, the better the service.
+* oldはolderだが、家族にはelder(=older)を使う
+    * 家族以外にはolderを使う

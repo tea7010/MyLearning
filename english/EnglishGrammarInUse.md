@@ -272,7 +272,7 @@
 * fairly: 平均的、50%な感じ。 quite/pretty/ratherよりは弱い
     * My room is fairly big. but I'd prefer a bigger one.
 
-## Unit 105
+## Unit 105/106
 * Comaratives: ~er or more ~
     * ~erは短い単語に使う. syllable?
     * moreは長い単語に使う two syllables or ~lyで終わるadverbs
@@ -290,3 +290,30 @@
     * the more expensive the hotel, the better the service.
 * oldはolderだが、家族にはelder(=older)を使う
     * 家族以外にはolderを使う
+
+## Unit 107
+* as ~ as、主に否定などで同じくらいじゃない。
+    * Jack isn't as old as he looks.
+    * Lisa didn't do as well in the exam as she had hoped.
+* less thanも同じような感じで使う
+    * I play tennis less then i used to. I don't play tennins as much as i used to.
+* positiveでも使える
+    * Their house is about three times as big as ours.
+    * the same as使った方が直接的？
+
+## Unit 108
+* Superlatives: ~est, most
+    * theを先頭に付ける
+    * best -> better -> best
+    * bad -> worth -> worst
+    * far -> further -> furthest
+    * old -> older(elder for talking about in a family) -> oldest(eldest)
+
+## Unit 109
+* Verb + objectの順番
+    * I like my job. You'll see a supermarket on your left.
+* 複数置きたいとき、placeの後にtimeを置く
+    * He walks to work every morning.
+    * I'm going to Paris on Monday.
+* 文頭に時間置く場合もある
+    * On monday I'm going to Paris.

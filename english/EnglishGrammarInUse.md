@@ -317,3 +317,15 @@
     * I'm going to Paris on Monday.
 * 文頭に時間置く場合もある
     * On monday I'm going to Paris.
+
+## 110
+* adverbとverbの順番は、基本adverb + verb
+    * I always play the guitar.
+    * I hardly ever reads newspapes.
+* am/isなどはadverbが後ろ
+    * The traffic isn't usually as bad as it was this morning
+* can do など2つ以上verbがある場合は、 verb1 + adverb + verb2
+    * Do you still work for the same company
+    * probablyはnegativeのときは例外: I will probabry not see you. or I probabry won't see you.
+* repeatで省略するときは、adverb + verbになる
+    * I've never done it and I never will.

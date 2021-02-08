@@ -203,3 +203,117 @@
     * ~ingはdoingしている状態
     * ~edは受け身passiveの状態。Past participles
 * who/whichが省略してるわけではない
+
+## Unit 98/99
+* adjectives + ing/edでそのもの・人がどんなものかを説明
+    * ~ingは物
+    * ~edは人
+    * Somebody is bored if something is boring. If something is boring, it makes you bored.
+    * interest/bore/tire/satisfy/depress/shock/surpriseなど
+* ajective: ものごとを説明するときの表現
+    * nounに使う(動詞にはadverbを使う)
+    * fact adjectives: 事実を説明するもの
+    * opinion adjectives: 個人的な印象を説明
+* 二つ以上を直列で使えるが、順番は opinion -> fact -> norm
+    * a nice long summer holiday
+    * a beautiful large round wooden table
+* fact複数の順番は、
+    * 大きさ: big/tall/large/small/short 
+    * 形状: round/wide/thin/fat/slim 
+    * 新しさ: new/old
+    * 色: red/blue 
+    * どこの: Russian/Japanese
+    * 素材: wooden/steel/cotton
+    * ex) a tall young man, an old white cotton shift
+* adjectiveはbe/get/become/seem/look/feel/sounds/tasteなどのあとに使われる
+    * Be carefull, You look tired.
+
+## Unit 100/101
+* Adverbs: verbをadするもの
+    * adjective + lyの形が多い
+    * quick -> quickly, careful -> carefully, bad -> badly
+* friendly, lively, elderly, lonely, silly, lovelyなどは, lyで終わるがadjective
+* adverb + adjectiveという使い方もある
+    * reasonably cheap, terribly sorry, incredibly quickly
+* Good: adjective, well: adverb
+    * Your English is good. You speak English well.
+    * well-known
+* fast/hard/lateなど、どっちでもなれる
+    * fast runner, run very fast
+* hardlyとhardは違う単語
+    * hardly: very little, almost not.
+    * He tried hard to find a job. He hardly tried.
+    * hardly any. hardly anybodh, hardly ever
+
+## Unit 102
+* soとsuch
+    * so + adjective/adverb
+    * such + noun or sunch + adjective + noun
+    * They are so nice. They are such nice people.
+* so ... that ~, such ... that ~
+* so long, such a long time
+* so far, such a long way
+* so much/many, such a lot of
+
+## Unit 103
+* adjective/adverb + enough, enough + noun
+    * I'm not fit enough, I'm lack of enough fitness.
+* too much/many > enoughなイメージ
+* She's not old enough to get a driving licence.
+* She's too young to get a driving licence.
+
+## Unit 104
+* quite/pretty/rather/fairly
+* quite/pretty: less than very much, but more than a little
+    * quite an old house. a pretty old house
+    * not quite: まったく(not completely)
+* rather: 否定的・良くない・予期してないものに使うquite/prettyって感じ
+    * The weather is not so good. It's rather rain.
+* fairly: 平均的、50%な感じ。 quite/pretty/ratherよりは弱い
+    * My room is fairly big. but I'd prefer a bigger one.
+
+## Unit 105/106
+* Comaratives: ~er or more ~
+    * ~erは短い単語に使う. syllable?
+    * moreは長い単語に使う two syllables or ~lyで終わるadverbs
+    * cheap -> cheaper, expensice -> more expensive
+    * clever/simple/quiteなど、どっちでもOKなやついる
+* good/well -> better
+* bad/badly -> worse
+* far -> farther/further
+    * furtherはadditionalなみたいな意味もある. further news
+* more, ~erに使える強調
+    * positive sentense: much, a lot, far, a bit, a little, slightly
+    * negative sentense: no more ~, any longer
+* more and more/better and better: 継続的に強まっている感じ
+* the comparative SV, the comaparative SV: すればするほどみたいな
+    * the more expensive the hotel, the better the service.
+* oldはolderだが、家族にはelder(=older)を使う
+    * 家族以外にはolderを使う
+
+## Unit 107
+* as ~ as、主に否定などで同じくらいじゃない。
+    * Jack isn't as old as he looks.
+    * Lisa didn't do as well in the exam as she had hoped.
+* less thanも同じような感じで使う
+    * I play tennis less then i used to. I don't play tennins as much as i used to.
+* positiveでも使える
+    * Their house is about three times as big as ours.
+    * the same as使った方が直接的？
+
+## Unit 108
+* Superlatives: ~est, most
+    * theを先頭に付ける
+    * best -> better -> best
+    * bad -> worth -> worst
+    * far -> further -> furthest
+    * old -> older(elder for talking about in a family) -> oldest(eldest)
+
+## Unit 109
+* Verb + objectの順番
+    * I like my job. You'll see a supermarket on your left.
+* 複数置きたいとき、placeの後にtimeを置く
+    * He walks to work every morning.
+    * I'm going to Paris on Monday.
+* 文頭に時間置く場合もある
+    * On monday I'm going to Paris.

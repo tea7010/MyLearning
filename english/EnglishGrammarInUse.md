@@ -329,3 +329,20 @@
     * probablyはnegativeのときは例外: I will probabry not see you. or I probabry won't see you.
 * repeatで省略するときは、adverb + verbになる
     * I've never done it and I never will.
+
+## 111
+* Still: continuing, it hasn't changed or stopped.
+    * verbのとなりに付く感じ
+    * When I went to bed, Joe is still working.
+    * negativeの前に付けると、"まだ"的に強調で使える
+        * She said she would be here an hour ago and she still hasn't come.
+* No ... any more/any longer, no longer: もうそうじゃない的な、stillの否定形
+    * sentenseの最後に付ける
+    * Sarry still works here, but Lucy doesn't work here any more.
+* yet: until now, 否定か質問の時に使う。何か起こるアクション的なものに対して
+    * 文の最後につける
+    * Have you met his new girlfried yet?
+    * I don't know yet.
+* already: sooner than expected
+    * verbのとなりに付く感じ
+    * She has already left.

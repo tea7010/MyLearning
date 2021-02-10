@@ -317,3 +317,32 @@
     * I'm going to Paris on Monday.
 * 文頭に時間置く場合もある
     * On monday I'm going to Paris.
+
+## 110
+* adverbとverbの順番は、基本adverb + verb
+    * I always play the guitar.
+    * I hardly ever reads newspapes.
+* am/isなどはadverbが後ろ
+    * The traffic isn't usually as bad as it was this morning
+* can do など2つ以上verbがある場合は、 verb1 + adverb + verb2
+    * Do you still work for the same company
+    * probablyはnegativeのときは例外: I will probabry not see you. or I probabry won't see you.
+* repeatで省略するときは、adverb + verbになる
+    * I've never done it and I never will.
+
+## 111
+* Still: continuing, it hasn't changed or stopped.
+    * verbのとなりに付く感じ
+    * When I went to bed, Joe is still working.
+    * negativeの前に付けると、"まだ"的に強調で使える
+        * She said she would be here an hour ago and she still hasn't come.
+* No ... any more/any longer, no longer: もうそうじゃない的な、stillの否定形
+    * sentenseの最後に付ける
+    * Sarry still works here, but Lucy doesn't work here any more.
+* yet: until now, 否定か質問の時に使う。何か起こるアクション的なものに対して
+    * 文の最後につける
+    * Have you met his new girlfried yet?
+    * I don't know yet.
+* already: sooner than expected
+    * verbのとなりに付く感じ
+    * She has already left.

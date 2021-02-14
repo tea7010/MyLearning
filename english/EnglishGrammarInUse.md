@@ -318,7 +318,7 @@
 * 文頭に時間置く場合もある
     * On monday I'm going to Paris.
 
-## 110
+## Unit 110
 * adverbとverbの順番は、基本adverb + verb
     * I always play the guitar.
     * I hardly ever reads newspapes.
@@ -330,7 +330,7 @@
 * repeatで省略するときは、adverb + verbになる
     * I've never done it and I never will.
 
-## 111
+## Unit 111
 * Still: continuing, it hasn't changed or stopped.
     * verbのとなりに付く感じ
     * When I went to bed, Joe is still working.
@@ -346,3 +346,31 @@
 * already: sooner than expected
     * verbのとなりに付く感じ
     * She has already left.
+
+## Unit 112
+* Even: 何か普通じゃないこと、特殊であることを強調するために使う。nounの前とかに付ける
+    * these pictures are really awful. Even I take better pictures than these.
+    * He always wears a coat, even in hot weather.
+* verbの前に付けるとき
+    * Sue has travelled all over the world. She has even been to the Antrantic.
+* 否定の後ろにつけるとき
+    * Nobody would help her, not even her best friend.
+* Comparativeの前につけるとき
+    * I got up very early, but Jack did even earlier.
+* Sentenceとして使いたいとき
+    * Even though ...
+        * Even though she can't drive, she bought a car.
+    * Even when ...
+        * He hardly shouts, even when he is angry.
+    * Even if ...
+        * We are going even if it's raining.
+
+## Unit 113
+* Although S + V
+    * 普通じゃないしちゅだが、みたいな
+    * even though > Although の意外性の強さ
+* thoughはalthoughとほぼ一緒
+    * thoughを最後に付けて使える
+        * The house isn't so nice. I like the garden though.
+* In spite of/Despite noun/prenoun/~ing
+    * I didn't get the job {in spite of the fact that/despite the fact} I had the necessary qualifications

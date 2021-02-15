@@ -374,3 +374,19 @@
         * The house isn't so nice. I like the garden though.
 * In spite of/Despite noun/prenoun/~ing
     * I didn't get the job {in spite of the fact that/despite the fact} I had the necessary qualifications
+
+## Unit 114
+* in case: 一応のためみたいな
+    * just in caseの方が確率が低い感じ
+    * I'll my mobile phone switched on in case Jane calls.
+    * in case 語のsentenseはwillじゃなくてpresent or past
+* ifと似てはいるが、ifは~な状況でという条件分岐だが、in caseは~な状況を加味してみたいなアクションの理由
+    * We'll buy some more food if Tom comes: Tomが来なかったら買わない
+    * We'll buy some more food in case Tom comes: Tomが来るかもしれないので買う。来なくても買う
+    * in case of ~はif, whenみたいな感じ
+
+## Unit 115
+* Unless: if ~ not, except if
+* As long as or So long as, if, on condition that
+* Provided/Providing, as long asと似たニュアンス。使い分け不明
+* 未来のことでもpresentで使う

@@ -390,3 +390,19 @@
 * As long as or So long as, if, on condition that
 * Provided/Providing, as long asと似たニュアンス。使い分け不明
 * 未来のことでもpresentで使う
+
+## Unit 116/117
+* As: when 2 things happen at the same time
+    * whenのように、２つのものが時系列順におこるときにはasは使えない
+    * asは同時におこっていること
+    * As I walked along the street, I got bitten by a dog.
+* as: becauseとしても使える
+    * sinceも同様
+* like: 似た感じで、同様にみたいな
+    * like + noun(me, this, walking)
+    * such asもlikeと置き換えれる
+* as + sub + V: 同様に, what的な前置きみたいな用途
+    * i left everything as it was.
+    * likeも同じように使える
+* As a...: として
+    * like aはまるでみたいなニュアンス

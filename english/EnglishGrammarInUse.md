@@ -391,7 +391,7 @@
 * Provided/Providing, as long asと似たニュアンス。使い分け不明
 * 未来のことでもpresentで使う
 
-## Unit 116/117
+## Unit 116/117/118
 * As: when 2 things happen at the same time
     * whenのように、２つのものが時系列順におこるときにはasは使えない
     * asは同時におこっていること
@@ -406,3 +406,17 @@
     * likeも同じように使える
 * As a...: として
     * like aはまるでみたいなニュアンス
+* looks/sounds/feels + like/as if/as though: かのような
+    * as if/as thoughの方がlikeよりフォーマル
+    * it looks like/as if/as though she isn't comming.
+* as if/as thoughの後ろがまるで～的な現実ではない現在の状態をいうとき、pastを使う
+    * I don't like Tom. He talks as if he knew everything.
+
+## Unit 119/120
+* for/during/while: 状況やどんな時・どれくらいなどの時間の説明につかう
+    * for + 具体的な期間: for a weekなど
+    * during + norn: どんな状況で
+    * while + subject + verb: どんな状況で
+* in: 具体的な期間に対して、duringと似た状況で使える
+    * in summer, during summar
+

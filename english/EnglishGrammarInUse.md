@@ -412,7 +412,7 @@
 * as if/as thoughの後ろがまるで～的な現実ではない現在の状態をいうとき、pastを使う
     * I don't like Tom. He talks as if he knew everything.
 
-## Unit 119/120
+## Unit 119
 * for/during/while: 状況やどんな時・どれくらいなどの時間の説明につかう
     * for + 具体的な期間: for a weekなど
     * during + norn: どんな状況で
@@ -420,3 +420,21 @@
 * in: 具体的な期間に対して、duringと似た状況で使える
     * in summer, during summar
 
+## Unit 120
+* byとuntilの違い
+    * by: そのときまでに、それまでに
+    * until: そのときがくるまで、continueする時間的な長さ
+* untilのあとはsentenseもOK。byはnounのみ
+* by the time S V: そのときまでにという感じのsentense
+
+## Unit 121
+* at/on/inの使い分け
+* atは１日の中の時間を指定するとき
+    * at 11:34, at night
+* onは日付を指定するとき
+    * on Friday, on my birth day
+* inは長期間を指定するとき
+    * in a week, in 1998
+* next/last/this/everyなどが付く場合はat/on/inは使わない
+    * I'll see you next Monday.
+    * 口語のときも省略する

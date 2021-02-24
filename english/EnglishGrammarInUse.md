@@ -438,3 +438,14 @@
 * next/last/this/everyなどが付く場合はat/on/inは使わない
     * I'll see you next Monday.
     * 口語のときも省略する
+
+## Unit 122
+* on time: ちょうど間に合って。遅れなしで。
+    * opposite: late
+* in time: 十分時間内に
+    * just in time
+    * opposite: too late
+* at the end: 終わりのときに
+    * opposite: at the beggining
+* in the end: finnaly、最終的に
+    * opposite: at first

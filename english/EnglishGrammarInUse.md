@@ -470,3 +470,14 @@
     * レストランなどはat/inどっちでもおｋ
 * 乗り物に乗っているときはon
     * ただし車はin
+
+## Unit 126
+* go/get/come/travel/journey/trip/visit/way/been to: どこかの場所・イベントに対して使う
+* arriveは例外
+    * arrive in: 国・町に対して
+    * arrive at: その他の場所やイベント
+* 対象がhomeの場合はto省略
+* into = enter
+    * go/get/putなどにはintoをinと省略するときあり
+    * opposite: out of
+    * 乗り物に乗るときはget on/off

@@ -471,7 +471,7 @@
 * 乗り物に乗っているときはon
     * ただし車はin
 
-## Unit 126
+## Unit 126/127
 * go/get/come/travel/journey/trip/visit/way/been to: どこかの場所・イベントに対して使う
 * arriveは例外
     * arrive in: 国・町に対して
@@ -481,3 +481,10 @@
     * go/get/putなどにはintoをinと省略するときあり
     * opposite: out of
     * 乗り物に乗るときはget on/off
+* in
+    * ペンで書くとかはin pencil, in inkなど
+* on the whole = (in generall)
+* on purpose = intentionally
+* at a/the ~ of: くらいの, 速さや程度をあらわすとき
+    * ぱっとHe left school at 16言われたときは16？てなるけど、He left the school at the age of 16.だと年齢のことだと伝わる感じ。
+    * at a speed of 300 km/h

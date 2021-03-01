@@ -488,3 +488,35 @@
 * at a/the ~ of: くらいの, 速さや程度をあらわすとき
     * ぱっとHe left school at 16言われたときは16？てなるけど、He left the school at the age of 16.だと年齢のことだと伝わる感じ。
     * at a speed of 300 km/h
+
+## Unit 128
+* by: どうやってという表現でよく使われる
+* by email, by credit cardなど、a/theなどは付けない、by + noun
+* 移動手段: by bus, by ship, by bikeなど。
+    * 徒歩だけ例外: on foot
+    * 車・タクシーで特定の車を刺すときはin my car。特定じゃないときはby carでＯＫ
+* passiveの文でも使われる
+    * withも似ているが、人・ものに不随するイメージ。省略?
+        * opened with a key
+        * opened by somebody with a key
+* next to/besideの意味でも使われる
+    * The switch is by the door
+* 差分としても使われる
+    * He won by about three dollors.
+
+## Unit 129
+* noun + for: 理由・要求など
+    * demand for, need for, reason for
+* noun + of: いろいろ
+    * an advantage of
+    * an advantage in/to
+    * cause of, a picture of, a plan of
+* noun + in
+    * an increase in, an decrease in, a rise in, a fall in
+    * There has been an increase in the number of road accidents recently.
+    * 増加がある、下降があるといってから、inで何についてみたいな
+* noun + to
+    * damage to, invitation to, solution to, key to, answer to, reply to, attitude to
+* noun + with/between
+    * relationship with, connection with, contact with: 目的語がひとつのとき
+    * relationship/connection/contact/difference between: ２つ対象のとき

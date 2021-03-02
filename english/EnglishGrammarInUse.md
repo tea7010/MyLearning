@@ -520,3 +520,18 @@
 * noun + with/between
     * relationship with, connection with, contact with: 目的語がひとつのとき
     * relationship/connection/contact/difference between: ２つ対象のとき
+
+## Unit 130/131/132
+* nice/kind/good/generous/polite/stupid/silly
+    * of {somebody}
+    * to {somebody}
+    * it is stupid of me to go out without a coat in such cold weather
+* angry/annoyed/farious/upset
+    * about {something}
+    * with {somebody} for {doing something}
+* excited/worried/nervous/happy about {situation}
+* pleased/satisfied/happy/delighted/disappointed with {something}
+* このあたりは感じで覚えていくしかない?
+* phone/call/email/text/answer/ask/thankなどはto + somebodyとはしない。直後
+* shout at: 大声で叱る、shout to: 大声で伝える
+* throw at: ぶつけるために投げる、throw to: ボールなど相手に投げる

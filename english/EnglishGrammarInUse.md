@@ -535,3 +535,42 @@
 * phone/call/email/text/answer/ask/thankなどはto + somebodyとはしない。直後
 * shout at: 大声で叱る、shout to: 大声で伝える
 * throw at: ぶつけるために投げる、throw to: ボールなど相手に投げる
+
+## Unit 133
+* verb + about
+    * talk/read/know/have a discussion/something + about
+* verb + for
+    * ask/apply/wait/search/left + for
+    * apply toは人や会社
+    * searched my house for my keys
+    * leave home for office
+* care
+    * care about: 大切に扱う
+        * I don't care what you doもaboutが省略されて、どうでもいいよみたいな
+    * care for: 面倒をみる or 好き
+    * take care of: 面倒をみる、責任をもつ
+* look
+    * look for: search
+    * look after: take care of
+
+## Unit 134
+* hear
+    * hear about: 話を聞いた
+    * hear of: 存在を聞く
+    * hear from: ～から聞く
+* think
+    * think about: そのことについて集中して考える
+    * think of: そのことについて思いつく
+* dream
+    * dream about: 寝てるときにみる夢
+    * dream of: 憧れの夢
+        * I wouldn't dream of it: めっそうもないです
+* complain
+    * complain to somebody about: 人に不満をいう
+    * complain of a pain in {}: ここが痛いという
+* remind
+    * remind somebody about: 忘れないようにというリマインド
+    * remind somebody of: 思い出させる
+* warn
+    * warn about: 危ないとか普通じゃないとか言う
+    * warn about/of: 後ほどおこることに注意する

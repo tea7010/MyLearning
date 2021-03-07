@@ -14,3 +14,13 @@
 
 * モデル作るだけならKNNでいけるかも
     * クラスタリングの結果をY、データをXとして、KNNに食わせる
+
+## 論文&参考
+* https://library.naist.jp/dspace/bitstream/handle/10061/13117/Classification_Method20190215.pdf?sequence=1&isAllowed=y
+    * ちょい違うかな
+* https://www.wantedly.com/companies/optimind/post_articles/184481
+    * なんか似てることしてそう
+* https://qiita.com/omiita/items/07e69aef6c156d23c538
+* https://deepsquare.jp/2020/07/transformer/#outline__1_1
+    * Transformer: どうやら要素同士の連続性も考慮されるらしい。
+        * 画像系より前にNLPで2017から流行。

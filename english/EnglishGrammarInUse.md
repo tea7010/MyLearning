@@ -574,3 +574,13 @@
 * warn
     * warn about: 危ないとか普通じゃないとか言う
     * warn about/of: 後ほどおこることに注意する
+
+## Unit 135
+* verb + of
+    * accuse/suspect/approve/disapprove/die/consist of
+* verb + for
+    * pay/thank/forgive/apologies/blame for
+* verb + from
+    * suffer/protect from
+* verb + on
+    * depend/rely/live/congratulate/compliment on

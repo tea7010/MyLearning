@@ -594,3 +594,15 @@
     * happen/invite/prefer to
 * verb + on
     * concentrate/insist/spend on
+
+## Unit 137
+* Phrasal verb
+    * in/on/up/away/by/about/over/round/around/out/off/down/back/through/along/forward
+* prepositionとは別で、組み合わせて使うもの
+    * run away from himなど
+* object(目的語)をとるものあり。この場合２通りの表現（順番)可能
+    * I turned on the light
+    * I turned the light on
+    * ただし pronoun(it/them/me/himなど)は、後者の場合のみ
+    * They gave me a form and told me to fill it in
+    * The baby is asleep. Don't wake him up.

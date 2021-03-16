@@ -48,4 +48,25 @@ WHERE DATE(start_date) = '2015-10-25'
 * 最初の集計関数はいろいろ使える
     * avg/min/max
     * first_value
-    * rank
+    * rank: orderの数字・ランキング
+
+
+### 3. Nested and Repeated Data
+* Nested data: カラムの値がjsonフォーマットみたいな階層構造のもの
+    * BigQueryのnestedカラムに対してのアクセス方法
+    ```sql
+    SELECT {normal_cols},
+        {nested_col}.{field_name}
+    FROM ...
+    ```
+
+* Repeated Data: カラム値がカテゴリのリストのようなものを持ってる状態のこと
+    * unpivot的な感じで展開すること
+    * `UNNEST`で展開可能
+    ```sql
+    SELECT *, unnest
+    FROM ...,
+        UNNEST({Repeated col}) AS unnest
+    ```
+* Nested/Repeatedは独立ではなく、同時に起こりうる
+    * NestedがRepeatedされてる状態, [{'a': 1}, {'a': 2}]みたいな

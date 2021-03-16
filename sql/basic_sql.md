@@ -1,6 +1,12 @@
 ## 教材
 https://www.kaggle.com/learn/intro-to-sql
 
+## 2. Select, From&Where
+* select + {columns}
+* from + {data table}
+* where + condition
+
+
 * With: Create a statement body which can be used later in the statement
     * 変数っぽい使い方ができる
     * クエリのネストを深くしないのが便利

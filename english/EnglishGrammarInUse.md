@@ -606,3 +606,37 @@
     * ただし pronoun(it/them/me/himなど)は、後者の場合のみ
     * They gave me a form and told me to fill it in
     * The baby is asleep. Don't wake him up.
+
+## Unit 138
+* inとout
+* in: 部屋に入る、建物に入る、車にはいるなど
+    * get in
+    * let yourself in
+    * dive in
+    * move in
+    * check in
+    * go in
+    * come in
+    * break in
+    * walk in
+    * drop in: 立ち寄る
+    * join in: 参加する
+    * plug in: 刺す
+    * fill in: 記入する or fill outでも一緒
+    * take somebody in: 騙す
+* out: 出る感じ
+    * walk out
+    * lock out: 外に閉め出される感じ
+    * climb out: 上って出る感じ
+    * look out: 外を見る
+    * check out
+    * go out
+    * get out
+    * move out
+    * let somedoby out
+    * eat out: 外食する
+    * drop out: 途中でやめる
+    * get out: 無理やりやらされる
+    * cut something out: 切り取る
+    * leave something out: 省略する、含めない
+    * cross/rub something out: 取り消し線みたいな

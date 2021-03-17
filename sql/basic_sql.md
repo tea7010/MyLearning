@@ -6,7 +6,14 @@ https://www.kaggle.com/learn/intro-to-sql
 * from + {data table}
 * where + condition
 
+## 3. Group By, Having & Count
+* Count: 要素数を返す集計関数
+  * Count(1): 無駄なスキャンが減るテクのひとつ。とにかく要素数を返してくれる
+* Group by: カテゴリ毎にグループとする
+  * selectのカラムはbyのカラム以外は、集計関数を通して渡す必要あり
+* Having: Group byでグループに対する条件を記述
 
+## 5. As & With
 * With: Create a statement body which can be used later in the statement
     * 変数っぽい使い方ができる
     * クエリのネストを深くしないのが便利

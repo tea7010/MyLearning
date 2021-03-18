@@ -640,3 +640,17 @@
     * cut something out: 切り取る
     * leave something out: 省略する、含めない
     * cross/rub something out: 取り消し線みたいな
+
+## Unit 139
+* out: 燃えてない、光ってない
+    * go out, put out a civarette, turn out, blow out
+* work out: phisical exercise, develop, progress, mathematical calculation
+* carry out: 実行する
+* fall out: 友達じゃなくなる、絶交?
+* find out (about): get information
+* give/hand things out: 配布する
+* point something out: 指摘する
+* run out: 切れる、消費しつくす
+* sort something out: 解決するために整理する
+* turn out: 明らかになる
+* try out: 問題ないか試す

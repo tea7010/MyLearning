@@ -654,3 +654,37 @@
 * sort something out: 解決するために整理する
 * turn out: 明らかになる
 * try out: 問題ないか試す
+
+## Unit 140
+* on/off: 電気や機械をつける・消す
+    * be on, put it on, 
+    * leave the light on
+    * switch it off
+* on/off: イベントについて
+    * go on: happen
+    * call off: cancel
+    * put off: delay
+* on/off: 服や体重
+    * put on: 服や装飾を付ける、太る
+    * try on: 服を試着する
+    * take off: 服や装飾を外す
+* on/off: 人や場所がどっかに行く
+    * I'm off: 休日
+    * wakl/run/deive/ride/go off: どっか行く
+    * set off: 出発する
+    * take off: 飛行機が飛ぶ
+    * see somebody off: 見送る
+* verb + on: 続ける、継続する
+    * drive/walk/play on: 走り続ける、やりつづける
+    * go/carry on: やり続ける
+        * go on with what you're doing
+    * keep on
+* Get on: 進み、人間関係がいい、やらないといけないことをやる
+* Verb + off
+    * doze/drop/nod off: 眠りに落ちる
+    * finish something off: 最後の部分をやる
+    * go off: 爆発、けたたましく音が鳴る
+    * put somebody off: そうしようとさせない
+    * rip somebody off: 騙す、チートする
+    * show off: 見せびらかす
+    * tell somebody off: 間違ったことに怒る

@@ -655,7 +655,7 @@
 * turn out: 明らかになる
 * try out: 問題ないか試す
 
-## Unit 140
+## Unit 140/141
 * on/off: 電気や機械をつける・消す
     * be on, put it on, 
     * leave the light on
@@ -688,3 +688,22 @@
     * rip somebody off: 騙す、チートする
     * show off: 見せびらかす
     * tell somebody off: 間違ったことに怒る
+
+## Unit 142
+* up/down: 上下
+* put something up <-> take something down
+* pick something up <-> put somethind down
+* stand up <-> sit down/bend down/lie down
+* turn something up <-> turn something down
+* Verb + down
+    * knock down: 崩れる感じ, 倒す
+    * blow down: 吹いて壊れる?
+    * cut down: 切り倒す、切り詰める, お金食料など
+    * burn down: 火で崩れる
+    * slow down: ゆっくりにする
+    * clam down: 静かにする
+    * break down: 機械などが動かなくなる
+    * close/shut down: 閉店する、ビジネスが止まる
+    * let somebody down: 失望させる
+    * turn somebody down: 断る
+    * write something down: 忘れないように書く

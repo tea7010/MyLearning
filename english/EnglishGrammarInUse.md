@@ -707,3 +707,21 @@
     * let somebody down: 失望させる
     * turn somebody down: 断る
     * write something down: 忘れないように書く
+
+## Unit 143
+* go/walk/come up: approach
+* catch up (with somobody): 追いつく
+* keep up (with somebody): そのまま続ける
+* set up: 会議やシステム・組織など設定する
+* take up: やり始める
+* fix up: 会議などfixする
+* grow up: 大人になる
+* bring up: 子供を育てる
+* clean/clear/tidy up: 整理整頓する
+* wash up: 皿洗いする
+* end up somewhere or doing: 最終的にたどり着く、する
+* make up something: 構成する
+    * Air is made up mainly of N2 and O2
+* take up space or time: 時間や場所を使う
+* turn up/show up: 現れる
+* use something up: 残さず使う

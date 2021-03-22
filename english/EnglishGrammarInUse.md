@@ -708,7 +708,7 @@
     * turn somebody down: 断る
     * write something down: 忘れないように書く
 
-## Unit 143
+## Unit 143/144
 * go/walk/come up: approach
 * catch up (with somobody): 追いつく
 * keep up (with somebody): そのまま続ける
@@ -722,6 +722,22 @@
 * end up somewhere or doing: 最終的にたどり着く、する
 * make up something: 構成する
     * Air is made up mainly of N2 and O2
+* make something up: でっちあげる
 * take up space or time: 時間や場所を使う
 * turn up/show up: 現れる
 * use something up: 残さず使う
+* bring up/come up: 話題にあげる
+* come up with an idea: 思い付く
+* cheer up/cheer somebody up: 幸せにする
+* save up: お金を貯める、貯金する
+* clear up: 天気が良くなる
+* blow up: 吹き飛ばす
+* tear something up: ばらばらになる
+* beat somebody up: ぼこぼこにする
+* break up/split up: 分かれる、別れる
+* do up a coat/shoelace: 結ぶ
+* do up a building: 修繕する
+* look something up in dictionary: 辞書を引く
+* put up with: 許容する
+* hold up a plan: 遅れる
+* mix up: 混同する

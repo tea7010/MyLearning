@@ -741,3 +741,17 @@
 * put up with: 許容する
 * hold up a plan: 遅れる
 * mix up: 混同する
+
+## Unit 145
+* away/back: from home, place, person
+* get away: 逃げる
+    * get away with: なんとか捕まらずに済んだ
+* keep away: 近づかない
+* give something away: 不要だからあげる
+* put something away: 片づける
+* throw something away: ごみ箱に捨てる
+* wave/smile/shout/write/hit somebody + back: 返す
+* call/phone/ring back: 折り返し電話
+* get back to somebody: 返信する
+* look back (on something): 思い返す
+* pay back: 金を返す

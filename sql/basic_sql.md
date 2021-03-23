@@ -13,6 +13,13 @@ https://www.kaggle.com/learn/intro-to-sql
   * selectのカラムはbyのカラム以外は、集計関数を通して渡す必要あり
 * Having: Group byでグループに対する条件を記述
 
+## 4. ORDER BY
+* Order by: ソートするもの。最後に記述する
+* 逆順にしたいときは`DESC`を隣に記述
+  * `ORDER BY {colname} DESC`
+* EXTRACT: date/datetime型から、year/dayなどを抜き出す関数
+  * `EXTRAXT(week from DateCol)`
+
 ## 5. As & With
 * With: Create a statement body which can be used later in the statement
     * 変数っぽい使い方ができる

@@ -1,3 +1,11 @@
+## Unit 1
+* Present continuous: be + doing
+* 始まってはいるが、終わってはない状態
+* 今現在その動作が継続中じゃなくても、終了していない状態であればこの表現
+* また、最近変わり始めている・起こっていることについても
+    * get, change, become, increase, rise, fall grow, improve, begin, start
+
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

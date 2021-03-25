@@ -4,6 +4,18 @@
 * 今現在その動作が継続中じゃなくても、終了していない状態であればこの表現
 * また、最近変わり始めている・起こっていることについても
     * get, change, become, increase, rise, fall grow, improve, begin, start
+* always doing: やりすぎくらいやってるみたいな
+
+## Unit 2/3
+* present simple: do
+* 常に起こっていることや、繰り返し起こっていること、一般的に真であること
+* 疑問にはdo/doesを使う
+* 頻度を表現するときにもpresent simple
+    * Juli doensn't drink tea very often
+* promise/suggest/apologise/advise/insist/agree/refuseなど
+    * 宣言系
+    * これらにはingで表現しない
+* always do: いつもやってる. やりすぎ(always doing)ではない
 
 
 ## Unit 69/70/71

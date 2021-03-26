@@ -20,3 +20,4 @@
 * 同意書: consent form, agreement
 * 制限をかける: put a restriction
 * 形式上の: operational, formally, political
+* 誰か知ってる？: Does anyone know ...?

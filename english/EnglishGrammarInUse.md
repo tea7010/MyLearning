@@ -17,6 +17,20 @@
     * これらにはingで表現しない
 * always do: いつもやってる. やりすぎ(always doing)ではない
 
+## Unit 4
+* present continuousの形を使わないが、意味的にはそうな単語
+    * like/want/need/prefer/know/relise/suppose/mean/understand/believe/remember/belog/fit/contain/consist/seem
+    * これらはI'm knowingみたいな使い方はしない
+* present continous/simple意味が違うものあり
+    * think: 信じてる・意見がある
+    * thinking: 考える
+* see/hear/smell/taste: 感覚的・神経系のものはsimpleを使う
+    * look/feelはどっちでもいける
+* selfish
+    * being: acting/behaving
+    * being selfish: わがままのようにふるまっている(そのときは)
+    * is selfish: わがままである(いつも)
+
 
 ## Unit 69/70/71
 * Countable noun

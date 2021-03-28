@@ -31,6 +31,12 @@
     * being selfish: わがままのようにふるまっている(そのときは)
     * is selfish: わがままである(いつも)
 
+## Unit 5
+* Past simple: 過去に起こったこと
+* 疑問にはdid/didn'tを使う
+    * doesの過去はdidなので使い分け必要なし
+* beの過去形は、was/were
+    * 疑問でもbe系はこれつかうので、didと使い分け必要
 
 ## Unit 69/70/71
 * Countable noun

@@ -38,6 +38,14 @@
 * beの過去形は、was/were
     * 疑問でもbe系はこれつかうので、didと使い分け必要
 
+## Unit 6
+* Past continuous: 過去でその時点で終わってなかった継続中のもの
+* Started doing -> ---- was doing --- -> Finished doing
+* past simpleはその過去の全体的にそうだった事実について
+    * I walked home after the party last night.
+* when, whileなどとpast simple, past continuousを同時に使う
+    * It was raining when I got up.
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

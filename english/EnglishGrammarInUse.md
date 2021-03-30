@@ -46,6 +46,18 @@
 * when, whileなどとpast simple, past continuousを同時に使う
     * It was raining when I got up.
 
+## Unit 7
+* Present Perfect (simple): 起こってから状態が継続的である様子
+    * have/has + past participle
+* goneとbeenの違い: goneはまだ行ってる状態、beenはもう帰ってきてる状態
+* just/yet/already: 現在と比べて詳細なPresetn perfect
+    * just: a hort time ago, ほんの少し前
+    * already: happened sooner than expected, 想像よりも早かったとき
+    * yet: 起こると期待しているとき, negative/questionの時に使う
+* past simpleも、goneなどとは同じような感じでも使える
+    * Are you hangry?, No, I just had lunch. or No, I've just had lunch.
+
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

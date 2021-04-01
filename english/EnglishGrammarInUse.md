@@ -65,14 +65,27 @@
 * Has happened
     * It's the first time this has happened
 
-## Unit 9/10
+## Unit 9/10/11
 * Present perfect continuous: ちょうど今 or 最近、完了したもの
     * have/has been ~ing
 * 時間的な長さと共に使うときは、今も継続中な状態
     * how long, since, for
     * 期間がないと今終わったものなのか継続中か区別が付かないので注意
     * 今も続いているものはpresent continuousでもOK
+* know/like/believeなどは、Present perfect continuousは使えない
+    * present simple使うのと一緒
 
+## Unit 12
+* Presetn perfect simple/continuousで使うfor/sinceの違い
+    * for + 期間
+    * since + 開始点
+* いつ始まったのか、どれくらいの間などの時間を聞くときwhen or how long
+    * when did they first meet?
+        * They first met a long time ago/when they were at school
+    * How long have they known each other?
+        * they've known each other for a long time/since they were at scholl
+* It's two years or It's been two years
+    * It's ages since we...: ご無沙汰だ
 
 ## Unit 69/70/71
 * Countable noun

@@ -87,18 +87,22 @@
 * It's two years or It's been two years
     * It's ages since we...: ご無沙汰だ
 
-## Unit 13
+## Unit 13/14
 * Present perfectとpastの違い: 
-    * Present perfect: 今も継続中ではない
+    * Present perfect: 今も継続中ではない or sinceなどがあると継続中
         * It has stopped raining: 雨はあるときから止んでいる
     * past: 過去の事象を伝えているだけ。今も継続中かどうかは言っていない
         * it stopped raining: 雨は少なくとも過去の1時点では止んだ
 * どっちでもいける説明もある: かなり前に完了したことをいうときはpastで言う、最近のことはどっちでもOK
     * I repaired, I've repairedなど
     * invented: 過去に発明されたものに対して　have invented: 最近発明されたものに対して
-* present perfectから始まった会話の応対には、pastを使う
-    * Machine has broken... When did you know that?
-
+* Past simpleじゃないとダメなとき
+    * present perfectから始まった会話の応対
+        * Machine has broken... When did you know that?
+    * 具体的に完了した時について言及するとき
+        * Did you visit a lot of country when you were a child?
+    * when/how longなどの疑問文のとき
+        * What time did you finish work?
 
 ## Unit 69/70/71
 * Countable noun

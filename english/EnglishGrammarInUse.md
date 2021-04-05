@@ -109,6 +109,10 @@
     * 個々のある時点について言及されてないと多分単独では使わない
     * When I got home the night, she had already been to the restaurant.
 
+## Unit 16
+* Past perfect continuous: 過去のある時点でちょうど完了したもの or 継続中だったもの
+* It wasn't wet when we went out. It was shining, but I had been raining, so the ground was wet.
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

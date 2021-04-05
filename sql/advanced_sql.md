@@ -70,3 +70,12 @@ WHERE DATE(start_date) = '2015-10-25'
     ```
 * Nested/Repeatedは独立ではなく、同時に起こりうる
     * NestedがRepeatedされてる状態, [{'a': 1}, {'a': 2}]みたいな
+
+### 4. Writing Efficient Queries
+* 速度・サーバへの負荷の観点から、効率的なクエリのTips
+* 無駄な列を読まないこと
+    * O: 要なカラムをselectに書く
+    * x: 不要なselect *
+* N:NのJoinをしない
+    * どちらもキーが単一でないjoinには時間がかかる
+    * どちらか or 療法でキーが単一になるように、with/groupbyで集計して、joinするのがベター

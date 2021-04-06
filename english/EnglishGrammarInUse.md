@@ -113,6 +113,22 @@
 * Past perfect continuous: 過去のある時点でちょうど完了したもの or 継続中だったもの
 * It wasn't wet when we went out. It was shining, but I had been raining, so the ground was wet.
 
+## Unit 17
+* have: possess, relationship, ilness
+    * = have got
+    * continuousはknowみたいな感じで使わない
+* 疑問形はhave -> Do/does you ...?, have got -> Have you got...?
+* have gotは使わない状況: 何かを食べる・飲む、風呂に入る、休憩をとる、経験する、見る、会話する、時間を過ごす、出くわす、生まれる
+    * countinuousもOK
+
+## Unit 18
+* Used to + verb: 過去にあったこと（今は違うこと）をいうとき
+    * pastでも同じように言える状況もあるが、used toは過去に頻繁にやっていたことを表現可能
+* there used to be: there isの過去はああだったが、的な
+* Did you used to + verb...?: 過去なので常にDid
+* I didn't used to + verb...: 過去なので常にdid
+* be used to + ~ing: 慣れていると混同しないこと
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

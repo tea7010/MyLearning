@@ -129,6 +129,18 @@
 * I didn't used to + verb...: 過去なので常にdid
 * be used to + ~ing: 慣れていると混同しないこと
 
+## Unit 19/20
+* Present tenses: Present countinuous/simpleはいまからやることが決まっていることについて使える
+* present coutinuous(I'm doing): 人・ものごともうすでに予定として決まっているものについて
+    * I'm not working on Sunday.
+* present simple: タイムテーブルがあるもの、プログラムされているものについて
+    * The train leaves at 11:40.
+* I'm going to do: やるときめたこと, 予想できるもの
+    * I'm leaving: やるときめて、アレンジ（準備・手筈みたいな）しているもの
+    * I'm going to leave: やるときめたが、まだアレンジしてないもの
+    * I was going to: やろうと思っていたが、やってないもの
+
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

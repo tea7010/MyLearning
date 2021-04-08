@@ -140,6 +140,24 @@
     * I'm going to leave: やるときめたが、まだアレンジしてないもの
     * I was going to: やろうと思っていたが、やってないもの
 
+## Unit 21/22
+* will: ちょうどやることを決めたこと
+    * 自分の選択を伝えるとき、提案するとき、同意とアクション、約束、お願いするときなど
+    * 未来の予想を伝えるとき
+* 予定として決まっているものについてはpresent continuous, tenseでwill使わない
+    * Are you working on Suturday?
+* I think I'll: 何かすると思うみたいな
+* 口語ではwon'tが使われる
+* よくwillに付属するもの
+    * I'll probably drink everyday.
+    * I'm sure he'll go there.
+    * Do you think she will want to back here?
+    * I don't think he will finish it.
+    * I wonder what he will create.
+* I hope: willを省略してもいい
+* shall: 提案について意見を聞くときに使う, 
+    * Shall I shut the door?: 閉めてもいいっすか？みたいな
+    * 疑問以外にもwillの代わりに使えるが、I/weに対してしか使わない
 
 ## Unit 69/70/71
 * Countable noun

@@ -140,12 +140,15 @@
     * I'm going to leave: やるときめたが、まだアレンジしてないもの
     * I was going to: やろうと思っていたが、やってないもの
 
-## Unit 21/22
+## Unit 21/22/23
 * will: ちょうどやることを決めたこと
     * 自分の選択を伝えるとき、提案するとき、同意とアクション、約束、お願いするときなど
     * 未来の予想を伝えるとき
 * 予定として決まっているものについてはpresent continuous, tenseでwill使わない
     * Are you working on Suturday?
+* 意思がいつ決まったものかで使い分ける
+    * いまちょうど決めた -> will
+    * 今より前に決めた -> be going to
 * I think I'll: 何かすると思うみたいな
 * 口語ではwon'tが使われる
 * よくwillに付属するもの

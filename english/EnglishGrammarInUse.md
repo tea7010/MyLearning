@@ -162,6 +162,12 @@
     * Shall I shut the door?: 閉めてもいいっすか？みたいな
     * 疑問以外にもwillの代わりに使えるが、I/weに対してしか使わない
 
+## Unit 24
+* will be doing: 将来のそのときにやっているであろうこと
+* will have done: 将来のそのときまでにcompleteしているであろうこと
+
+
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

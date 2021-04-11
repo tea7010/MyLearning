@@ -166,6 +166,14 @@
 * will be doing: 将来のそのときにやっているであろうこと
 * will have done: 将来のそのときまでにcompleteしているであろうこと
 
+## Unit 25
+* when: 未来のことについても、present tense or present perfectを使う
+* 同じ使い方: while/before/after/as soon as/untill/till
+* 同時に起こること: when + present tense
+* 順番があること: when + present perfect
+* if: ifも同じようにpresent tense
+    * if: 起こるか分からないことについて
+    * when: 確実に起こることについて
 
 
 ## Unit 69/70/71

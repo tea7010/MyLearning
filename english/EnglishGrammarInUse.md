@@ -175,6 +175,12 @@
     * if: 起こるか分からないことについて
     * when: 確実に起こることについて
 
+## Unit 26
+* Can/could/be able to: 可能性がある、許可されている、能力がある
+* can/could: simpleとpastのみだが、be able toはほかのperfectでも使える
+    * I can't sleep <-> I haven't been able to sleep recently.
+* couldは過去にあった一般的な能力や感じられたこと
+    * 過去の特別な状況で出来た（勝てたなど）は、was able to/managed toを使う
 
 ## Unit 69/70/71
 * Countable noun

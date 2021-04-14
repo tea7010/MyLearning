@@ -188,6 +188,10 @@
     * may/mightと同じニュアンス
 * it couldn't be better: これ以上いいことないよ
 
+## Unit 28
+* must/can't: 確信を持っている状態、can'tはnotなはずという確信
+* must have/can't have: 過去に確信を持っていた状態
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

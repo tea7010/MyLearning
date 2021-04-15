@@ -192,6 +192,13 @@
 * must/can't: 確信を持っている状態、can'tはnotなはずという確信
 * must have/can't have: 過去に確信を持っていた状態
 
+## Unit 29
+* may/might: 可能性があること、状態
+* may/might have done: 過去に可能性があったこと
+* couldも似たニュアンスだが、couldn'tとmight/may notは確信度が違う感じ
+    * couldn't: 絶対そうではないはず
+    * might not: おそらくそうではないはず
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

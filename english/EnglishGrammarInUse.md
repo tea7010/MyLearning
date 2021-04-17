@@ -192,12 +192,19 @@
 * must/can't: 確信を持っている状態、can'tはnotなはずという確信
 * must have/can't have: 過去に確信を持っていた状態
 
-## Unit 29
+## Unit 29/30
 * may/might: 可能性があること、状態
 * may/might have done: 過去に可能性があったこと
 * couldも似たニュアンスだが、couldn'tとmight/may notは確信度が違う感じ
     * couldn't: 絶対そうではないはず
     * might not: おそらくそうではないはず
+* may/might: 未来に対しての可能性
+    * will: 確信がある
+    * may/might: 多分
+    * 現実的にありえないような状況だったら、mayではなくmightを使う（仮定的な）
+    * may/might be + ~ing: 未来のある時点でやっているであろうこと（多分）
+* may/might as well: ほかに選択肢がなくそうした方がよさそうなとき、せざるを得ない的な
+    * The last train has gone. we might as well get a taxi...
 
 ## Unit 69/70/71
 * Countable noun

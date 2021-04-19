@@ -206,6 +206,27 @@
 * may/might as well: ほかに選択肢がなくそうした方がよさそうなとき、せざるを得ない的な
     * The last train has gone. we might as well get a taxi...
 
+## Unit 31
+* have to/must: する必要があるとき、外的にしないといけない
+    * 未来: will have to
+    * たぶん: might have to
+    * 過去: had to
+    * mustは現在以外には使えない
+* must/have toは否定の意味が違う
+    * mustn't: してはならない
+    * don't have to: 必要がない
+* have got to: have toと同じ意味で使える
+    * When has she got to go?
+* need: 必要がある
+    * need to do
+* needの否定は２つある
+    * needn't
+    * don't need to
+* needn't haveとdidn't needは若干違う
+    * needn't have done: する必要がなかったがやったことについて
+    * didn't need: する必要がなかった。やったかどうかは不問. didn't have toと同義
+* You needn't have filled the cell. it was an option.
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

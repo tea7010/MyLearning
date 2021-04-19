@@ -8,3 +8,8 @@
 ## 2021/04/18: 1 speaking, 1 free talk
 * Vocabrary + そのワードの使い方・状況を覚えること
 * Grammerはそれに付いてくる
+
+## 2021/04/19: 1 free talk
+* besides: それに加えて
+* Grand master: masterの最高位的な
+* beep: shot/single tone mede by a computer

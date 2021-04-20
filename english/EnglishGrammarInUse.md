@@ -206,7 +206,7 @@
 * may/might as well: ほかに選択肢がなくそうした方がよさそうなとき、せざるを得ない的な
     * The last train has gone. we might as well get a taxi...
 
-## Unit 31
+## Unit 31/32
 * have to/must: する必要があるとき、外的にしないといけない
     * 未来: will have to
     * たぶん: might have to
@@ -226,6 +226,30 @@
     * needn't have done: する必要がなかったがやったことについて
     * didn't need: する必要がなかった。やったかどうかは不問. didn't have toと同義
 * You needn't have filled the cell. it was an option.
+
+## Unit 33/34
+* should: したほうがいい、するほうが正しい、するはず（mustよりは弱い?)
+* should have done: してた方がよかった（結果的にやってなかったことについて)
+* ought to: shouldの代わりに使える
+    * ought to have done: 過去
+* insist/demand/recommend/sugest/proposeの後に、shouldで何を主張・提案したかを説明(should省略可)
+    * I proposed everyone should speak English
+    * present simple or past tensesも可能
+    * suggestは~ingの用法もあり
+* It's important/essensial/neccesary/vitalのあとに、shouldで何が大事・必要かを説明(should省略可)
+    * It's important that we confirm the request or question from them.
+    * present simple or past tensesも可能
+* if ... should ~: （shouldなしより可能性は低いが）もしそうなら
+    * if the sisuation should change, I can go abroad.
+* I should: もし自分なら、こうするという仮定法の使い方もあり 
+
+## Unit 35
+* had better do: 特別な状況でやったほうがいい(やらないと後悔するぞ的な強い推奨)
+    * generalな用途では使わない
+    * 否定: had better not
+* It's (about) time ...: そろそろのはずだが、みたいな
+    * It's time to go to bed: 寝る時間だが
+    * It's time we went home: そろそろ家に帰るはずだが
 
 ## Unit 69/70/71
 * Countable noun

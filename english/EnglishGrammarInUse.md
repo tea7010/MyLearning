@@ -251,6 +251,18 @@
     * It's time to go to bed: 寝る時間だが
     * It's time we went home: そろそろ家に帰るはずだが
 
+## Unit 36
+* would: 状況を想像する、させたいとき（現実とは違うとき)
+    * it would be nice
+* would have done: 過去に現実とは違うが、こうだっただろう的な
+
+## Unit 37
+* 人にお願いしたいとき: can you...?, could you..?, will you...?
+    * より丁寧に: do you think you could ...?
+* 人にものを取ってほしい、買いたいとき: can I have..? can I get...?, May I have...?
+* 自分がやっていいか聞くとき: Can I do...?, May I do...? Do you mind if...? is it all right ...? is it OK ...?
+* 提案するとき: Can I do...? would you like...?
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

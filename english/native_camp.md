@@ -22,3 +22,13 @@
 ## 2021/04/21: 2 speaking
 * designated: 指定された、専用の
 * right/left turn: 右折・左折
+
+## 2021/04/22: 1 speaking
+* don't tell a soul: 誰にも言わないで 
+* It's good to see you. It's been ages!: 会えてよかった、久しぶりだね
+* Is everything clear to you?: 理解できた？
+* I'm sorry. I didn't mean it.: すまん、そういう意味じゃなかった
+* Could you say it again ?: もっかい言ってくれ
+* Oh, I'm sorry to hear that.: まじか
+* For a change, try this one.: 息抜きにこれどう？
+* Are you serious?: まじで？

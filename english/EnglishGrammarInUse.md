@@ -263,6 +263,18 @@
 * 自分がやっていいか聞くとき: Can I do...?, May I do...? Do you mind if...? is it all right ...? is it OK ...?
 * 提案するとき: Can I do...? would you like...?
 
+## Unit 38/39
+* if I doとIf I didの違い: ifの内容が現実的かどうか
+    * If I do: ありえそうなとき、whenに近い感じ?
+    * If I did: ありえそうにない状況. 過去ではないので注意
+* ifの過去もし過去にこうだったらは、多分had doneになるが、現在が違うので同じような使い方
+* if + past, I would: もしこうだったら、こうするのにみたいな
+    * I wish I + past: 同じようなニュアンス
+
+## Unit 40
+* if I had..., I have done: もしこうだった（過去）のなら、こうした（過去）のに
+    * I wish I had...
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

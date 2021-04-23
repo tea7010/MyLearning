@@ -32,3 +32,6 @@
 * Oh, I'm sorry to hear that.: まじか
 * For a change, try this one.: 息抜きにこれどう？
 * Are you serious?: まじで？
+
+## 2021/04/23: 1 speaking
+* I got up 7 Am today.-->I got up at 7 AM today.

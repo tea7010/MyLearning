@@ -36,10 +36,18 @@
 ## 2021/04/23: 1 speaking
 * I got up 7 Am today.-->I got up at 7 AM today.
 
-## 2021/04/24: 2 peaking
+## 2021/04/24: 2 speaking
 * criminals
 * crime is (countable, noun) a specific act committed in violation of the law while criminal(adjective) is a person who is guilty of a crime, notably breaking the law. 
 * practitioner -  one who practices a profession
 * takes part in: 参加する  
 * exercise properly: 適度な運動
 * The lesson goes sideways: レッスンが横にそれる
+
+## 2021/04/25: 1 speaking
+* He should assist his friend when the teacher is watching him
+* He should find something like lope or floating things to help him
+* report the incident to the police
+* reprimand: a formal expression of disapproval. 譴責
+* debris: scattered pieces of rubbish or remains. 落ちてきたりする危ないもの
+* sturdy: 強い、頑丈な

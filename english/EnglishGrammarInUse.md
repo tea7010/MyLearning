@@ -271,9 +271,16 @@
 * if + past, I would: もしこうだったら、こうするのにみたいな
     * I wish I + past: 同じようなニュアンス
 
-## Unit 40
+## Unit 40/41
 * if I had..., I have done: もしこうだった（過去）のなら、こうした（過去）のに
     * I wish I had...
+* I wish + noun: 現在で何かを願うとき
+    * I wish you all the best in the future.
+* X: I wish that somebody happes: ダメ
+    * I hopeを使う
+    * I hope you have a plesant stay here.
+* I wish I could do: 出来なくて後悔していること（present)
+* I wish I could have done: 出来なくて後悔していること(past)
 
 ## Unit 69/70/71
 * Countable noun

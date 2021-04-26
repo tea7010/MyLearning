@@ -51,3 +51,12 @@
 * reprimand: a formal expression of disapproval. 譴責
 * debris: scattered pieces of rubbish or remains. 落ちてきたりする危ないもの
 * sturdy: 強い、頑丈な
+
+## 2021/04/26: 1 speaking
+* flunked: failing
+* He should start to study harder and stop playing video games.
+* convince: persuade
+* force somebody to do: 強要する
+* There's no special reason
+* his current phone still works well
+* He should tell before the 10min time of their meeting that his going to be late.

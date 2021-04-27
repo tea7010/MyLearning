@@ -60,3 +60,8 @@
 * There's no special reason
 * his current phone still works well
 * He should tell before the 10min time of their meeting that his going to be late.
+
+## 2021/04/27: 1 speaking
+* my best friend is ... who I met when I was 1st year in university. 
+* very often: あまり頻繁でない
+* My favorite actor is Harrison Ford he played the ruled of Han solo.

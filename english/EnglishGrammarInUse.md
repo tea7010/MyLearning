@@ -282,6 +282,9 @@
 * I wish I could do: 出来なくて後悔していること（present)
 * I wish I could have done: 出来なくて後悔していること(past)
 
+## Unit 42
+* be(is/was) + past particle: Passive
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

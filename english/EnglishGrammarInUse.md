@@ -282,8 +282,16 @@
 * I wish I could do: 出来なくて後悔していること（present)
 * I wish I could have done: 出来なくて後悔していること(past)
 
-## Unit 42
+## Unit 42/43
 * be(is/was) + past particle: Passive
+* infinitive
+    * active: (somobody) is going to build a new spermarket next year.
+    * passive: A new spermarket is going to be built next year.
+* perfect infinitive: The room should have been cleaned(掃除されたはず)
+* perfect complete: It has been cleaned(掃除完了されている)
+* Past perfect: It had been cleaned(掃除された)
+* Present continuous: It is being cleaned(今掃除されている)
+* Past continuous: It was being cleaned（その時掃除されていた）
 
 ## Unit 69/70/71
 * Countable noun

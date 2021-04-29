@@ -16,3 +16,6 @@
 * and vice versa: 逆もまた然り
 * I was born in {year} of {month} {day} or on {month} {day} in {year}
 * masion - rich person`s house
+* friend from college: 大学の時の友達（大学の時からの友達という意味でfrom)
+* ever since college: 大学以来の
+* callous: 硬くなった

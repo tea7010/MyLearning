@@ -47,7 +47,9 @@
 * strive: 努力する
 * I work for ~hours everyday
 * very often: あまり頻繁でない
-
+* count on: rely
+* hooked on: 熱中する
+* boredom: boreのnoun
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

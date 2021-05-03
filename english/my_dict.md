@@ -3,7 +3,6 @@
 ###### tags: `hobby`
 
 ## 単語帳
-
 * beep: shot/single tone mede by a computer
 * don't tell a soul: 誰にも言わないで 
 * It's good to see you. It's been ages!: 会えてよかった、久しぶりだね
@@ -50,6 +49,12 @@
 * count on: rely
 * hooked on: 熱中する
 * boredom: boreのnoun
+* off to bed: go to bed
+* 戻る: come back, be back, return, go back
+* put up: construction, build
+* contented: satisfied, happiness
+* hang out: 遊ぶ(playは何かで遊ぶ感じだが、これはざっくりと遊ぶ感じ)
+* fully aware: しっかり認識している
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -64,6 +69,11 @@
 * どんな種類の移動手段で仕事いってる？
     * what kind of transportation do you take when you go to work?
     * How dou you go to the office?
+* なにが忙しかった？
+    * What made you busy?
+* どうかした？
+    * What's wrong with you?
+    * What's the matter?
 
 ## オンライン英語使い方
 
@@ -100,3 +110,4 @@
 * 制限をかける: put a restriction
 * 形式上の: operational, formally, political
 * 誰か知ってる？: Does anyone know ...?
+* 正確には: Strictly speaking, actually, to be accurate, to be precise, correctly,

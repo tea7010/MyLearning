@@ -55,6 +55,8 @@
 * contented: satisfied, happiness
 * hang out: 遊ぶ(playは何かで遊ぶ感じだが、これはざっくりと遊ぶ感じ)
 * fully aware: しっかり認識している
+* How often = How many times = How frequently
+* cremation: 火葬
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -74,6 +76,8 @@
 * どうかした？
     * What's wrong with you?
     * What's the matter?
+* どれくらい掛かるの？（時間)
+    * How long does it take...
 
 ## オンライン英語使い方
 

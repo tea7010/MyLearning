@@ -293,6 +293,13 @@
 * Present continuous: It is being cleaned(今掃除されている)
 * Past continuous: It was being cleaned（その時掃除されていた）
 
+## Unit 44
+* give/ask/offer/pay/show/teach/tellなどは、目的語を二つ持つので２通りのpassiveが作れる
+* されることが好きでない
+    * I don't like people telling me what to do
+    * I don't like being told what to do
+* be -> getとしてpassiveで代用可能（口語でよく使われる）
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

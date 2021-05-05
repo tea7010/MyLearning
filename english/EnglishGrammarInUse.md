@@ -300,6 +300,10 @@
     * I don't like being told what to do
 * be -> getとしてpassiveで代用可能（口語でよく使われる）
 
+## Unit 45
+* It is said that somebody = somebody is said that
+* be supposed to: said that, or 予想される、そのはず
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

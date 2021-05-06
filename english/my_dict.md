@@ -78,6 +78,8 @@
     * What's the matter?
 * どれくらい掛かるの？（時間)
     * How long does it take...
+* じっと見ていたら気づくよ
+    * You can find them If you stare at a streetlight at the night
 
 ## オンライン英語使い方
 

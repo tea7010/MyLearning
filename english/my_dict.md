@@ -57,6 +57,9 @@
 * fully aware: しっかり認識している
 * How often = How many times = How frequently
 * cremation: 火葬
+* What makes you want to go there?: なんでそこ行きたいの？
+* violation fee: 違反金
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

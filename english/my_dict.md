@@ -59,7 +59,7 @@
 * cremation: 火葬
 * What makes you want to go there?: なんでそこ行きたいの？
 * violation fee: 違反金
-
+* pharmacy = drugstore: 薬局
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -83,6 +83,9 @@
     * How long does it take...
 * じっと見ていたら気づくよ
     * You can find them If you stare at a streetlight at the night
+* 県は...が生産量一位です
+    * ~ is the largest producer of ... in Japan
+
 
 ## オンライン英語使い方
 

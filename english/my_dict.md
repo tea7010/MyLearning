@@ -60,6 +60,7 @@
 * What makes you want to go there?: なんでそこ行きたいの？
 * violation fee: 違反金
 * pharmacy = drugstore: 薬局
+* cope with/deal with: 対処する、対応する
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

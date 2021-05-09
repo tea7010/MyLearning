@@ -304,6 +304,13 @@
 * It is said that somebody = somebody is said that
 * be supposed to: said that, or 予想される、そのはず
 
+## Unit 46
+* Have something done: 誰かにsomethingをdoneさせる
+    * have + {object} + {past participle}
+    * 髪を切る: I had my fair cut
+    * 車を修理する: had your car serviced
+* get something doneでも同じように使える
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

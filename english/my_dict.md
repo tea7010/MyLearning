@@ -61,6 +61,11 @@
 * violation fee: 違反金
 * pharmacy = drugstore: 薬局
 * cope with/deal with: 対処する、対応する
+* ready-to-cook: 即席的な（料理）
+* clingy: 依存的な
+* free flowing: 流れやすい
+* pram: ベビーカー
+* married couple: まだ子供がいないカップル(子供ができるとfamilyになる)
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -86,6 +91,8 @@
     * You can find them If you stare at a streetlight at the night
 * 県は...が生産量一位です
     * ~ is the largest producer of ... in Japan
+* ギフトを送る
+    * Had a gift delivered for her
 
 
 ## オンライン英語使い方

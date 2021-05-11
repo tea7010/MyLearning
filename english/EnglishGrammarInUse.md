@@ -307,9 +307,18 @@
 ## Unit 46
 * Have something done: 誰かにsomethingをdoneさせる
     * have + {object} + {past participle}
+    * presentでもpast participleで、過去にそうさせたみたいなときはhaveが変化してhadを使う
     * 髪を切る: I had my fair cut
     * 車を修理する: had your car serviced
 * get something doneでも同じように使える
+
+## Unit 47/48
+* said/told + that + somebody do/did: 奴はこう言ってた
+    * that以下はその時点ではそうだったみたいな、現在でもpast
+    * 今も継続してるのが分かってるなら、present
+* say/tell/askの違い
+    * tell/ask + somebody: 人が後ろにくる
+    * say + something to somebody: ことが後ろにくる
 
 ## Unit 69/70/71
 * Countable noun

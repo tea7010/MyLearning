@@ -320,6 +320,16 @@
     * tell/ask + somebody: 人が後ろにくる
     * say + something to somebody: ことが後ろにくる
 
+## Unit 49/50
+* 疑問文は基本的にverb + subjectの順番
+    * Tom will ... -> Will Tom ...?
+* object（対象）、subject（主体）のどちらを聞くかで、疑問文の作り方が変わる
+    * She phoned somebody(object) -> Who did she phone?
+    * Somebody(subject) phoned her -> Who phoned her?
+* objectのときは、preposition + 疑問詞という順番もOK
+    * To whom do you want to speak?
+* Do you know..?, is it possible ...?などの...部分はsub + verbをひっくり返さない
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

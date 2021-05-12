@@ -67,6 +67,11 @@
 * pram: ベビーカー
 * married couple: まだ子供がいないカップル(子供ができるとfamilyになる)
 * supersticious: 迷信
+* consecutive: following each other continuously
+* foodie: ごはん好きな人
+* lettuce: レタス
+* nagging: 口やかましい、しつこい、やっかいな
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

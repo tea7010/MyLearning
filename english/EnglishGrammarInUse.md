@@ -330,6 +330,22 @@
     * To whom do you want to speak?
 * Do you know..?, is it possible ...?などの...部分はsub + verbをひっくり返さない
 
+## Unit 51/52
+* auxiliary verb: helping verb
+    * can/have/do/be
+* まじで？みたいなとき
+    * have you?, isn't it?, did it?など元の文章のsubject + auxiliary verbを聞き返す
+    * 語尾が上がっていくとき: 単純に本当に的なニュアンス
+    * 語尾が下がっていくとき: そうでしょ、みたいな同意を求めるニュアンス
+* So {auxiliary} {subject}: 私も
+    * so did he
+* Neither {auxiliary verb} {subject}: 私もそうでない
+    * Neither has Mark
+* {subject} + {verb} + so: そう思う、そう感じるなど
+    * I think so
+    * I guess so
+    * I don't suppose so
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

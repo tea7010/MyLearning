@@ -73,6 +73,8 @@
 * nagging: 口やかましい、しつこい、やっかいな
 * Pinoy: Phillipineの人
 * district: 地区
+* be willing to: 必要があればやりますよ的な
+* be about to : これからやります、やるところです。今まさに
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -101,7 +103,11 @@
 * ギフトを送る
     * Had a gift delivered for her
 * 風邪は移すと治る
+    * The cold will heal when you transfer it to others
 * 霊柩車が通ると親指を隠す
+    * Hide your thumb when the hearse passes
+* 今は古い慣習で若い人はあまりやらない
+    * it's becoming an old practice and younger generations don't do much
 
 ## オンライン英語使い方
 

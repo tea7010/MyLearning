@@ -346,6 +346,13 @@
     * I guess so
     * I don't suppose so
 
+## Unit 53
+* veb + ing: 
+    * vebs: suggest, enjoy, mind, stop, postpone, admit, avoid, imagine, finish, consider, deny, eisk, fancy
+    * give up, put off, go on, carry on, keep, keep on
+    * When I'm on holiday, I enjoy not having to get up early
+
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

@@ -1,0 +1,1 @@
+https://nationalguitaracademy.com/blues-guitar-for-beginners/

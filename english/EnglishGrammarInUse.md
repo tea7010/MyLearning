@@ -352,6 +352,11 @@
     * give up, put off, go on, carry on, keep, keep on
     * When I'm on holiday, I enjoy not having to get up early
 
+## Unit 54
+* verb + to:
+    * offer, decide, promise, hope, deserve, agree, plan, manage, afford, threaten, refuge, arrange, fail, forget, learn
+    * dare: あえてする
+    * seem, tend, appear, pretend, claim
 
 ## Unit 69/70/71
 * Countable noun

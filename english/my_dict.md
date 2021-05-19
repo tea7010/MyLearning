@@ -108,6 +108,10 @@
     * Hide your thumb when the hearse passes
 * 今は古い慣習で若い人はあまりやらない
     * it's becoming an old practice and younger generations don't do much
+* こどもを育てる金がいる
+    * I need enough money to raise them
+* 所帯をもつだろう
+    * I will be having a family
 
 ## オンライン英語使い方
 

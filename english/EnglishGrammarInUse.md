@@ -352,11 +352,18 @@
     * give up, put off, go on, carry on, keep, keep on
     * When I'm on holiday, I enjoy not having to get up early
 
-## Unit 54
+## Unit 54/55
 * verb + to:
     * offer, decide, promise, hope, deserve, agree, plan, manage, afford, threaten, refuge, arrange, fail, forget, learn
     * dare: あえてする
     * seem, tend, appear, pretend, claim
+    * help, force, encourage, order, warn, persuade, get
+* suggestはそれっぽいけどtoは使わない
+* advise/allowは verb + ing/to両方いける
+    * toはobjectを伴うとき: I wouldn't advice anybody to stay in the hotel
+    * ingはobjectがないとき: I wouldn't advise staying in the hotel
+* let/make: verb + object + infinitive(toは使わない)
+    * Her parents wouldn't let her go out alone
 
 ## Unit 69/70/71
 * Countable noun

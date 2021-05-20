@@ -75,6 +75,8 @@
 * district: 地区
 * be willing to: 必要があればやりますよ的な
 * be about to : これからやります、やるところです。今まさに
+* adoption: 養子縁組
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -112,6 +114,8 @@
     * I need enough money to raise them
 * 所帯をもつだろう
     * I will be having a family
+* てっきり～だと思ってました
+    * I just thought it was ....
 
 ## オンライン英語使い方
 

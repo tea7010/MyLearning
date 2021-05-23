@@ -365,7 +365,7 @@
 * let/make: verb + object + infinitive(toは使わない)
     * Her parents wouldn't let her go out alone
 
-## Unit 56/57
+## Unit 56/57/58
 * start/begin/continue/intend/botherは、ing/toどっちでも良い、意味も変わらない
 * remember
     * remember + ing: ingしていたことを覚えている
@@ -383,6 +383,10 @@
     * need ing: （完了）しないといけない
     * need to: しないといけない
 * I can't help doing: doingすることをやめられない
+* like/hate/loveなどはing/toどっちでもOKだが、ingはその行動をenjoyしてるが、toはすることがいいと思ってるが楽しんでいるかは別
+* would love: 喜んでやりたいみたいな
+* would prefer: whichみたいなこっちの方がみたいな
+* would like/love/hate have done: やりたかったけど出来なかったみたいな（過去）
 
 ## Unit 69/70/71
 * Countable noun

@@ -388,6 +388,17 @@
 * would prefer: whichみたいなこっちの方がみたいな
 * would like/love/hate have done: やりたかったけど出来なかったみたいな（過去）
 
+## Unit 59
+* prefer + to do or ing: 比較的好む
+    * I prefer A(something) to B
+    * I prefer A(doing) something to B(doing) something
+    * I prefer to A(do) something rather than B(do) something
+* would prefer to: 特別な状況で好みをいうとき
+    * would rather doも一緒の意味
+    * I would rather A(do) something than B(do) something
+* I'd rather somebody did something: 誰かにやってもらうほうがいいみたいな
+    * I'd rather you made dinner
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

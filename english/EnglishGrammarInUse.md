@@ -399,6 +399,17 @@
 * I'd rather somebody did something: 誰かにやってもらうほうがいいみたいな
     * I'd rather you made dinner
 
+## Unit 60
+* Preposition: 前置詞, in, at, with, for, about, after, beforeなど
+* How about meeting for lunch tommorow: なぜかisとか要らない
+* before/afterの後にing
+    * after finishing the work, I'll do it
+* by ~ingで、どのようにするか、されるかを説明
+* toは、infinitiveだが、prepositionにもなる
+    * prefer A to Bなど
+    * prefer driving a car to riding on train
+    * looking forward to seeing you
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

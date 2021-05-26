@@ -79,6 +79,8 @@
 * homage: 参拝(pray的な)
 * upon: = on, フォーマルな言い方
 * lavish: 贅沢な
+* calligraphy: visual art related to writing
+* pseudo: 偽の（すーど）
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -410,6 +410,12 @@
     * prefer driving a car to riding on train
     * looking forward to seeing you
 
+## Unit 61
+* get/be used to doing: 慣れている
+    * got used to: 慣れた
+    * toはprepositionなので、ingにする
+* used to do: やっていたと混同しない
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

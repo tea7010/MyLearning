@@ -81,6 +81,8 @@
 * lavish: 贅沢な
 * calligraphy: visual art related to writing
 * pseudo: 偽の（すーど）
+* deem: 思う
+* Melancholy: ゆううつ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

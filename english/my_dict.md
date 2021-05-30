@@ -83,6 +83,19 @@
 * pseudo: 偽の（すーど）
 * deem: 思う
 * Melancholy: ゆううつ
+* zodiac: 占い
+* dumplings: 餃子
+* prawns: エビ
+* ground meat: 挽肉。grind - ground -ground 
+* stew: シチュー
+* staple: ホチキスの針、特産品
+* Stir frying: 炒め物
+* distract: 邪魔する
+* stuck up/file up: 貯まる
+* gravy: 肉汁
+* mushy: やわらかい
+* pea: 緑の豆、グリーンピース
+* picture-perfect: 絵にかいたようなきれいな
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

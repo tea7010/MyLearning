@@ -416,6 +416,22 @@
     * toはprepositionなので、ingにする
 * used to do: やっていたと混同しない
 
+## Unit 62
+* verb + preposition + object(~ing)
+    * alopogise for ~ing
+    * approve of ~ing
+    * decided against ~ing
+    * fee like ~ing
+    * succeeded in ~ing
+    * thingk of/about
+* verb + preposition + somebody + doing
+    * I don't approve of people killing animals for fun.
+* verb + object + prepostion + ing
+    * They accused us of telling lies
+    * congratulate her on winning the prize
+    * Excuse me for phoning
+    * stop us from enjoying holiday
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

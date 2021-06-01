@@ -432,6 +432,14 @@
     * Excuse me for phoning
     * stop us from enjoying holiday
 
+## Unit 63
+* verb + ingの定型系
+* It's no use/good ~ing: しても無駄だよ
+* There's no point in ~ing: しても無駄だよ
+* It's worth ~ing: 価値がある
+* have trouble/difficulty/a problem ~ing
+* waste time/spend time/be busy ~ing
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

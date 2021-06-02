@@ -98,6 +98,8 @@
 * picture-perfect: 絵にかいたようなきれいな
 * deteriorating eyesight/sight gets worse: 目が悪くなる
 * deposit: 貯金する
+* pupil: student
+* wild forest: 原生林
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

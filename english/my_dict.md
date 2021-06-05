@@ -101,6 +101,16 @@
 * pupil: student
 * wild forest: 原生林
 * vine: つる
+* float: みこし
+* intangible: unable to be touched or grasped; not having physical presence
+* Procession: a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony.
+* characteristic of ...: ...の特徴
+* sea urchins: ウニ
+* abalons: アワビみたいな一枚貝？、キラキラした貝殻のやつ？
+* scallop: ホタテみたいな二枚貝
+* scallions: 小葱
+* northernmost: 最北端
+* lever: レバー
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

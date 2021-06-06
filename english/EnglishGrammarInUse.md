@@ -440,6 +440,12 @@
 * have trouble/difficulty/a problem ~ing
 * waste time/spend time/be busy ~ing
 
+## Unit 64
+* なにかをやったことの、意図・目的を補足したいとき
+    * to + verb
+    * for + norn
+    * so that + subject + verb...
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

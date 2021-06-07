@@ -446,6 +446,11 @@
     * for + norn
     * so that + subject + verb...
 
+## Unit 65
+* It's nice of you to ...: ...してくれてありがとう
+    * kind/considerate/generous/mean/careless/stupid/silly/unfair
+* Subject be sure/certain/likely/bound to do: Subjectがきっとそうするだろうという感想・予測
+
 ## Unit 69/70/71
 * Countable noun
     * 数えられるもの

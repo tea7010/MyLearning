@@ -115,6 +115,8 @@
 * take-away: 収穫、学んだこと
 * mean: ずるい、巧みな
 * generous: たくさんの
+* cram school: 塾
+* subordinates: 下位の, 付随/従属する
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -156,7 +158,10 @@
     * I just thought it was ....
 * 同情する
     * sympathize with, feel sympathy for, feel pity for, feel sorry for
-
+* ひとまずは
+    * とりあえず: For now, For the time being
+    * 手始めに: First of all, To begin with
+    * なんにせよ: anyway, in any case
 
 ## オンライン英語使い方
 

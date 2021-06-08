@@ -450,6 +450,17 @@
 * It's nice of you to ...: ...してくれてありがとう
     * kind/considerate/generous/mean/careless/stupid/silly/unfair
 * Subject be sure/certain/likely/bound to do: Subjectがきっとそうするだろうという感想・予測
+* afraid
+    * I'm afraid to do: 危険や悪いことがあるからしたくない(意図的なこと)
+    * I'm afraid of doing: 何か悪いことが起こりそう(意図的でないこと)
+    * I'm afraid to go near the dog because I'm afraid of being bitten.
+    * (近づくことをしたくない) + (結果としてそうなるから)
+* interest
+    * I'm interested in ...: 興味がある、やりたい
+    * I'm interested to know/hear/see/learn/find: もっと知りたいなど
+* sorry
+    * I'm sorry to: 謝罪 or 同情する、後悔する
+    * I'm sorry for/about: 謝罪
 
 ## Unit 69/70/71
 * Countable noun

@@ -446,7 +446,7 @@
     * for + norn
     * so that + subject + verb...
 
-## Unit 65
+## Unit 65/66
 * It's nice of you to ...: ...してくれてありがとう
     * kind/considerate/generous/mean/careless/stupid/silly/unfair
 * Subject be sure/certain/likely/bound to do: Subjectがきっとそうするだろうという感想・予測
@@ -461,6 +461,14 @@
 * sorry
     * I'm sorry to: 謝罪 or 同情する、後悔する
     * I'm sorry for/about: 謝罪
+
+## Unit 67
+* See somebody do: するのを見た（最初から最後まで)
+    * I saw she drinks fruit vinegar
+* See somebody doing: している最中をみた
+    * I saw she drinking fruit vinegar
+* see/hear/feel/listen/notice/smell/findなども同様
+
 
 ## Unit 69/70/71
 * Countable noun

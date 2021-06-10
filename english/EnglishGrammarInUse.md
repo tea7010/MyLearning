@@ -469,6 +469,12 @@
     * I saw she drinking fruit vinegar
 * see/hear/feel/listen/notice/smell/findなども同様
 
+## Unit 68
+* ~ing clause: 二つのことがほぼ同時に起こるときや、何かの途中に別のことが起こっているときに使う
+    * Did you cut yourself shaving?
+    * while/whenを省略するイメージ?, Did you cut yourself when/while shaving?
+* （文章で書くときのみ）文頭に置く場合
+    * Having finished my work, I dicided to take day off.
 
 ## Unit 69/70/71
 * Countable noun

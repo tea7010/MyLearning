@@ -117,9 +117,12 @@
 * generous: たくさんの
 * cram school: 塾
 * subordinates: 下位の, 付随/従属する
-<<<<<<< HEAD
 * anticipate: 予測する、見込む
 * aside from: それに加えて（文頭）、それ以外は（文後ろ）
+* religious sites: 宗教的な場所
+* venue: 会場
+* Skewer: 串
+* sticky: ねばねば
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

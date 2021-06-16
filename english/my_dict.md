@@ -131,6 +131,8 @@
 * veal: 子牛の肉
 * provoke: 挑発する
 * Spear: 槍
+* a member of the Diet/congressman: 議員
+* parliamentary: 議会
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -180,6 +182,8 @@
     * We should help the poor rather than the rich
 * 日本でも少ないけど、戸籍や家を持たないひともいる
     * There are few people in Japan, but some people do not have a family register or a house.
+* 日本では長をやめさせるような署名・投票が可能である
+
 
 ## オンライン英語使い方
 

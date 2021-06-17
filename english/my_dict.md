@@ -183,6 +183,7 @@
 * 日本でも少ないけど、戸籍や家を持たないひともいる
     * There are few people in Japan, but some people do not have a family register or a house.
 * 日本では長をやめさせるような署名・投票が可能である
+    * In Japan, it is possible to sign and vote to be resigned the prefectoral governer/ministor
 
 
 ## オンライン英語使い方

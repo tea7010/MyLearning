@@ -133,6 +133,8 @@
 * Spear: 槍
 * a member of the Diet/congressman: 議員
 * parliamentary: 議会
+* union: 和集合
+* intersection/common: 共通集合
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

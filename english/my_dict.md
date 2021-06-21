@@ -135,6 +135,8 @@
 * parliamentary: 議会
 * union: 和集合
 * intersection/common: 共通集合
+* simmer: 煮る
+* Compliments to the new year: あけおめ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

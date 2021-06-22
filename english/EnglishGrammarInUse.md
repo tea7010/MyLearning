@@ -541,7 +541,7 @@
     * the beggining/end/middle/top/botton/from/back/side of とか
 
 ## Unit 82
-* SubjectとObjectが一緒の時~selを使う
+* SubjectとObjectが一緒の時~selfを使う
 * himself, myselfなど I'll pay for myself
 * themselves = each other or one another
 * 誰がやったか強調したいときにも使う
@@ -564,7 +564,7 @@
 * there is sure/bound/likely to beなど、強調できる
 * 仮の主語的なit
     * X: To walk in the road is dangerousは主張までが長いので、使わない
-    * O: it is dangerous to walki in the road.
+    * O: it is dangerous to walk in the road.
     * 距離・時間・天気についてもitをsubjectとする
 
 ## Unit 85

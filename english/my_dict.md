@@ -137,6 +137,9 @@
 * intersection/common: 共通集合
 * simmer: 煮る
 * Compliments to the new year: あけおめ
+* Jesus Christ: キリスト
+* savory: 塩味の効いた、香りのよい
+* recorvers my strength: 元気の出る
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

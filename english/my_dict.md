@@ -143,6 +143,10 @@
 * pitch: 調整する
 * radiation: 放射線
 * featured: 特集
+* cobbled: 石畳
+* glacial: 氷河の
+* walnut: クルミ
+* pastry: 源氏パイみたいな生地
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

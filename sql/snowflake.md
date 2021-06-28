@@ -23,3 +23,11 @@ https://docs.snowflake.com/en/sql-reference/functions/object_construct.html
 ```sql
 object_construct(key, value, key2, value2, ...);
 ```
+
+## Groupbyのとき、Groupの行の値をリストで格納させる
+https://docs.snowflake.com/en/sql-reference/functions/listagg.html
+```sql
+select ..., listagg({value_column}, {deliminater})
+from ...
+group by g
+```

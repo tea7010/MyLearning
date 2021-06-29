@@ -16,3 +16,6 @@
     * https://makepath.com/open-source-spatial-analysis-tools-a-quick-guide/ 
     * https://github.com/giswqs/python-geospatial
     * geopandasとpysalがやっぱりメジャー？
+
+* Grid based clustering
+    * https://core.ac.uk/download/pdf/162014218.pdf

@@ -152,6 +152,8 @@
 * vase: 花瓶
 * pattern: 模様
 * attitude: 姿勢、態度
+* talk in your sleep: 寝言
+* insomnia: 不眠症
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

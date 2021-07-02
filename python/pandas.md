@@ -12,3 +12,22 @@ joined = L_df.join(R_df, how='left')
 ```python
 merged = L_df.join(R_df, how='left', left_on='L_key', right_on='R_key')
 ```
+
+## DictをMappingしたいとき
+https://stackoverflow.com/questions/64952346/map-value-to-a-column-if-key-isin-value
+
+例: dfに、dt.hoursなどで時間を抜き出したhoursカラムがあるとする。それに時間帯リストとhoursを照合させてラベルをマッピングしたい
+```python
+# 時間帯のリスト
+hours = {
+    'ランチ営業': [11, 12, 13],
+    '夜営業': [18, 19, 20]
+}
+
+def map_hours_chunk(x, hours):
+  for i, v in hours.items():
+    if x in v:
+      return i
+
+df['hours'].map(lambda x: map_hours_chunk(x, hours))
+```

@@ -1,3 +1,5 @@
+# 練習方法
+* 耳コピ: 実際の流れやどの場面で使えるかが分かる。耳が育つ
 
 ## Autumn Leaves
 * Bill Evans: https://www.youtube.com/watch?v=by4Cr3kPNPg

@@ -27,4 +27,7 @@
     * CLIQUEについて
 
 ## Data Stream Clustering
-https://en.wikipedia.org/wiki/Data_stream_clustering
+* https://en.wikipedia.org/wiki/Data_stream_clustering
+    * Wikipedia
+* https://www.dbs.ifi.lmu.de/Lehre/KDD_II/WS1213/skript/KDD2-4-StreamClustering.pdf
+    * どこかの授業の資料。背景や目的が分かりやすい

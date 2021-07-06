@@ -1,5 +1,4 @@
 ## GPSデータの処理パッケージ
-* GPSデータとかから経路とか停車地点をクラスタリングしたい
 
 * recursive spherical subdivision
     * なんかグラフ理論っぽい
@@ -16,18 +15,3 @@
     * https://github.com/giswqs/python-geospatial
     * geopandasとpysalがやっぱりメジャー？
 
-## Grid based clustering
-* https://core.ac.uk/download/pdf/162014218.pdf
-    * なんかの本のキャプチャ
-* https://www.youtube.com/watch?v=EZ_RJnta-54
-    * なんかの発表スライド
-* https://github.com/annoviko/pyclustering
-    * CLIQUEというグリッドベース手法の実装ライブラリ
-* https://list01.biologie.ens.fr/wws/d_read/machine_learning/SubspaceClustering/CLIQUE_algorithm_grid-based_subspace_clustering.pdf
-    * CLIQUEについて
-
-## Data Stream Clustering
-* https://en.wikipedia.org/wiki/Data_stream_clustering
-    * Wikipedia
-* https://www.dbs.ifi.lmu.de/Lehre/KDD_II/WS1213/skript/KDD2-4-StreamClustering.pdf
-    * どこかの授業の資料。背景や目的が分かりやすい

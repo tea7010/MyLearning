@@ -90,4 +90,10 @@ https://arxiv.org/ftp/arxiv/papers/1203/1203.2000.pdf
 
 ### STREAM
 
-### LSEARCH 
+### LSEARCH
+
+# BIRCH
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html
+
+# DENGRIS-Stream
+http://psrcentre.org/images/extraimages/45.%201312568.pdf

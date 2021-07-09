@@ -31,3 +31,11 @@ def map_hours_chunk(x, hours):
 
 df['hours'].map(lambda x: map_hours_chunk(x, hours))
 ```
+
+## Groupbyのグループのイテレーション
+
+groupbyのオブジェクトをそのままイテレーションに突っ込むと、group名とそれに該当するデータがイテレーション可能
+```python
+for name, group_data in data.groupby('group'):
+  ...
+```

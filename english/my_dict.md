@@ -207,6 +207,9 @@
     * There are few people in Japan, but some people do not have a family register or a house.
 * 日本では長をやめさせるような署名・投票が可能である
     * In Japan, it is possible to sign and vote to be resigned the prefectoral governer/ministor
+* 目が悪くなる
+    * my eyesight get weak/worse
+    * Looking at a computer or smartphone screen dagames my eyesight
 
 
 ## オンライン英語使い方

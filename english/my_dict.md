@@ -156,6 +156,7 @@
 * insomnia: 不眠症
 * Chick: ひよこ
 * adequate: 適切な
+* interpret: 解釈する
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -210,6 +211,10 @@
 * 目が悪くなる
     * my eyesight get weak/worse
     * Looking at a computer or smartphone screen dagames my eyesight
+* 留年する
+    * remaining same class for another year
+    * repeat a year
+
 
 
 ## オンライン英語使い方

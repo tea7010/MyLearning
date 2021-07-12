@@ -157,6 +157,16 @@
 * Chick: ひよこ
 * adequate: 適切な
 * interpret: 解釈する
+* restless: そわそわする
+* groomy: 憂鬱な
+* superiors: 上位の、上位職
+* permanent: 継続的な、長期的な
+* lively: 元気な
+* inwardly: 心の内に
+* joint pains:  関節痛
+* eyestrain: 眼精疲労
+* intestine: 腸
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

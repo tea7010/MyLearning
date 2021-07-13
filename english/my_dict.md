@@ -157,6 +157,13 @@
 * Chick: ひよこ
 * adequate: 適切な
 * interpret: 解釈する
+* ostrich: ダチョウ
+* granite: 花崗岩
+* dune: 砂丘
+* mimic: 真似る、模した
+* gushing geyser: 間欠泉
+* dough: 生地
+* broth: だし汁、スープ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -97,3 +97,12 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html
 
 # DENGRIS-Stream
 http://psrcentre.org/images/extraimages/45.%201312568.pdf
+
+# DenStream
+https://github.com/issamemari/DenStream
+
+# D-Stream
+https://github.com/ogeagla/dstream
+
+# EvoStream
+https://github.com/MatthiasCarnein/evoStream_python

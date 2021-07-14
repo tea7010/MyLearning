@@ -157,7 +157,6 @@
 * Chick: ひよこ
 * adequate: 適切な
 * interpret: 解釈する
-<<<<<<< HEAD
 * ostrich: ダチョウ
 * granite: 花崗岩
 * dune: 砂丘
@@ -165,7 +164,6 @@
 * gushing geyser: 間欠泉
 * dough: 生地
 * broth: だし汁、スープ
-=======
 * restless: そわそわする
 * groomy: 憂鬱な
 * superiors: 上位の、上位職
@@ -175,8 +173,9 @@
 * joint pains:  関節痛
 * eyestrain: 眼精疲労
 * intestine: 腸
+* Meteor shower: 流星群
+* duty free: 免税
 
->>>>>>> e961cac1c19b1e1cff44be42f6d68fa1dd434598
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

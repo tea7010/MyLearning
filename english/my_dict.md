@@ -175,6 +175,8 @@
 * intestine: 腸
 * Meteor shower: 流星群
 * duty free: 免税
+* ruin: 駄目にする, 遺跡, 廃墟
+* cob: トウモロコシの軸（コブサラダのコブは人名なので別物)
 
 
 ## 言えなかった表現

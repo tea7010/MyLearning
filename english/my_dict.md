@@ -235,7 +235,8 @@
 * 留年する
     * remaining same class for another year
     * repeat a year
-
+* この方が効率的だと思う
+    * I think that it is more efficient.
 
 
 ## オンライン英語使い方

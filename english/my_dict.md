@@ -178,6 +178,7 @@
 * ruin: 駄目にする, 遺跡, 廃墟
 * cob: トウモロコシの軸（コブサラダのコブは人名なので別物)
 * even though: though, althoughと同じ, even ifは仮定の話をするときに使う
+* 今やろうとする: be about to e.g. He is about to buy a guitar
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -236,8 +237,11 @@
     * remaining same class for another year
     * repeat a year
 * この方が効率的だと思う
-    * I think that it is more efficient.
-
+    * I think that it it s more efficient.
+* パスワードが流出する
+    * leak/compromise a password
+* 進んでやろうとする
+    * be willing to 
 
 ## オンライン英語使い方
 

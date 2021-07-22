@@ -1,5 +1,9 @@
 # 練習方法
 * 耳コピ: 実際の流れやどの場面で使えるかが分かる。耳が育つ
+  * 楽譜に記録しておくこと
+  * 後で忘れても思い出せる
+  * 拍を意識する
+  * 裏のコードや、フレーズの解釈を書ける
 
 ## Autumn Leaves
 * Bill Evans: https://www.youtube.com/watch?v=by4Cr3kPNPg

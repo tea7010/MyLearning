@@ -248,6 +248,8 @@
     * leak/compromise a password
 * 進んでやろうとする
     * be willing to 
+* バイクでコケる
+    * I fell down moterbike while the speed is about 40km/h
 
 ## オンライン英語使い方
 

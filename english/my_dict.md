@@ -185,6 +185,11 @@
     * seashore: 海と陸の境目
     * lagoon: 浜辺に空いた湖っぽいもの
 * 海藻: seaweed
+* introvert: 控えめな人柄
+* reticent: 寡黙な
+* fluffy: ふわっとした
+* Foraging: 狩猟採集
+* per capita: 一人当たりの
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

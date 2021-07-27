@@ -255,6 +255,9 @@
     * be willing to 
 * バイクでコケる
     * I fell down moterbike while the speed is about 40km/h
+* 声が遠いようです
+    * Excuse me, but I'm losing your voice
+    * sorry, but your voice is breaking up.
 
 ## オンライン英語使い方
 

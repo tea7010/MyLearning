@@ -1,3 +1,6 @@
+# Data Streamとは
+* https://takuti.me/ja/note/data-stream-mining/
+
 ## Data Stream Clustering
 * https://en.wikipedia.org/wiki/Data_stream_clustering
     * Wikipedia
@@ -90,7 +93,7 @@ https://arxiv.org/ftp/arxiv/papers/1203/1203.2000.pdf
 
 ### STREAM
 
-### LSEARCH
+### RESEARCH
 
 # BIRCH
 https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html

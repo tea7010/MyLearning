@@ -190,6 +190,9 @@
 * fluffy: ふわっとした
 * Foraging: 狩猟採集
 * per capita: 一人当たりの
+* objection: 異論
+* Sibling: brothers or sisters
+* Physical Education class: 体育の授業
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

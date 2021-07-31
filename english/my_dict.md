@@ -184,6 +184,8 @@
     * seaside: 磯辺
     * seashore: 海と陸の境目
     * lagoon: 浜辺に空いた湖っぽいもの
+    * canal: 運河
+    * waterfront: 水に面した町みたいな？
 * 海藻: seaweed
 * introvert: 控えめな人柄
 * reticent: 寡黙な
@@ -193,6 +195,9 @@
 * objection: 異論
 * Sibling: brothers or sisters
 * Physical Education class: 体育の授業
+* it is lined with ...: ...が並んでいる
+* garnishes: 料理の付け合わせ
+* bun: ロールパン
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -198,6 +198,14 @@
 * it is lined with ...: ...が並んでいる
 * garnishes: 料理の付け合わせ
 * bun: ロールパン
+* 墓
+    * grave: 墓・墓の穴
+    * tomb: 墓石・墓標のこと
+    * cemetery: 共同墓地・霊園
+* monastery: 修道院
+* lentil: レンズ豆
+* chickpeas: ひよこ豆
+* finely chopped: 細かく刻んだ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -68,6 +68,9 @@ https://arxiv.org/ftp/arxiv/papers/1203/1203.2000.pdf
         1. 任意の非medoid点 o とmedoid点を入れ替えたときのロスを計算
     1. ロスが最小となるmの選び方を選択する
 
+* K-medoidsの実装・アルゴリズム例
+https://towardsdatascience.com/k-medoids-clustering-on-iris-data-set-1931bf781e05
+
 ### k-means
 * 今でも人気の手法
 * centroidというクラスタの中心点のようなものを定義する

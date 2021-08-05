@@ -209,6 +209,7 @@
 * 交通事故: Traffic accident
 * 体の模様: body/coat pattern
 * 由来する: derive from China
+* identical: 一緒の性質を持つこと,  same < identical
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

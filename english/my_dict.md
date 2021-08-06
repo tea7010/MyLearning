@@ -210,6 +210,11 @@
 * 体の模様: body/coat pattern
 * 由来する: derive from China
 * identical: 一緒の性質を持つこと,  same < identical
+* purpose-built spaces: 専用スペース
+* igloos: かまくら
+* calligraphy: 書道
+* Sautéed: 炒めた
+* curdled: 凝固した
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

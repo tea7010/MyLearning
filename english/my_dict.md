@@ -283,6 +283,8 @@
 * 声が遠いようです
     * Excuse me, but I'm losing your voice
     * sorry, but your voice is breaking up.
+* これ以上目が悪くならないようにメガネをかける
+    * Wear glasses to prevent my eyes from getting worse any more
 
 ## オンライン英語使い方
 

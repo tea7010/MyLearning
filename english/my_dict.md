@@ -216,6 +216,7 @@
 * Sautéed: 炒めた
 * curdled: 凝固した
 * motorist: バイク乗ってる人
+* hospital admission: 入院
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

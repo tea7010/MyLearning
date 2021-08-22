@@ -1,6 +1,8 @@
 # Data Streamとは
 * https://takuti.me/ja/note/data-stream-mining/
 
+* https://direct.mit.edu/books/book/4475/Machine-Learning-for-Data-Streamswith-Practical
+
 ## Data Stream Clustering
 * https://en.wikipedia.org/wiki/Data_stream_clustering
     * Wikipedia

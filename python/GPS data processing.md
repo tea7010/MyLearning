@@ -15,3 +15,7 @@
     * https://github.com/giswqs/python-geospatial
     * geopandasとpysalがやっぱりメジャー？
 
+## 距離関数
+
+* 時間付きベクトルの距離
+    * https://github.com/bguillouet/traj-dist

@@ -220,6 +220,10 @@
 * househould chores: 家事, house keepingも似たような感じ
 * jurisdiction: 司法権
 * congestion: 渋滞、混みあっている様子
+* dove: 和平論者、ハト
+* celemony: 儀式
+* infatuation: 夢中にさせること
+* crush: 恋のときめき
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

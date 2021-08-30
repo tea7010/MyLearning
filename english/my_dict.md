@@ -224,6 +224,10 @@
 * celemony: 儀式
 * infatuation: 夢中にさせること
 * crush: 恋のときめき
+* balanced diet: バランスのいい食事
+* treat: おごる
+* sincerity: 誠実さ
+* hospitalized: 入院する
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

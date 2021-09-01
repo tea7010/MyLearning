@@ -229,6 +229,7 @@
 * sincerity: 誠実さ
 * hospitalized: 入院する
 * reprimand: 叱責
+* crosswalk: 横断歩道
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -230,6 +230,8 @@
 * hospitalized: 入院する
 * reprimand: 叱責
 * crosswalk: 横断歩道
+* Secondhand smoke: 受動喫煙
+* inhale/exhale: 吸い込む・吐き出す
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

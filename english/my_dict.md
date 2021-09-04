@@ -232,6 +232,7 @@
 * crosswalk: 横断歩道
 * Secondhand smoke: 受動喫煙
 * inhale/exhale: 吸い込む・吐き出す
+* persons with disabilities: 障害を持った人
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -302,6 +303,8 @@
     * sorry, but your voice is breaking up.
 * これ以上目が悪くならないようにメガネをかける
     * Wear glasses to prevent my eyes from getting worse any more
+* 感動する
+    * be impressed to
 
 ## オンライン英語使い方
 

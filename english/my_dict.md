@@ -233,6 +233,9 @@
 * Secondhand smoke: 受動喫煙
 * inhale/exhale: 吸い込む・吐き出す
 * persons with disabilities: 障害を持った人
+* grown-ups: 大人
+* current affairs: 世界で起きている関心ごと(news)
+* affair: 出来事、事件
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -308,6 +308,8 @@
     * Wear glasses to prevent my eyes from getting worse any more
 * 感動する
     * be impressed to
+* 好きか嫌いかで言ったら好きかも
+    * I like it if I say I like it or not. but I'm not a big fan of it.
 
 ## オンライン英語使い方
 

@@ -236,6 +236,24 @@
 * grown-ups: 大人
 * current affairs: 世界で起きている関心ごと(news)
 * affair: 出来事、事件
+* with respect to: ~に関しては
+* shall be borne: 負担するものとする
+* reimburse: 払い戻す
+* outage: 供給の停止
+* precaution: 用心/予防措置
+* notwithstanding: in spite ofと同じ、にも関わらず
+* circumvent: （ずる賢い方法で）回避する
+* mortgaging: 担保
+* pledging: 約束
+* encumbering: 重荷を追わせる
+* lien: 先取特権、優先抵当権
+* pursuant : 合意に従って
+* seized: 押収する
+* STATUTORY: 法定
+* Indemnity: 賠償
+* liability: 責任
+* Jurisdiction: 管轄
+* supersedes: 優先
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

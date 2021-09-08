@@ -256,6 +256,7 @@
 * supersedes: 優先
 * segregate: 分離する
 * clutter: a large amount of things that are not arranged in a neat or orderly way
+* allergies: アレルギー(a·luh·jeez)
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -254,6 +254,8 @@
 * liability: 責任
 * Jurisdiction: 管轄
 * supersedes: 優先
+* segregate: 分離する
+* clutter: a large amount of things that are not arranged in a neat or orderly way
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -328,6 +330,9 @@
     * be impressed to
 * 好きか嫌いかで言ったら好きかも
     * I like it if I say I like it or not. but I'm not a big fan of it.
+* 機会が多い
+    * Do more frequent
+    * There are much more oppotunities
 
 ## オンライン英語使い方
 

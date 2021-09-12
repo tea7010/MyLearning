@@ -258,6 +258,10 @@
 * clutter: a large amount of things that are not arranged in a neat or orderly way
 * allergies: アレルギー(a·luh·jeez)
 * courteous: kuh·tee·uhs, 礼儀正しい
+* choking: 息苦しい状態、窒息
+* injure: (不慮の事故などで)傷つける
+* hurt: (一般的に)傷つける
+* wound: (意図的に)傷つける
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

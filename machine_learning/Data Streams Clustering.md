@@ -114,3 +114,18 @@ https://github.com/ogeagla/dstream
 
 # EvoStream
 https://github.com/MatthiasCarnein/evoStream_python
+
+
+# CluStream
+* https://www.dbs.ifi.lmu.de/Lehre/KDD_II/WS1213/skript/KDD2-4-StreamClustering.pdf
+* K-Means baseの手法で、micro-cluster(online)とmacro-cluster(offline)の2フェイズ
+    * Onlineフェイズではリアルタイムに要約するだけで、時間横断したmacro-clusteringは行わない
+    * Offlineで、ユーザが見たいある期間に関して、その時初めてmacro-clusteringを行う
+* Online phaseでは、新しいデータが、既存のモデルに対して、近傍のクラスタが存在するかどうかを判定
+    * 存在してある半径内であるなら、その点をCFに足し算して追加する
+    * 存在しないなら新しいクラスとして登録(CFを新規作成)
+    * micro-clusterのSnapshotが完成
+* Offline phaseでは、ある期間内のmicro-clusterをすべて持ってきて、それらのCFに対してK-Meansを適用する
+    * Evolvingしても、そのCF群は密になってるはずなのでクラスタリングできるはず（CFは徐々にズレるだろうという仮定）
+
+![](img/2021-09-13-13-14-31.png)

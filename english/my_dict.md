@@ -265,6 +265,7 @@
 * drown: 溺死
 * drowning: 溺れる
 * overparenting: 過保護
+* complimentary: 無料の
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

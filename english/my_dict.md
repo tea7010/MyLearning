@@ -266,6 +266,13 @@
 * drowning: 溺れる
 * overparenting: 過保護
 * complimentary: 無料の
+* agnostic: 依存しない、不可知論者（神がいるともいないともいえない、と唱える人）
+* upsell: 高く売りつける
+* disseminated: 普及
+* on behalf of: 代表して
+* adhere: 遵守する
+* Cultivate: 親しくする、耕す
+* Regulatory: 規制、規定する
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

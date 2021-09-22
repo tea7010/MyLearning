@@ -39,3 +39,8 @@ groupbyのオブジェクトをそのままイテレーションに突っ込む�
 for name, group_data in data.groupby('group'):
   ...
 ```
+
+## 高速化Tips
+https://shinyorke.hatenablog.com/entry/pandas-tips
+* applyは可読性が上がるが、series(単一カラム)のループ高速化はfor < apply < mapで強い
+* やはりnumpy配列でベクトル演算するのが一番早い

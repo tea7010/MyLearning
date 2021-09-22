@@ -273,6 +273,9 @@
 * adhere: 遵守する
 * Cultivate: 親しくする、耕す
 * Regulatory: 規制、規定する
+* sunscreen: 日焼け止め
+* sunburn: 日焼け
+* available stock: 在庫
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -276,6 +276,8 @@
 * sunscreen: 日焼け止め
 * sunburn: 日焼け
 * available stock: 在庫
+* favorable: 好意のある、賛成的な
+* objectives: 目的
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

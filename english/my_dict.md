@@ -278,6 +278,10 @@
 * available stock: 在庫
 * favorable: 好意のある、賛成的な
 * objectives: 目的
+* mess up: 散らかす
+* piggy bank: 豚の貯金箱
+* On the one hand ..., on the other hand: 一方では、もう一方では
+* conscience: a person's moral sense
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

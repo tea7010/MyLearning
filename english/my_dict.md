@@ -282,6 +282,9 @@
 * piggy bank: 豚の貯金箱
 * On the one hand ..., on the other hand: 一方では、もう一方では
 * conscience: a person's moral sense
+* recreation: 娯楽
+* seabreeze: 海風
+* irreplaceable: 替えがきかない
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

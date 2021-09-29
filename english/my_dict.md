@@ -285,6 +285,7 @@
 * recreation: 娯楽
 * seabreeze: 海風
 * irreplaceable: 替えがきかない
+* ruts: 轍
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

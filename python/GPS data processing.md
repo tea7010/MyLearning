@@ -1,3 +1,7 @@
+## 座標のグリッド分割
+* https://www.fatiando.org/verde/latest/gallery/scipygridder.html
+* https://stackoverflow.com/questions/51573164/dividing-geographical-region-into-equal-sized-grid-and-retrieving-indexing-posit
+
 ## GPSデータの処理パッケージ
 
 * recursive spherical subdivision

@@ -286,6 +286,9 @@
 * seabreeze: 海風
 * irreplaceable: 替えがきかない
 * ruts: 轍
+* horror/thriller: ホラーは人が怖がる様子がメイン、thrillerはミステリーの解決がメイン
+* astronaut: 宇宙飛行士
+* fireman: 消防士
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -293,6 +293,12 @@
 * odour: 匂い（くさい感じの）
 * bury: 埋める
 * cardboard box: 段ボール
+* cheap·skate: A stingy person
+* stin·gy: Unwilling to give or spend; ungenerous
+* generous: たっぷりの
+* fructose: 果糖、A hexose sugar found especially in honey and fruit.
+* Shoplifter: 万引き犯, A shoplifter steals a product from a store.
+* ballistic: 弾道学の、カンカンに怒った状態
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

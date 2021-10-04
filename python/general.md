@@ -25,3 +25,15 @@ with warnings.catch_warnings():
 ```python
 list(set(l1) ^ set(l2))
 ```
+
+## lower/upper caseの両方を許すUNIX形式のパターンマッチ
+* https://stackoverflow.com/questions/10148215/accounting-for-lower-and-uppercase-in-glob
+* https://jdhao.github.io/2019/06/24/python_glob_case_sensitivity/
+
+```python
+def foo(extension):
+     return '*.' + ''.join('[%s%s]' % (e.lower(), e.upper()) for e in extension)
+
+foo('mov')
+>>> '*.[mM][oO][vV]'
+```

@@ -289,6 +289,10 @@
 * horror/thriller: ホラーは人が怖がる様子がメイン、thrillerはミステリーの解決がメイン
 * astronaut: 宇宙飛行士
 * fireman: 消防士
+* doggy bag: 余った料理を持って帰る箱
+* odour: 匂い（くさい感じの）
+* bury: 埋める
+* cardboard box: 段ボール
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

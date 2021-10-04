@@ -18,3 +18,10 @@ with warnings.catch_warnings():
      
      {warningを吐くコード}
 ```
+
+## Listの共通しない要素
+* https://note.nkmk.me/python-list-common/
+
+```python
+list(set(l1) ^ set(l2))
+```

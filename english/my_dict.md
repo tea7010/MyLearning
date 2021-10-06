@@ -299,6 +299,12 @@
 * fructose: 果糖、A hexose sugar found especially in honey and fruit.
 * Shoplifter: 万引き犯, A shoplifter steals a product from a store.
 * ballistic: 弾道学の、カンカンに怒った状態
+* toddler: 歩き始めの子供
+* condescendingly: 見下すような
+* overly: 過度な
+* onset: 発現、開始
+* uncertainty: 確信のないこと、不確定要素
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

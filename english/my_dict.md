@@ -382,6 +382,10 @@
 * 機会が多い
     * Do more frequent
     * There are much more oppotunities
+* 言い訳をする
+    * Make excuses
+* 先送りにする
+    * procrastinate
 
 ## オンライン英語使い方
 

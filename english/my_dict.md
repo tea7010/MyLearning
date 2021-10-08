@@ -304,6 +304,8 @@
 * overly: 過度な
 * onset: 発現、開始
 * uncertainty: 確信のないこと、不確定要素
+* humiliate: 恥をかく
+* 
 
 
 ## 言えなかった表現

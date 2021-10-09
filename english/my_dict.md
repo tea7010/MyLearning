@@ -305,7 +305,7 @@
 * onset: 発現、開始
 * uncertainty: 確信のないこと、不確定要素
 * humiliate: 恥をかく
-* 
+* desperate: 自暴自棄な、絶望的な
 
 
 ## 言えなかった表現

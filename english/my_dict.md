@@ -306,6 +306,7 @@
 * uncertainty: 確信のないこと、不確定要素
 * humiliate: 恥をかく
 * desperate: 自暴自棄な、絶望的な
+* ransom: 身代金
 
 
 ## 言えなかった表現

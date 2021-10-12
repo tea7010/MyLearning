@@ -307,6 +307,7 @@
 * humiliate: 恥をかく
 * desperate: 自暴自棄な、絶望的な
 * ransom: 身代金
+* consecutive: 連続した、引き続く
 
 
 ## 言えなかった表現

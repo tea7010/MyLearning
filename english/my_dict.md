@@ -308,7 +308,7 @@
 * desperate: 自暴自棄な、絶望的な
 * ransom: 身代金
 * consecutive: 連続した、引き続く
-
+* do under the table: 不正な方法で
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -390,6 +390,8 @@
     * Make excuses
 * 先送りにする
     * procrastinate
+* 間違いを起こす
+    * commit a mistake
 
 ## オンライン英語使い方
 

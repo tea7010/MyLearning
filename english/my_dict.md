@@ -310,6 +310,7 @@
 * consecutive: 連続した、引き続く
 * do under the table: 不正な方法で
 * glare: ギラギラ光る
+* Almost only counts in horseshoes and hand grenades:  Being nearly successful or accurate is not the same as being successful or accurate; being close to achieving something does not provide any benefit.
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -393,6 +394,7 @@
     * procrastinate
 * 間違いを起こす
     * commit a mistake
+* 覚えました: I learned ...
 
 ## オンライン英語使い方
 

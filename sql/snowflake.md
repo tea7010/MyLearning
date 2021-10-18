@@ -31,3 +31,36 @@ select ..., listagg({value_column}, {deliminater})
 from ...
 group by g
 ```
+
+## Timestampの丸め
+https://docs.snowflake.com/en/sql-reference/functions/time_slice.html
+
+例: 10分間隔の丸め
+```sql
+TIME_SLICE({DATETIME_COL}, 10, 'MINUTE')
+```
+
+## グループの最初の値を取得
+group byしたときの最初の値がほしい（`pandasでいうdf.groupby('group')[col].first()`)
+
+https://docs.snowflake.com/en/sql-reference/functions/first_value.html
+
+```sql
+select 
+    ...
+    first_value({カラム名}) over (partition by {group byしたいカラム} order by {firstの順番をどうしたいか})
+...
+```
+
+## Fillnaする
+https://docs.snowflake.com/en/sql-reference/functions/coalesce.html
+
+特定の値で置換したいとき
+```sql
+    coalesce({カラム名}, {置換したい値})
+```
+
+nullのところを前の行の値で置換したいとき
+```sql
+    coalesce({カラム名}, lag({カラム名}, 1) ignore nulls over (partition by {} order by {}))
+```

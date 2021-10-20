@@ -64,3 +64,13 @@ nullのところを前の行の値で置換したいとき
 ```sql
     coalesce({カラム名}, lag({カラム名}, 1) ignore nulls over (partition by {} order by {}))
 ```
+
+## 方位の差分を0~180で表現する
+単位円状の２つのベクトルの内積が、cos(sita)となることを利用
+
+```sql
+degrees(
+    acos(
+      sin(radians(degree_A))*sin(radians(degree_B)) + cos(radians(degree_B))*cos(radians(degree_B))
+    ))
+```

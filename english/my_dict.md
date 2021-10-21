@@ -311,6 +311,8 @@
 * do under the table: 不正な方法で
 * glare: ギラギラ光る
 * Almost only counts in horseshoes and hand grenades:  Being nearly successful or accurate is not the same as being successful or accurate; being close to achieving something does not provide any benefit.
+* Lazy <-> deligent
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

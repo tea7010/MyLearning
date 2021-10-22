@@ -312,6 +312,8 @@
 * glare: ギラギラ光る
 * Almost only counts in horseshoes and hand grenades:  Being nearly successful or accurate is not the same as being successful or accurate; being close to achieving something does not provide any benefit.
 * Lazy <-> deligent
+* busboys: 給仕士の助手
+* nuts: クレイジーな奴
 
 
 ## 言えなかった表現

@@ -314,7 +314,9 @@
 * Lazy <-> deligent
 * busboys: 給仕士の助手
 * nuts: クレイジーな奴
-
+* donkey: ロバ
+* seasoned: 味付けされた, シーズニング
+* dull: 光沢のない
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -399,6 +401,7 @@
 * 間違いを起こす
     * commit a mistake
 * 覚えました: I learned ...
+* 展望台: Observatory
 
 ## オンライン英語使い方
 

@@ -402,6 +402,10 @@
     * commit a mistake
 * 覚えました: I learned ...
 * 展望台: Observatory
+* 無意識に: unconsciously, without thinking
+* 意識的に、意識する: Pay attention, aware of 
+* 通信会社: telecomunication company
+* 携帯の契約について：Pre-paid <-> Plan
 
 ## オンライン英語使い方
 

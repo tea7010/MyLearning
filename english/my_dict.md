@@ -406,6 +406,8 @@
 * 意識的に、意識する: Pay attention, aware of 
 * 通信会社: telecomunication company
 * 携帯の契約について：Pre-paid <-> Plan
+* 墓参りする: visit ancestor's grave(cemetary)
+* 見返りを求めない: Don't expect nothing in return
 
 ## オンライン英語使い方
 

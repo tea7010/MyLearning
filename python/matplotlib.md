@@ -22,3 +22,6 @@ img_path = 'satellite.png'
 my_map = plt.imread(img_path)
 ax.imshow(my_map, zorder=0, extent=(x_min, x_max, y_min, y_max), aspect='equal')
 ```
+
+# 画像の読み込み時のRGB順など面倒なやつ
+https://nixeneko.hatenablog.com/entry/2017/09/01/000000

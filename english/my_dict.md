@@ -320,6 +320,16 @@
 * shredded: 裁断された、シュレッダーの語源っぽい
 * plateau: 高原・台地
 * gorge: 谷
+* majestic: 雄大な
+* observation decks: 展望台
+* stunningly: 驚くほど
+* reputably: 言われている
+* ice field: 氷原
+* clothing brand: 服のブランド
+* on the outskirts of ...: ...の郊外で
+* seductive: 魅力的な
+* declares allegiance: 忠誠を誓う
+* crusty: 皮が堅い
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

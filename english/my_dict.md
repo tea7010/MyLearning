@@ -330,6 +330,8 @@
 * seductive: 魅力的な
 * declares allegiance: 忠誠を誓う
 * crusty: 皮が堅い
+* contradiction: 矛盾
+* 
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -421,6 +423,7 @@
 * 携帯の契約について：Pre-paid <-> Plan
 * 墓参りする: visit ancestor's grave(cemetary)
 * 見返りを求めない: Don't expect nothing in return
+* 格差がある: Disparity, gap
 
 ## オンライン英語使い方
 

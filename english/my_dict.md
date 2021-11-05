@@ -331,7 +331,12 @@
 * declares allegiance: 忠誠を誓う
 * crusty: 皮が堅い
 * contradiction: 矛盾
-* 
+* inhibit: 抑制する、妨げる
+* considerable: 相当な、でかい
+* uncoupled: 連結が外れた
+* predominant: 優勢な
+* reliant: 依存する
+* delegate: 派遣、代表
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -424,7 +429,6 @@
 * 墓参りする: visit ancestor's grave(cemetary)
 * 見返りを求めない: Don't expect nothing in return
 * 格差がある: Disparity, gap
-* 刺激を求める: thrilled, stimulation
 
 ## オンライン英語使い方
 
@@ -452,8 +456,6 @@
 * ネイティブのスピードにはまだ付いていけていない。リスニング or 発音が苦手と思われる
 * スライドとかは何話すか決めてないと日本語でも話せない
 * 日本語に変換したり順序を考えながら喋らない。遅い
-* うなずきすぎない、ちょっと煩わしい印象になる？
-* 考えながら喋るときは、単語伸ばしたり、後でシンプルに言い換える
 
 ## 会議とかで使う単語(JP -> EN)
 * ~については: As for ~, in terms of ~, regarding ~, 

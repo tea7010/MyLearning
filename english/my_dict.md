@@ -429,6 +429,7 @@
 * 墓参りする: visit ancestor's grave(cemetary)
 * 見返りを求めない: Don't expect nothing in return
 * 格差がある: Disparity, gap
+* 2日後: 2 days later(agoと混同しがちなので注意)
 
 ## オンライン英語使い方
 

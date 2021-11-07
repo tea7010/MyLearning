@@ -337,6 +337,10 @@
 * predominant: 優勢な
 * reliant: 依存する
 * delegate: 派遣、代表
+* on foot: 徒歩で
+* inspiration behind~: ～のヒントになった
+* broth: だし汁・スープ
+* butterflied: 肉や魚を2枚に開いた状態
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -430,6 +434,7 @@
 * 見返りを求めない: Don't expect nothing in return
 * 格差がある: Disparity, gap
 * 2日後: 2 days later(agoと混同しがちなので注意)
+* ほとんど忘れてしまった: I forgot most of it. I don't recall accepting that.
 
 ## オンライン英語使い方
 

@@ -341,6 +341,11 @@
 * inspiration behind~: ～のヒントになった
 * broth: だし汁・スープ
 * butterflied: 肉や魚を2枚に開いた状態
+* beaten path: 常識的なやり方、通った道
+* off the beaten path: 人里離れた
+* on a hillside: 斜面
+* crust: 表皮（パンとか外殻的な）
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -435,6 +440,7 @@
 * 格差がある: Disparity, gap
 * 2日後: 2 days later(agoと混同しがちなので注意)
 * ほとんど忘れてしまった: I forgot most of it. I don't recall accepting that.
+* km2: square kilometers
 
 ## オンライン英語使い方
 

@@ -444,6 +444,8 @@
 * ほとんど忘れてしまった: I forgot most of it. I don't recall accepting that.
 * km2: square kilometers
 * 幼虫・芋虫: Larva, caterpillar
+* 書類に許可のサインする: signed up for a permission
+* 車を持てない: I can't own a car
 
 ## オンライン英語使い方
 

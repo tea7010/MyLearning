@@ -345,7 +345,9 @@
 * off the beaten path: 人里離れた
 * on a hillside: 斜面
 * crust: 表皮（パンとか外殻的な）
-
+* grumpy: 不機嫌になる
+* night owl: 夜型人間
+* Morning person: 午前中に調子が出る人
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -441,6 +443,7 @@
 * 2日後: 2 days later(agoと混同しがちなので注意)
 * ほとんど忘れてしまった: I forgot most of it. I don't recall accepting that.
 * km2: square kilometers
+* 幼虫・芋虫: Larva, caterpillar
 
 ## オンライン英語使い方
 

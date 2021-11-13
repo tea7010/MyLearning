@@ -348,6 +348,8 @@
 * grumpy: 不機嫌になる
 * night owl: 夜型人間
 * Morning person: 午前中に調子が出る人
+* skeletal schedule: the minimum number of employees needed to operater a business
+* Diapers: おむつ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -6,6 +6,9 @@
 * Save: `Command + S
 * VScodeのコマンドパレット: `Command + Shift + P`
 * windowの最大化: `Command + Ctrl + F`
+* 画面ロック: `Command + Ctrl + Q`
+* スクショ: `Command + Shift + 4`
+* 入力文字の先頭/末尾に移動: `Ctrl + A/E`
 
 ## デフォから変更したもの
 * Finder: `Command + F`
@@ -38,3 +41,9 @@ Caps keyにCtrlを割り当てしてみた
 
 ### Chromeのタブ切替が`Ctrl + Tab`
 未解決： できればwinと一緒で`Shift + Tab`がいい
+
+### Dockとメニューバーが場所取る・最大化が面倒くさい
+`Dockとメニューバー -> Dock/メニューバーを自動的に表示・非表示`
+
+### Command + マウススクロールで拡大縮小
+`Accesibility -> Zoom -> Use scroll gesture with modifier key to zoom: Command`

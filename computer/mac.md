@@ -22,6 +22,11 @@ Chromeをインストール
 
 ### マウスのスクロールが逆方向
 `設定 -> マウス -> スクロールの方向をナチュラルのチェックを外す`
+> この設定とトラックパッドの設定が連動する様子。別々の設定を適用することはできない。X
+
+`Scroll reverser`をインストール
+https://pilotmoon.com/scrollreverser/
+
 
 ### 日本語入力でなんか勝手に変換されていく
 `設定 -> キーボード -> 入力ソース（日本語）　-> ライブ変換のチェックを外す`
@@ -47,3 +52,9 @@ Caps keyにCtrlを割り当てしてみた
 
 ### Command + マウススクロールで拡大縮小
 `Accesibility -> Zoom -> Use scroll gesture with modifier key to zoom: Command`
+
+# アプリ
+
+### 写真
+* RAW現像: Capture One
+* クラウドストレージ: Amazon Photos

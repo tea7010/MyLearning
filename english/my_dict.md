@@ -350,6 +350,7 @@
 * Morning person: 午前中に調子が出る人
 * skeletal schedule: the minimum number of employees needed to operater a business
 * Diapers: おむつ
+* Infrared(IR) light: 赤外線
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

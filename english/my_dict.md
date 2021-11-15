@@ -351,6 +351,9 @@
 * skeletal schedule: the minimum number of employees needed to operater a business
 * Diapers: おむつ
 * Infrared(IR) light: 赤外線
+* be around someone: 周りにいる
+* child's play: おままごと
+* mommy's boy: こどおじ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -354,6 +354,10 @@
 * be around someone: 周りにいる
 * child's play: おままごと
 * mommy's boy: こどおじ
+* cancer-fighting antioxidant: 抗癌作用のある物質, an·tee·ok·suh·dnt
+* banned, prohibited: 禁止されている
+* ... Control Act: ...規制法
+* festivities: festive祭り関係的な
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

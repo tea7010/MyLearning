@@ -360,6 +360,8 @@
 * festivities: festive祭り関係的な
 * vacancy: 空き、ポジションが空いている
 * stable: 主食
+* a bunch of: a lot ofよりもカジュアル、束になってるイメージ
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -458,6 +460,7 @@
 * 幼虫・芋虫: Larva, caterpillar
 * 書類に許可のサインする: signed up for a permission
 * 車を持てない: I can't own a car
+* あなたの意向に沿っているかわかりませんが: I'm not sure if it suits your intentions, but ...
 
 ## オンライン英語使い方
 

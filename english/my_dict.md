@@ -461,6 +461,8 @@
 * 書類に許可のサインする: signed up for a permission
 * 車を持てない: I can't own a car
 * あなたの意向に沿っているかわかりませんが: I'm not sure if it suits your intentions, but ...
+* 白色は汚れやすい: white color won't keep clean
+* 整っている: keep clean, well-arranged, neat
 
 ## オンライン英語使い方
 

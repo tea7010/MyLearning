@@ -362,6 +362,8 @@
 * stable: 主食
 * a bunch of: a lot ofよりもカジュアル、束になってるイメージ
 * a household: 1世帯
+* wholeheartedly: 誠心誠意から
+* leash: 犬のロープ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

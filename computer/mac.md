@@ -9,6 +9,7 @@
 * 画面ロック: `Command + Ctrl + Q`
 * スクショ: `Command + Shift + 4`
 * 入力文字の先頭/末尾に移動: `Ctrl + A/E`
+* デスクトップを表示: `Fn + F11` or ４本指で拡大ジェスチャー
 
 ## デフォから変更したもの
 * Finder: `Command + F`
@@ -52,6 +53,8 @@ Caps keyにCtrlを割り当てしてみた
 
 ### Command + マウススクロールで拡大縮小
 `Accesibility -> Zoom -> Use scroll gesture with modifier key to zoom: Command`
+
+
 
 # アプリ
 

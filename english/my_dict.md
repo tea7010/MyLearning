@@ -367,6 +367,8 @@
 * pristine---clean and fresh
 * buckwheat: 蕎麦
 * fermented: 発酵した
+* beggars: こじき
+* informal setllers/houses: ホームレスのような違法な家
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

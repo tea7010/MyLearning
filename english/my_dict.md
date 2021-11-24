@@ -364,6 +364,9 @@
 * a household: 1世帯
 * wholeheartedly: 誠心誠意から
 * leash: 犬のロープ
+* pristine---clean and fresh
+* buckwheat: 蕎麦
+* fermented: 発酵した
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

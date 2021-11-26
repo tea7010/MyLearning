@@ -522,4 +522,12 @@
 * 制限をかける: put a restriction
 * 形式上の: operational, formally, political
 * 誰か知ってる？: Does anyone know ...?
-* 正確には: Strictly speaking, actually, to be accurate, to be precise, correctly,
+* 正確には: Strictly speaking, actually, to be accurate, to be precise, correctly
+
+## 問題系の使い分け
+
+* Challenge: 難しい問題、something that is hard to do
+* Problem: ネガティブ、困ったこと、考えたらまあ解決できそうなもの？
+* Trouble: ネガティブ、困ったこと
+* Issue: 中立、話し合うべき事柄
+* Matter: 中立、事柄、問題ではない

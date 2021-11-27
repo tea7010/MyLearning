@@ -369,6 +369,12 @@
 * fermented: 発酵した
 * beggars: こじき
 * informal setllers/houses: ホームレスのような違法な家
+* home to: 〜が存在する、所在地の
+* lava lake: 溶岩湖
+* solidified: 液体が固体になった
+* porridge: おかゆ
+* spinach: ほうれん草
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

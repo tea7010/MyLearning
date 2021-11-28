@@ -380,6 +380,20 @@
 * persecution: 迫害
 * hostility: 敵意
 * torture: 拷問
+* narrative: 談話、物語
+* fabulous: extraordinary
+* despair:　絶望
+* conceive: 心に抱く
+* despise: 軽蔑、contempt
+* incompetent: 無能な
+* haze: 霞
+* fixaction: 固着、凝固、不揮発性化
+* crave: 必要とする、切望する
+* midst: in the middle of、中の
+* got a way: 道を見つける（解決方法を見つける）
+* toast　of town: その街の尊敬される人
+* toast to: 乾杯する
+* undertake: 引き受ける、責務を持つ
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -542,3 +556,8 @@
 * Trouble: ネガティブ、困ったこと
 * Issue: 中立、話し合うべき事柄
 * Matter: 中立、事柄、問題ではない
+
+## アメリカっぽい省略
+* gonna: goning to
+* wanna: want to
+* gotta: have got to

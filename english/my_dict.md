@@ -252,7 +252,7 @@
 * STATUTORY: 法定
 * Indemnity: 賠償
 * liability: 責任
-* Jurisdiction: 管轄
+* Jurisdiction: 司法管轄
 * supersedes: 優先
 * segregate: 分離する
 * clutter: a large amount of things that are not arranged in a neat or orderly way
@@ -374,7 +374,12 @@
 * solidified: 液体が固体になった
 * porridge: おかゆ
 * spinach: ほうれん草
-
+* conjure: 魔法を唱えて追い払う、祈願する
+* lend a hand: 手伝う、手を貸す的な
+* dictatorship: 独裁政権
+* persecution: 迫害
+* hostility: 敵意
+* torture: 拷問
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

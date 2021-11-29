@@ -394,6 +394,10 @@
 * toast　of town: その街の尊敬される人
 * toast to: 乾杯する
 * undertake: 引き受ける、責務を持つ
+* barred: 閉ざされている
+* Padlock: 南京錠
+* uninhabited: 無人の
+* frugal: 質素な、倹約な
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

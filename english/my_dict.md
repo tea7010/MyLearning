@@ -401,6 +401,7 @@
 * negative reinforcement: 負の強化（operant conditionの用語)
 * morality: manner, proper behavior
 * commission: 任務、委任
+* acquaintances, əˈkweɪnt(ə)ns: 知人、知り合い
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

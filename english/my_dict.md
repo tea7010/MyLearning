@@ -405,7 +405,13 @@
 * spree: やりたい放題
 * tumble: 転ぶ
 * tumbling down
-
+* stain: 汚れ、しみ
+* sincerity: 誠実さ
+* murmur: せせらぎ、ぶつぶつ言う
+* realm: 君主の支配する土地、領域
+* paved: 舗装された
+* tragedy: 悲劇
+* notion: 概念
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

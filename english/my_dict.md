@@ -77,7 +77,8 @@
 * be about to : これからやります、やるところです。今まさに
 * adoption: 養子縁組
 * homage: 参拝(pray的な)
-* upon: = on, フォーマルな言い方
+* upon: = on, フォーマルな言い方, ~してすぐに
+* once upon a time: あるときに（むかしむかし）
 * lavish: 贅沢な
 * calligraphy: visual art related to writing
 * pseudo: 偽の（すーど）
@@ -412,6 +413,28 @@
 * paved: 舗装された
 * tragedy: 悲劇
 * notion: 概念
+* pregnancy: 妊娠
+* menstruation: 生理、period
+* Prenatal: 妊娠中の
+* maternal: 母親としての
+* midwives: 助産師
+* obesity: 肥満
+* trimester: 出産の三ヶ月前、臨月、妊娠後期
+* hygiene: 衛生状態
+* cesarean: 帝王切開
+* normal delivery: 自然分娩
+* posture: 体の姿勢
+* slouch: 前かがみの姿勢
+* kith: 友達、知り合い
+* kin: 家族、親戚
+* gravitate: 引き寄せる、引力に惹かれる
+* cesspool: 汚水溜まり、肥溜め
+* idlers/loungers: ぶらぶら仕事をしない人
+* irresistibly: いやおうなしに、屈しがたく
+* string(strung: 過去) up: 緊張する、張り詰めた
+* perceive: 知覚する
+* grudge: 恨み
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -566,6 +589,7 @@
 * 形式上の: operational, formally, political
 * 誰か知ってる？: Does anyone know ...?
 * 正確には: Strictly speaking, actually, to be accurate, to be precise, correctly
+* ええっと、なんて言えばいいかわかりませんが: how can I say(how can we sayだとどうしてそう言えるんでしょうみたいな意味らしい)
 
 ## 問題系の使い分け
 

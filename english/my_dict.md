@@ -434,7 +434,14 @@
 * string(strung: 過去) up: 緊張する、張り詰めた
 * perceive: 知覚する
 * grudge: 恨み
-
+* absurdly: ばかげた、不条理な
+* vocation: 才能、適正
+* venture to: 思い切って、あえて〜する
+* ferris wheel: 観覧車
+* passage: 通路、通る道
+* avert: 目・意識をそむける
+* spooky: 気味が悪い、化け物が出そうな雰囲気な
+* startling: 驚くべき
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -1,5 +1,23 @@
 # ショートカット忘備録
 
+操作|共通性|Macコマンド|Winコマンド
+-|-|-|-
+入力ソースの切り替え|共通|`Command + Space`|`Ctrl + Space`
+Copy/Cut/Paste|共通 | `Command + C/X/V` | `Ctrl + C/X/V`
+Undo/Redo|共通 |`Command + Z`, `Command + Shift + Z` | `Ctrl + Z/`, `Ctrl + Shift + Z`
+Save |共通|`Command + S`|`Ctrl + S`
+VScodeのコマンドパレット|共通|`Command + Shift + P`|`Ctrl + Shift + P`
+アプリの切替|違う|`Command + Tab`|`Alt + Tab`
+アプリの終了|違う|`Command + Q or W`|`Alt + F4`
+Chromeのタブ切替|違う|`Ctrl + Tab` | `Ctrl + Tab`
+windowの最大化|違う|`Command + Ctrl + F`|`Win + ↑`
+画面ロック|違う|`Command + Ctrl + Q`|`Win + L`
+スクショ|違う|`Command + Shift + 4`|`Shift + Win + S`
+入力ラインの先頭/末尾に移動|違う| `Ctrl + A/E`| `Home/End`
+デスクトップを表示|違う| `Fn + F11` | `Win + D`
+アプリ起動・検索|違う|`Command + F`|`Win`
+
+
 ## デフォルト
 * Copy/Cut/Paste: `Command + C/X/V`
 * Undo/Redo: `Command + Z`, `Command + Shift + Z`

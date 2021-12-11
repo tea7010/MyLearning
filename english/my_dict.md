@@ -443,7 +443,7 @@
 * spooky: 気味が悪い、化け物が出そうな雰囲気な
 * startling: 驚くべき
 * thorn: 植物のトゲ
-* grin:　葉を見せて笑う
+* grin: 歯を見せて笑う
 * obscure: ぼんやり、不明瞭な
 * interposition: 差し込む、割り込む
 * coffin: 棺桶
@@ -451,6 +451,17 @@
 * intimate: 親しくなる
 * embark: 船や飛行機に乗り込むこと
 * diabetes: 糖尿病
+* allowance: 手当、補助、supportの方が誤解ないかも
+* embrace: 抱きしめる、取り入れる
+* exorbitant: （価格などが）法外な
+* acute: 尖った、鋭角
+* anxious: 心配な
+* attain: （具体的な目標を）到達する、達成する 
+* cease: やめる、中止する
+* likewise: 同様に
+* aspiration: 野望
+* hold dear/be fond of: 大切にする、好き
+* dwell: 存在する、居住する
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -614,6 +625,9 @@
 * Trouble: ネガティブ、困ったこと
 * Issue: 中立、話し合うべき事柄
 * Matter: 中立、事柄、問題ではない
+
+### 達成した系の難易度
+attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ accomplish（やるべきことができた）
 
 ## アメリカっぽい省略
 * gonna: goning to

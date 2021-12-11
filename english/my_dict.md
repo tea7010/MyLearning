@@ -462,6 +462,12 @@
 * aspiration: 野望
 * hold dear/be fond of: 大切にする、好き
 * dwell: 存在する、居住する
+* dusk: 暗がり、夕闇, sunset
+* dawn: 夜明け, sunrise
+* pendulum: 振り子
+* once, twice, thrice, 4 times, ...
+* vigilante: 自警団
+* blackmail: 脅迫する、ゆする（公にしない代わりに金をもらうやつ）
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

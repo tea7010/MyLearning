@@ -471,6 +471,12 @@
 * irremediable: 取り返しのつかない、治療不可な
 * encompass: 取り巻く
 * compelling: 強制的な
+* wholesome: 健全、健康or身体的にいいこと
+* wearisome: 退屈な仕事、肩のこる
+* dissipate: 散らす、発散させる
+* solitude: 一人でいる状態
+* doth: doesの古い言い方
+* retain: 持った状態が続く
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

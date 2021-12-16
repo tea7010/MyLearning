@@ -479,6 +479,11 @@
 * retain: 持った状態が続く
 * desperate: 絶望的な、無慈悲な
 * axiom: 公理、原理
+* strive: 努力する
+* hangover: 二日酔い
+* gugling: ぐるぐるみたいな擬音、おなかすいた、溺れてる
+* nautical/maritime: 航海の、海の
+* topped with: 上からトッピングする
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

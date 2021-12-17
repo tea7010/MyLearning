@@ -3,17 +3,13 @@
 ###### tags: `hobby`
 
 ## 単語帳
-* beep: shot/single tone mede by a computer
 * don't tell a soul: 誰にも言わないで 
-* It's good to see you. It's been ages!: 会えてよかった、久しぶりだね
 * Is everything clear to you?: 理解できた？
 * I'm sorry. I didn't mean it.: すまん、そういう意味じゃなかった
-* Could you say it again ?: もっかい言ってくれ
 * Oh, I'm sorry to hear that.: まじか
 * For a change, try this one.: 息抜きにこれどう？
 * Are you serious?: まじで？
 * Grand master: masterの最高位的な
-* be(get) used to: 慣れる
 * right/left turn: 右折・左折
 * designated: 指定された、専用の
 * crime is (countable, noun) a specific act committed in violation of the law while criminal(adjective) is a person who is guilty of a crime, notably breaking the law. 
@@ -23,7 +19,6 @@
 * reprimand: a formal expression of disapproval. 譴責
 * debris: scattered pieces of rubbish or remains. 落ちてきたりする危ないもの
 * sturdy: 強い、頑丈な
-* besides: その他に、さらに
 * beside: そばで
 * thump: ガツンと
 * faucet: 蛇口(tap waterは蛇口からの水)
@@ -32,12 +27,7 @@
 * premise: 前提
 * near miss: ニアミス、ヒヤリハット
 * projection: 写像、estimete/forecast
-* intend to: しようとしている
-* catch up: なんとかついていく
 * and vice versa: 逆もまた然り
-* I was born in {year} of {month} {day} or on {month} {day} in {year}
-* masion - rich person`s house
-* friend from college: 大学の時の友達（大学の時からの友達という意味でfrom)
 * flunked: failing
 * convince: persuade
 * force somebody to do: 強要する
@@ -45,7 +35,6 @@
 * callous: 硬くなった
 * strive: 努力する
 * I work for ~hours everyday
-* very often: あまり頻繁でない
 * count on: rely
 * hooked on: 熱中する
 * boredom: boreのnoun
@@ -57,7 +46,6 @@
 * fully aware: しっかり認識している
 * How often = How many times = How frequently
 * cremation: 火葬
-* What makes you want to go there?: なんでそこ行きたいの？
 * violation fee: 違反金
 * pharmacy = drugstore: 薬局
 * cope with/deal with: 対処する、対応する
@@ -85,10 +73,8 @@
 * deem: 思う
 * Melancholy: ゆううつ
 * zodiac: 占い
-* dumplings: 餃子
 * prawns: エビ
 * ground meat: 挽肉。grind - ground -ground 
-* stew: シチュー
 * staple: ホチキスの針、特産品
 * Stir frying: 炒め物
 * distract: 邪魔する
@@ -193,7 +179,6 @@
 * fluffy: ふわっとした
 * Foraging: 狩猟採集
 * per capita: 一人当たりの
-* objection: 異論
 * Sibling: brothers or sisters
 * Physical Education class: 体育の授業
 * it is lined with ...: ...が並んでいる
@@ -255,7 +240,6 @@
 * liability: 責任
 * Jurisdiction: 司法管轄
 * supersedes: 優先
-* segregate: 分離する
 * clutter: a large amount of things that are not arranged in a neat or orderly way
 * allergies: アレルギー(a·luh·jeez)
 * courteous: kuh·tee·uhs, 礼儀正しい

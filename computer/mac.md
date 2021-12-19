@@ -4,12 +4,13 @@
 -|-|-|-
 入力ソースの切り替え|共通|`Command + Space`|`Ctrl + Space`
 Copy/Cut/Paste|共通 | `Command + C/X/V` | `Ctrl + C/X/V`
-Undo/Redo|共通 |`Command + Z`, `Command + Shift + Z` | `Ctrl + Z/`, `Ctrl + Shift + Z`
+Undo/Redo|共通 |`Command + Z`, `Command + Shift + Z` | `Ctrl + Z`, `Ctrl + Shift + Z`
 Save |共通|`Command + S`|`Ctrl + S`
 VScodeのコマンドパレット|共通|`Command + Shift + P`|`Ctrl + Shift + P`
 アプリの切替|違う|`Command + Tab`|`Alt + Tab`
 アプリの終了|違う|`Command + Q or W`|`Alt + F4`
 Chromeのタブ切替|違う|`Ctrl + Tab` | `Ctrl + Tab`
+Chromeの戻る/進む|違う|`Alt + ← or →`|`Command + [ or ]`
 windowの最大化|違う|`Command + Ctrl + F`|`Win + ↑`
 画面ロック|違う|`Command + Ctrl + Q`|`Win + L`
 スクショ|違う|`Command + Shift + 4`|`Shift + Win + S`

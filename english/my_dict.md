@@ -640,6 +640,7 @@
 attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ accomplish（やるべきことができた）
 
 ## アメリカっぽい省略
+* wanna: want to/want
 * gonna: goning to
-* wanna: want to
 * gotta: have got to
+* ain't: are not

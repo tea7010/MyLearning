@@ -51,3 +51,8 @@ df['some_column'].describe().apply(lambda x: format(x, 'f'))
 https://shinyorke.hatenablog.com/entry/pandas-tips
 * applyは可読性が上がるが、series(単一カラム)のループ高速化はfor < apply < mapで強い
 * やはりnumpy配列でベクトル演算するのが一番早い
+
+## strカラムを複数delimiterで結合したカラムを作成
+```python
+df['concate'] = df[['Year', 'quarter', ...]].agg('-'.join, axis=1)
+```

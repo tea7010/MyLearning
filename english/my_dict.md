@@ -472,6 +472,14 @@
 * precipice: 崖（かなり高い険しい）
 * fling out: のけものにする、放り出す
 * enlighten: 情報や理解することを誰かに教えること、啓蒙？
+* redimentary: 初歩的な、原始的な
+* Primate: 霊長類
+* vertebrae: 背骨？
+* pelvis: 背骨
+* genetically: 遺伝学的な
+* mice: mouseの複数形
+* rmbryos: 胚、
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

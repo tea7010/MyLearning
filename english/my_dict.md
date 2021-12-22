@@ -478,7 +478,8 @@
 * pelvis: 背骨
 * genetically: 遺伝学的な
 * mice: mouseの複数形
-* rmbryos: 胚、
+* rmbryos: 胚
+* stature: 身長
 
 
 ## 言えなかった表現

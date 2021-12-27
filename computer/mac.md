@@ -80,3 +80,7 @@ Caps keyにCtrlを割り当てしてみた
 ### 写真
 * RAW現像: Capture One
 * クラウドストレージ: Amazon Photos
+
+### パッケージ管理
+* homebrew
+https://brew.sh/index_ja

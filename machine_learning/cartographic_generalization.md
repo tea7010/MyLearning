@@ -22,6 +22,11 @@ https://ocw.hokudai.ac.jp/wp-content/uploads/2016/01/GraphTheory-2007-Note-all.p
 ## ライブラリ
 https://networkx.org/
 
+
+* pandas dfからedgeを作成: `nx.from_pandas_edgelist`
+* plotlyでプロット: https://plotly.com/python/network-graphs/
+* 最短距離の探索: https://networkx.org/documentation/stable/reference/algorithms/shortest_paths.html
+
 # サンプルデータ
 バスの走行軌跡、３０秒ごと
 https://www.kaggle.com/rasyidstat/transjakarta-bus-gps-data

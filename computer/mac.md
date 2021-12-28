@@ -84,3 +84,7 @@ Caps keyにCtrlを割り当てしてみた
 ### パッケージ管理
 * homebrew
 https://brew.sh/index_ja
+
+
+### フォルダ内のWMAをmp3に一括変換
+`for file in *.wma; do ffmpeg -i "${file}"  -acodec libmp3lame -ab 192k "${file/.wma/.mp3}"; done`

@@ -489,6 +489,10 @@
 * hospitable: welcomeな態度
 * spit: 唾を吐く
 * lord: 主・主人
+* Arctic: 北極
+* Antarctic: 南極
+* adore: 崇拝する、溺愛する
+* comtemplate: 熟考する、しっかり考える
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

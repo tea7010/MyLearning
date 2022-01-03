@@ -495,6 +495,9 @@
 * comtemplate: 熟考する、しっかり考える
 * pursue: 追跡する
 * disassemble: 分解する
+* intimate: 親密な、親しい
+* literate: 読み書きの出来る
+* incense: お香
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

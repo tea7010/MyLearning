@@ -1,3 +1,5 @@
+# Memo
+
 ## Unit 1
 * Present continuous: be + doing
 * 始まってはいるが、終わってはない状態
@@ -1233,3 +1235,6 @@
 * get back to somebody: 返信する
 * look back (on something): 思い返す
 * pay back: 金を返す
+
+# Exercise
+* until Unit 10

@@ -1234,7 +1234,7 @@
 * call/phone/ring back: 折り返し電話
 * get back to somebody: 返信する
 * look back (on something): 思い返す
-* pay back: 金を返す
+* pay back: 金を返
 
 # Exercise
-* until Unit 10
+* until Unit 13

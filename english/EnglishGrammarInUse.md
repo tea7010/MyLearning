@@ -120,6 +120,7 @@
     * = have got
     * continuousはknowみたいな感じで使わない
 * 疑問形はhave -> Do/does you ...?, have got -> Have you got...?
+    * Past perfectについては、Had youにはせずにDid youになる？
 * have gotは使わない状況: 何かを食べる・飲む、風呂に入る、休憩をとる、経験する、見る、会話する、時間を過ごす、出くわす、生まれる
     * countinuousもOK
 
@@ -130,6 +131,7 @@
 * Did you used to + verb...?: 過去なので常にDid
 * I didn't used to + verb...: 過去なので常にdid
 * be used to + ~ing: 慣れていると混同しないこと
+* Did you use to ...?: 疑問形。過去にやってた？
 
 ## Unit 19/20
 * Present tenses: Present countinuous/simpleはいまからやることが決まっていることについて使える
@@ -1237,4 +1239,4 @@
 * pay back: 金を返
 
 # Exercise
-* until Unit 16
+* until Unit 18

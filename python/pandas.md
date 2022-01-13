@@ -56,3 +56,29 @@ https://shinyorke.hatenablog.com/entry/pandas-tips
 ```python
 df['concate'] = df[['Year', 'quarter', ...]].agg('-'.join, axis=1)
 ```
+
+## 複数のDFをエクセルの各シートに出力
+https://note.nkmk.me/python-pandas-to-excel/
+
+```python
+with pd.ExcelWriter('excel_filename') as writer:
+    df.to_excel(writer, sheet_name='sheet1')
+    df2.to_excel(writer, sheet_name='sheet2')
+```
+
+## delimiterで区切られているカラムをunpivotする
+
+```python
+def unpivot_by_detemiter(df, col, delimiter) -> pd.DataFrame:
+    # stack rows by split values with multi-index
+    unpivots = df[col].apply(lambda x: pd.Series(x.split(delimiter))).stack()
+
+    # level_0 will be the original indecies
+    unpivots = unpivots.reset_index()
+    
+    # rename unpivot column name
+    unpivots.rename(columns={0: col + '_unpivot'}, inplace=True)
+
+    # merge to original table
+    return unpivots.merge(df, left_on='level_0', right_index=True)
+```

@@ -508,6 +508,12 @@
 * desperation: 崖っぷち、死にものぐるい, in desperation
 * plaster: 石膏（壁に塗ったり、骨折のときの治療）
 * glittering: 光り輝く
+* peripheral: 周辺の、周辺機器の
+* render: 翻訳する、ある状態に変化させる、与える
+* pardon: 許しを請う
+* wither: 枯れる（植物とか）
+* compositional: 構成的な, compositionが構成
+* alleged: うわさする
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

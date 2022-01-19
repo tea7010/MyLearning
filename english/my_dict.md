@@ -514,6 +514,8 @@
 * wither: 枯れる（植物とか）
 * compositional: 構成的な, compositionが構成
 * alleged: うわさする
+* cook up: 手早く作り上げる、策を考える
+* upstate: 北側、北部
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

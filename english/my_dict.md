@@ -525,6 +525,15 @@
 * entrust: 委託す
 * agility: 俊敏さ
 * extrapolate: あるデータからわかったことを、より広い範囲のデータや事象に当てはめて推定すること
+* immune: 免疫がある
+* deteriorate: 悪化する
+* peril: norn, dangerな状態
+* jeopardy: verb, 危機にさらされる
+* decisive: decideする状況、決断力のある
+* chiefly: mainly
+* address: verb, 演説する、説く
+* tranquility: tranquil(平穏)な状態
+* auxiliary: 補助的な
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

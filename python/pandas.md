@@ -82,3 +82,16 @@ def unpivot_by_detemiter(df, col, delimiter) -> pd.DataFrame:
     # merge to original table
     return unpivots.merge(df, left_on='level_0', right_index=True)
 ```
+
+## dictのlist -> read_csvするときの挙動
+```python
+dict_list = [{
+  'a': 1,
+  'b': 2
+}, {
+  'a': 5,
+  'c': 3
+}]
+pd.DataFrame(dict_list)
+```
+これでもちゃんと存在しないkey(column)に対しては、nanで読み込んでくれる

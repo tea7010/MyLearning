@@ -37,3 +37,12 @@ def foo(extension):
 foo('mov')
 >>> '*.[mM][oO][vV]'
 ```
+
+## zipfileをインメモリで読み込む
+```python
+from zipfile import ZipFile
+
+def extract_zip_in_memory(input_zip) -> dict:
+    input_zip = ZipFile(input_zip)
+    return {name: input_zip.read(name) for name in input_zip.namelist()}
+```

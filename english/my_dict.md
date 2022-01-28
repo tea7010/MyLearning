@@ -101,7 +101,6 @@
 * villain: 悪役
 * take-away: 収穫、学んだこと
 * mean: ずるい、巧みな
-* generous: たくさんの
 * cram school: 塾
 * subordinates: 下位の, 付随/従属する
 * anticipate: 予測する、見込む
@@ -280,7 +279,7 @@
 * cardboard box: 段ボール
 * cheap·skate: A stingy person
 * stin·gy: Unwilling to give or spend; ungenerous
-* generous: たっぷりの
+* generous: 大きめの、寛大な
 * fructose: 果糖、A hexose sugar found especially in honey and fruit.
 * Shoplifter: 万引き犯, A shoplifter steals a product from a store.
 * ballistic: 弾道学の、カンカンに怒った状態
@@ -534,6 +533,8 @@
 * address: verb, 演説する、説く
 * tranquility: tranquil(平穏)な状態
 * auxiliary: 補助的な
+* recede: 後退する、遠くなる
+
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

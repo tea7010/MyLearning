@@ -534,7 +534,12 @@
 * tranquility: tranquil(平穏)な状態
 * auxiliary: 補助的な
 * recede: 後退する、遠くなる
-
+* sway: ゆらゆら、ゆれる
+* shack: かんたんな建物、小屋
+* collide: 衝突する、collisionのverb
+* inertia: 慣性、一度出たものが変わらない風潮を比喩するときにも使う
+* dejection: 落胆, depression
+* needy: 貧困な人、貧しい
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

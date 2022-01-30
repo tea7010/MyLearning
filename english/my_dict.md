@@ -540,6 +540,8 @@
 * inertia: 慣性、一度出たものが変わらない風潮を比喩するときにも使う
 * dejection: 落胆, depression
 * needy: 貧困な人、貧しい
+* bruise: あざ
+* decide against: dicede not to do
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

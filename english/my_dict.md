@@ -542,6 +542,13 @@
 * needy: 貧困な人、貧しい
 * bruise: あざ
 * decide against: dicede not to do
+* slumber: sleep
+* terrain: 地形
+* quiver: 震える、shiverは寒さで震える
+* dew: 露
+* deliverately: 意図的に
+* pebble: 丸い削れた石
+* plethora: すごい量のもの、なにか
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

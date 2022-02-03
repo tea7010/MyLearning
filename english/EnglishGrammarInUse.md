@@ -1239,5 +1239,5 @@
 * pay back: 金を返
 
 # Exercise
-* until Unit 69
-* review: 64
+* until Unit 70
+* review: 67

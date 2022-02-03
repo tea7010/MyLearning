@@ -142,14 +142,12 @@
 * insomnia: 不眠症
 * Chick: ひよこ
 * adequate: 適切な
-* interpret: 解釈する
 * ostrich: ダチョウ
 * granite: 花崗岩
 * dune: 砂丘
 * mimic: 真似る、模した
 * gushing geyser: 間欠泉
 * dough: 生地
-* broth: だし汁、スープ
 * restless: そわそわする
 * groomy: 憂鬱な
 * superiors: 上位の、上位職
@@ -160,7 +158,6 @@
 * eyestrain: 眼精疲労
 * intestine: 腸
 * Meteor shower: 流星群
-* duty free: 免税
 * ruin: 駄目にする, 遺跡, 廃墟
 * cob: トウモロコシの軸（コブサラダのコブは人名なので別物)
 * even though: though, althoughと同じ, even ifは仮定の話をするときに使う
@@ -549,6 +546,7 @@
 * deliverately: 意図的に
 * pebble: 丸い削れた石
 * plethora: すごい量のもの、なにか
+* wearisome: 退屈な、うんざりさせる
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

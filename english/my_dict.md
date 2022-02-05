@@ -79,7 +79,6 @@
 * Stir frying: 炒め物
 * distract: 邪魔する
 * stuck up/file up: 貯まる
-* gravy: 肉汁
 * mushy: やわらかい
 * pea: 緑の豆、グリーンピース
 * picture-perfect: 絵にかいたようなきれいな
@@ -547,6 +546,9 @@
 * pebble: 丸い削れた石
 * plethora: すごい量のもの、なにか
 * wearisome: 退屈な、うんざりさせる
+* conspire: 悪事を一緒に考える、共謀
+* disppasionate: 冷静な、感情に流されない
+* commission: verb: 特別な役割に正式に任命する、norn: 手数料
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
@@ -628,8 +630,6 @@
     * Make excuses
 * 先送りにする
     * procrastinate
-* 間違いを起こす
-    * commit a mistake
 * 覚えました: I learned ...
 * 展望台: Observatory
 * 無意識に: unconsciously, without thinking

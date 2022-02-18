@@ -2,6 +2,46 @@
 
 ###### tags: `hobby`
 
+## 学習目的（ゴール）
+* 相手に数少ない単語で自分の考えを推測してもらわず、必要な情報量を多くして推測でなく確実な理解をしてもらうこと
+    * 短い単語の組み合わせだけでなく、具体的な例などを交えて説明できること
+    * 自分のいいたいことを適切な語順・時系列で、誤解なく言えること
+* 質問を脳内で時間をかけて組み立てずに、すぐに言えるようになること
+* 相手がしゃべったことに対して、適切なリアクション語 + rephraseができるようになること
+* エピソードなど、状況を説明して話にオチを付けられる（笑わせる）こと
+
+## My Principal
+* Do NOT learn language on the deks. Just experience speaking, listening and all related things. I'm just like a 3~5 years old baby in native country. The more I spend time to the language, the more I get fluency.
+* Grammer does NOT make sense for the person who hasn't experienced the grammer mistake. If I encounter the situation which is difficult to express or translate, that is the start point of learning.
+* Do NOT end the conversation with a few boaring words. e.g. I see., I agree. Absolutely. Say more words to ensure my understanding is correct or not. 
+* Question makes the conversation interesting and fun to the talking person.
+* 詰まったら聞かれてることを主語とかにして文を喋りつつ、isとかの後で詰まること。その前でうーんって言ってたら、向こうは質問が分かってないのか区別が付かない
+* 言えるか分からないけど、とりあえず思いついたらしゃべってみて考える. 次喋るワードを確かめながらやると遅いけど、日本語でもやってる気がする
+* スライドとかは何話すか決めてないと日本語でも話せない
+* 日本語に変換したり順序を考えながら喋らない。遅い。
+* 日本語の単語をそのまま変換してると、まったく同じ意味じゃない可能性もある。かんたんな表現で説明したほうがわかりやすい。
+* １日１０分でいいので、英語でしか考えない時間を作る。身の回りのもの・起きていることを、”知っているボキャ・知識”だけで説明してみること。
+
+## 問題系の使い分け
+
+### Problem系
+* Challenge: 難しい問題、something that is hard to do
+* Problem: ネガティブ、困ったこと、考えたらまあ解決できそうなもの？
+* Trouble: ネガティブ、困ったこと
+* Issue: 中立、話し合うべき事柄
+* Matter: 中立、事柄、問題ではない
+
+### Probability
+* Unlikely: 10%
+* Possibly: 10~30%
+* Perhaps: 10~50%
+* maybe: 50%~60%
+* likely: 60%
+* Probably: 70%~
+* Definitely: 99%
+
+### 達成した系の難易度
+attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ accomplish（やるべきことができた）
 ## 単語帳
 * don't tell a soul: 誰にも言わないで 
 * Is everything clear to you?: 理解できた？
@@ -653,30 +693,6 @@
 
 ## オンライン英語使い方
 
-学習目的（ゴール）:
-* 相手に数少ない単語で自分の考えを推測してもらわず、必要な情報量を多くして推測でなく確実な理解をしてもらうこと
-    * 短い単語の組み合わせだけでなく、具体的な例などを交えて説明できること
-    * 自分のいいたいことを適切な語順・時系列で、誤解なく言えること
-* 質問を脳内で時間をかけて組み立てずに、すぐに言えるようになること
-* 相手がしゃべったことに対して、適切なリアクション語 + rephraseができるようになること
-* エピソードなど、状況を説明して話にオチを付けられる（笑わせる）こと
-
-教師からのアドバイス;
-* Vocabrary + そのワードの使い方・状況を覚えること
-* Grammerはそれに付いてくる
-
-教訓・気づき:
-* とにかく会話経験をすること。多分まだネイティブ３歳児くらいも経験できてない
-* 文法は失敗経験があってこそ。言いたいことが言えなかった・困った経験がないと覚えないし身につかない
-* 適当なお決まりフレーズ(I agree. I see.)などで会話を終わらせないこと
-* 詰まったら聞かれてることを主語とかにして文を喋りつつ、isとかの後で詰まること。その前でうーんって言ってたら、向こうは質問が分かってないのか区別が付かない
-* 質問が分からないときは、どこまで分かったのかを説明しつつ、こういう意味の質問？みたいな言い方をする
-* Lの音がRになってるらしい
-* 複数形のsubjectに対して、isを使いがち
-* 言えるか分からないけど、とりあえず思いついたらしゃべってみて考える. 次喋るワードを確かめながらやると遅いけど、日本語でもやってる気がする
-* ネイティブのスピードにはまだ付いていけていない。リスニング or 発音が苦手と思われる
-* スライドとかは何話すか決めてないと日本語でも話せない
-* 日本語に変換したり順序を考えながら喋らない。遅い
 
 ## 会議とかで使う単語(JP -> EN)
 * ~については: As for ~, in terms of ~, regarding ~, 
@@ -705,19 +721,3 @@
 * 正確には: Strictly speaking, actually, to be accurate, to be precise, correctly
 * ええっと、なんて言えばいいかわかりませんが: how can I say(how can we sayだとどうしてそう言えるんでしょうみたいな意味らしい)
 
-## 問題系の使い分け
-
-* Challenge: 難しい問題、something that is hard to do
-* Problem: ネガティブ、困ったこと、考えたらまあ解決できそうなもの？
-* Trouble: ネガティブ、困ったこと
-* Issue: 中立、話し合うべき事柄
-* Matter: 中立、事柄、問題ではない
-
-### 達成した系の難易度
-attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ accomplish（やるべきことができた）
-
-## アメリカっぽい省略
-* wanna: want to/want
-* gonna: goning to
-* gotta: have got to
-* ain't: are not

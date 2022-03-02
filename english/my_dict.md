@@ -44,6 +44,10 @@
 
 ### 達成した系の難易度
 attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ accomplish（やるべきことができた）
+
+### Fraction
+Fraction = Numerator / Denominator
+
 ## 単語帳
 * don't tell a soul: 誰にも言わないで 
 * Is everything clear to you?: 理解できた？

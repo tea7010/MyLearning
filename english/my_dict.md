@@ -597,6 +597,8 @@ Fraction = Numerator / Denominator
 * commission: verb: 特別な役割に正式に任命する、norn: 手数料
 * digest: 消化する、要約する
 * caulk: コーキング（シーリング）する
+* ding: make a linging sound
+* soar: fly high smoothly
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

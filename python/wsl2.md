@@ -39,3 +39,26 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 1
 ```
 sudo update-alternatives --config python
 ```
+
+## pipenvによるお手軽環境構築
+https://qiita.com/imasaaki/items/25694783ae50dd66303e
+
+WSL2インストール後、初回のみ
+```bash
+sudo apt install python3-pip
+```
+
+pipenvのインストール
+```
+sudo pip install pipenv
+```
+
+プロジェクトフォルダ直下での環境構築
+```
+pipenv --python=/usr/bin/python3
+```
+
+パッケージのinstall
+```
+pipenv install [package]
+```

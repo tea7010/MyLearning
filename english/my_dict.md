@@ -600,6 +600,9 @@ Fraction = Numerator / Denominator
 * ding: make a linging sound
 * soar: fly high smoothly
 * worship: revere(崇拝)する
+* auxiliary
+* adjacent
+* parkup
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

@@ -603,6 +603,10 @@ Fraction = Numerator / Denominator
 * auxiliary
 * adjacent
 * parkup
+* dozed off
+* nibble
+* mown hay
+* deliberately
 
 ## 言えなかった表現
 * （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき

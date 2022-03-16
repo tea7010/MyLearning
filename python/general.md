@@ -46,3 +46,19 @@ def extract_zip_in_memory(input_zip) -> dict:
     input_zip = ZipFile(input_zip)
     return {name: input_zip.read(name) for name in input_zip.namelist()}
 ```
+
+## pickleでObjectを保存・読み込み
+```python
+import pickle
+
+class PickleUtils:
+    @staticmethod
+    def write(obj, dest):
+        with open(dest, 'wb') as p:
+            return pickle.dump(obj, p)
+    
+    @staticmethod
+    def load(src):
+        with open(src, 'rb') as p:
+            return pickle.load(p)
+```

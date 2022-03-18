@@ -405,7 +405,6 @@ Fraction = Numerator / Denominator
 * dictatorship: 独裁政権
 * persecution: 迫害
 * hostility: 敵意
-* torture: 拷問
 * narrative: 談話、物語
 * fabulous: extraordinary
 * despair:　絶望
@@ -438,7 +437,6 @@ Fraction = Numerator / Denominator
 * paved: 舗装された
 * tragedy: 悲劇
 * notion: 概念
-* pregnancy: 妊娠
 * menstruation: 生理、period
 * Prenatal: 妊娠中の
 * maternal: 母親としての
@@ -610,102 +608,5 @@ Fraction = Numerator / Denominator
 * choreograph
 * father, mother, kin
 * wondrous
-
-## 言えなかった表現
-* （彼が遅れるのを予想して）予定時刻の10分前の時間を伝えるべき
-    * He should tell before the 10min time of their meeting that his going to be late.
-* これは～に使われる
-    * It is used for
-* 私の一番の友達は大学の時からの～です。
-    * my best friend is ... who I met when I was 1st year in university. 
-    * ... who is my friend from college/ever since college
-* 高いレストランとかで使われていた食材が、スーパーに安価で売られるようになった
-    * Ingredient which used in fancy restaurant are now sold to grocery at low price.
-* どんな種類の移動手段で仕事いってる？
-    * what kind of transportation do you take when you go to work?
-    * How dou you go to the office?
-* なにが忙しかった？
-    * What made you busy?
-* どうかした？
-    * What's wrong with you?
-    * What's the matter?
-* どれくらい掛かるの？（時間)
-    * How long does it take...
-* じっと見ていたら気づくよ
-    * You can find them If you stare at a streetlight at the night
-* 県は...が生産量一位です
-    * ~ is the largest producer of ... in Japan
-* ギフトを送る
-    * Had a gift delivered for her
-* 風邪は移すと治る
-    * The cold will heal when you transfer it to others
-* 霊柩車が通ると親指を隠す
-    * Hide your thumb when the hearse passes
-* 今は古い慣習で若い人はあまりやらない
-    * it's becoming an old practice and younger generations don't do much
-* こどもを育てる金がいる
-    * I need enough money to raise them
-* 所帯をもつだろう
-    * I will be having a family
-* てっきり～だと思ってました
-    * I just thought it was ....
-* 同情する
-    * sympathize with, feel sympathy for, feel pity for, feel sorry for
-* ひとまずは
-    * とりあえず: For now, For the time being
-    * 手始めに: First of all, To begin with
-    * なんにせよ: anyway, in any case
-* リッチな人より貧困な人に支援するべき
-    * We should help the poor rather than the rich
-* 日本でも少ないけど、戸籍や家を持たないひともいる
-    * There are few people in Japan, but some people do not have a family register or a house.
-* 日本では長をやめさせるような署名・投票が可能である
-    * In Japan, it is possible to sign and vote to be resigned the prefectoral governer/ministor
-* 目が悪くなる
-    * my eyesight get weak/worse
-    * Looking at a computer or smartphone screen dagames my eyesight
-* 留年する
-    * remaining same class for another year
-    * repeat a year
-* この方が効率的だと思う
-    * I think that it it s more efficient.
-* パスワードが流出する
-    * leak/compromise a password
-* 進んでやろうとする
-    * be willing to 
-* バイクでコケる
-    * I fell down moterbike while the speed is about 40km/h
-* 声が遠いようです
-    * Excuse me, but I'm losing your voice
-    * sorry, but your voice is breaking up.
-* これ以上目が悪くならないようにメガネをかける
-    * Wear glasses to prevent my eyes from getting worse any more
-* 感動する
-    * be impressed to
-* 好きか嫌いかで言ったら好きかも
-    * I like it if I say I like it or not. but I'm not a big fan of it.
-* 機会が多い
-    * Do more frequent
-    * There are much more oppotunities
-* 言い訳をする
-    * Make excuses
-* 先送りにする
-    * procrastinate
-* 覚えました: I learned ...
-* 展望台: Observatory
-* 無意識に: unconsciously, without thinking
-* 意識的に、意識する: Pay attention, aware of 
-* 通信会社: telecomunication company
-* 携帯の契約について：Pre-paid <-> Plan
-* 墓参りする: visit ancestor's grave(cemetary)
-* 見返りを求めない: Don't expect nothing in return
-* 格差がある: Disparity, gap
-* 2日後: 2 days later(agoと混同しがちなので注意)
-* ほとんど忘れてしまった: I forgot most of it. I don't recall accepting that.
-* km2: square kilometers
-* 幼虫・芋虫: Larva, caterpillar
-* 書類に許可のサインする: signed up for a permission
-* 車を持てない: I can't own a car
-* あなたの意向に沿っているかわかりませんが: I'm not sure if it suits your intentions, but ...
-* 白色は汚れやすい: white color won't keep clean
-* 整っている: keep clean, well-arranged, neat
+* observatory
+* cemetary

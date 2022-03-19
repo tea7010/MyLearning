@@ -599,7 +599,7 @@ Fraction = Numerator / Denominator
 * soar: fly high smoothly
 * worship: revere(崇拝)する
 * auxiliary
-* adjacent
+* adjacent: next to or adjoining something else.
 * parkup
 * dozed off
 * nibble
@@ -610,3 +610,20 @@ Fraction = Numerator / Denominator
 * wondrous
 * observatory
 * cemetary
+* squeak
+* evacuate
+* eradicate
+* trait
+* nosebleed
+* imposter
+* emaciated
+* comrade
+* distracted
+* lure
+* flirt
+* midget
+* adjacent
+* antidote
+* plethora
+* detest
+* aloof: not friendly or forthcoming; cool and distant.

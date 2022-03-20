@@ -600,7 +600,7 @@ Fraction = Numerator / Denominator
 * worship: revere(崇拝)する
 * auxiliary
 * adjacent: next to or adjoining something else.
-* parkup
+* parkup: to put a vehicle in a place where it can stay for some time
 * dozed off
 * nibble
 * mown hay

@@ -962,7 +962,7 @@
 * into = enter
     * go/get/putなどにはintoをinと省略するときあり
     * opposite: out of
-    * 乗り物に乗るときはget on/off
+    * バス・飛行機など公共交通機関に乗るときはget on/off
 * in
     * ペンで書くとかはin pencil, in inkなど
 * on the whole = (in generall)
@@ -1239,5 +1239,8 @@
 * pay back: 金を返
 
 # Exercise
-* until Unit 124
-* review: 112
+* Done until: 126
+* Review until: 112
+
+# Duo
+* Done until: unit 3

@@ -1243,4 +1243,4 @@
 * Review until: 115
 
 # Duo
-* Done until: unit 3
+* Done until: unit 6

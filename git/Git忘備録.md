@@ -39,11 +39,13 @@ https://qiita.com/shizuma/items/2b2f873a0034839e47ce
 
 > GitHubと実際にやりとりするときにID・パスワードを聞かれるときssh接続がうまくいっていません。レポジトリのディレクトリに入り
 
-`git config remote.origin.url`
+`git config remote.origin.url` or `git remote -v`
 
 > で確認し　https://github.com/[ユーザID]/[リポジトリ]となっていたら
 
 `git remote set-url origin git@github.com:[ユーザID]/[リポジトリ].git`
+
+> AzureDevOpsの場合はSSHでクローンしたいときのURLを、`git remote set-url origin {SSH_URL}`とすればOK.
 
 
 # Githubにプライベートアドレスを晒さない方法

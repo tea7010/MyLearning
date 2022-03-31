@@ -627,3 +627,5 @@ Fraction = Numerator / Denominator
 * plethora
 * detest
 * aloof: not friendly or forthcoming; cool and distant.
+* pledge
+* designated

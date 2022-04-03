@@ -88,7 +88,6 @@ Fraction = Numerator / Denominator
 * 戻る: come back, be back, return, go back
 * put up: construction, build
 * contented: satisfied, happiness
-* hang out: 遊ぶ(playは何かで遊ぶ感じだが、これはざっくりと遊ぶ感じ)
 * fully aware: しっかり認識している
 * How often = How many times = How frequently
 * cremation: 火葬
@@ -105,7 +104,6 @@ Fraction = Numerator / Denominator
 * foodie: ごはん好きな人
 * lettuce: レタス
 * nagging: 口やかましい、しつこい、やっかいな
-* Pinoy: Phillipineの人
 * district: 地区
 * be willing to: 必要があればやりますよ的な
 * be about to : これからやります、やるところです。今まさに
@@ -375,7 +373,6 @@ Fraction = Numerator / Denominator
 * night owl: 夜型人間
 * Morning person: 午前中に調子が出る人
 * skeletal schedule: the minimum number of employees needed to operater a business
-* Diapers: おむつ
 * Infrared(IR) light: 赤外線
 * be around someone: 周りにいる
 * child's play: おままごと
@@ -629,3 +626,4 @@ Fraction = Numerator / Denominator
 * aloof: not friendly or forthcoming; cool and distant.
 * pledge
 * designated
+* hail: pellets of fozen rain

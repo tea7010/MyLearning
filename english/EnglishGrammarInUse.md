@@ -1052,7 +1052,7 @@
     * complain of a pain in {}: ここが痛いという
 * remind
     * remind somebody about: 忘れないようにというリマインド
-    * remind somebody of: 思い出させる
+    * remind somebody of: 思い出させる  
 * warn
     * warn about: 危ないとか普通じゃないとか言う
     * warn about/of: 後ほどおこることに注意する
@@ -1239,7 +1239,7 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 133
+* Done until: 134
 * Review until: 124
 
 # Duo

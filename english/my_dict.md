@@ -48,19 +48,17 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 ### Fraction
 Fraction = Numerator / Denominator
 
+## 使えそうな文
+* I don't think of much of it = I don't like it very much
+* I wouldn't dreamt of it = I would never do it
+
 ## 単語帳
 * don't tell a soul: 誰にも言わないで 
-* Is everything clear to you?: 理解できた？
-* I'm sorry. I didn't mean it.: すまん、そういう意味じゃなかった
-* Oh, I'm sorry to hear that.: まじか
 * For a change, try this one.: 息抜きにこれどう？
-* Are you serious?: まじで？
 * Grand master: masterの最高位的な
 * right/left turn: 右折・左折
-* designated: 指定された、専用の
-* crime is (countable, noun) a specific act committed in violation of the law while criminal(adjective) is a person who is guilty of a crime, notably breaking the law. 
 * practitioner -  one who practices a profession
-* takes part in: 参加する  
+* takes part in: 参加する
 * exercise properly: 適度な運動
 * reprimand: a formal expression of disapproval. 譴責
 * debris: scattered pieces of rubbish or remains. 落ちてきたりする危ないもの
@@ -85,7 +83,6 @@ Fraction = Numerator / Denominator
 * hooked on: 熱中する
 * boredom: boreのnoun
 * off to bed: go to bed
-* 戻る: come back, be back, return, go back
 * put up: construction, build
 * contented: satisfied, happiness
 * fully aware: しっかり認識している
@@ -606,20 +603,19 @@ Fraction = Numerator / Denominator
 * father, mother, kin
 * wondrous
 * observatory
-* cemetary
+* cemetary: grave
 * squeak
 * evacuate
 * eradicate
 * trait
 * nosebleed
-* imposter
+* imposter: a person who deceives others by pretending to be someone else
 * emaciated
 * comrade
 * distracted
 * lure
 * flirt
 * midget
-* adjacent
 * antidote
 * plethora
 * detest
@@ -627,3 +623,4 @@ Fraction = Numerator / Denominator
 * pledge
 * designated
 * hail: pellets of fozen rain
+* cooing: the precious sound babies make, is their first vocal milestone

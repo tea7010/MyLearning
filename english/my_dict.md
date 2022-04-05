@@ -624,3 +624,5 @@ Fraction = Numerator / Denominator
 * designated
 * hail: pellets of fozen rain
 * cooing: the precious sound babies make, is their first vocal milestone
+* peculiar: /pɪˈkjuːlɪə/ strange, special
+* commandant: an officer in charge of a particular force or institution

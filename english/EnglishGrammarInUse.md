@@ -1240,7 +1240,7 @@
 
 # Exercise
 * Done until: 134
-* Review until: 124
+* Review until: 127
 
 # Duo
 * Done until: unit 12

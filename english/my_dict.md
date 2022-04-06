@@ -626,3 +626,8 @@ Fraction = Numerator / Denominator
 * cooing: the precious sound babies make, is their first vocal milestone
 * peculiar: /pɪˈkjuːlɪə/ strange, special
 * commandant: an officer in charge of a particular force or institution
+* weary: feeling or showing extreme tiredness, tired
+* ritual: a religious or solemon ceremony consisting of a series of actions performed according to a prescribed order
+* tantalizing: exciting one's senses or desire
+* complement: something that enhances, enriches and completes another thing
+* compliment: a polite expression of praise or admiration

@@ -631,3 +631,5 @@ Fraction = Numerator / Denominator
 * tantalizing: exciting one's senses or desire
 * complement: something that enhances, enriches and completes another thing
 * compliment: a polite expression of praise or admiration
+* utensils: a tool, container, or other article, especially for household use.
+* get by: manage with difficulty to live or accomplish

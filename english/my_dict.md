@@ -46,7 +46,8 @@
 attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ accomplish（やるべきことができた）
 
 ### Fraction
-Fraction = Numerator / Denominator
+* Fraction = Numerator / Denominator
+* Numerator over Denominator
 
 ## 使えそうな文
 * I don't think of much of it = I don't like it very much

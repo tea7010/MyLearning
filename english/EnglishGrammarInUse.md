@@ -1239,8 +1239,8 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 137
+* Done until: 138
 * Review until: 135
 
 # Duo
-* Done until: unit 12
+* Done until: unit 21

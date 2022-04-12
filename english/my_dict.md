@@ -634,3 +634,19 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * compliment: a polite expression of praise or admiration
 * utensils: a tool, container, or other article, especially for household use.
 * get by: manage with difficulty to live or accomplish
+* hereafter: from now on
+* jurisdiction: the official power to make legal decisions and judgements.
+* constellation: an area on the celestial sphere in which a group of visible stars forms a perceived outline or pattern, typically representing an animal, mythological subject, or inanimate object
+* to the best of my knowledge: as far as I know
+* advisable: If something is advisable, it will avoid problems if you do it
+* completion: the action or process of completing or finishing something.
+* commence: begin
+* pursuant: in accordance with (a law or a legal document or resolution).
+* supersede: take the place of (a person or thing previously in authority or use); supplant.
+* deem: regard or consider in a specified way
+* degradation: the condition or process of degrading or being degraded.
+* liability: the state of being legally responsible for something.
+* indemnification: compensation for harm or loss.
+* revoke: officially cancel
+* overage: an excess or surplus, especially the amount by which a sum of money is greater than a previous estimate.
+* in recognition of: If something is done in recognition of someone's achievements, it is done as a way of showing official appreciation of them.

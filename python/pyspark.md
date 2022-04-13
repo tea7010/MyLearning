@@ -4,6 +4,13 @@ https://www.tutorialspoint.com/pyspark/index.htm
 
 https://qiita.com/paulxll/items/98cd3d3d8adbf6197660
 
+# SQL
+
+## SQLクエリを実行する
+```python
+spark.sql({query})
+```
+
 # DataFrame
 https://qiita.com/gsy0911/items/a4cb8b2d54d6341558e0
 
@@ -28,4 +35,8 @@ upsertはない様子
 ## 作ったテーブルを読む
 ```python
 df = spark.read.table({table name})
+```
+or
+```python
+df = spark.table({table name})
 ```

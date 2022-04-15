@@ -11,6 +11,11 @@ https://qiita.com/paulxll/items/98cd3d3d8adbf6197660
 spark.sql({query})
 ```
 
+## 使うDBを指定
+```sql
+USE {dbname}
+```
+
 ## Upsert処理(SQLスキル)
 例: タイムスタンプが新しいものだけ書き込みたい
 ```sql
@@ -48,6 +53,11 @@ df = (spark.read
     .option('primitivesAsString', True) # スキーマ（データ型）推測するかどうか(全部strで読む)
     .load({path})
     )
+```
+
+### Schemaの確認
+```python
+df.printSchema()
 ```
 
 ### 空のDataFrameをSchemaだけ指定して定義
@@ -96,3 +106,58 @@ import pyspark.sql.functions as F
 df.select([F.count(F.when(F.col(c).isNull(), c)).alias(c) for c in df.columns)])
 ```
 
+### NullをDropする
+```python
+dropped_df = df.na.drop(subset=[{col1}, {col2}])
+```
+
+### 重複チェック
+```python
+df.groupBy({col}).count().filter('count > 1')
+```
+
+### Join
+pandasでいうMerge
+
+```python
+df1.join(df2, on=[{keycol1}, {keycol2}], how='inner')
+```
+
+### カラムの型変更
+```python
+df.withColumn('colname', df.{colname}.cast({type}))
+```
+
+castの中身は'int', 'interger', IntegerType()など
+
+### カラムの値を新しいDFとして返す
+Pandasでいう`df[[col1, col2]]`みたいな操作
+
+```python
+df.slect([{col1}, {col2}])
+```
+
+### ユーザ定義関数の適用
+```python
+def plus_one(v):
+    return v + 1
+
+my_udf = udf(plus_one)
+
+df.withColumn('udf_result', my_udf('use_colname'))
+```
+
+### GroupByして、平均とかを計算する
+```python
+df.groupBy('group_col').agg(mean('colname'))
+```
+
+### 簡単なif, when
+```python
+df.withColumn('judge', when('colname' > 5, True).otherwise(False))
+```
+
+### Filter
+```python
+df.filter(df['col'] > 5)
+```

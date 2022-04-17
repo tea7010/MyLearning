@@ -650,3 +650,4 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * revoke: officially cancel
 * overage: an excess or surplus, especially the amount by which a sum of money is greater than a previous estimate.
 * in recognition of: If something is done in recognition of someone's achievements, it is done as a way of showing official appreciation of them.
+* soothing: having a gently calming effect.

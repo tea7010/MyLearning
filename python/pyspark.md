@@ -152,6 +152,11 @@ df.withColumn('udf_result', my_udf('use_colname'))
 df.groupBy('group_col').agg(mean('colname'))
 ```
 
+### GroupByしたものに対して、複数の集計を実行する
+```python
+df.groupBy('cat').agg(mean('col1'), max('col1'), min('col2'))
+```
+
 ### 簡単なif, when
 ```python
 df.withColumn('judge', when('colname' > 5, True).otherwise(False))

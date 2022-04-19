@@ -97,7 +97,17 @@ df = spark.table({table name})
 df.createOrReplaceTempView({view_name})
 ```
 
+### DF -> JSONのリストで出力
+```python
+df.toJSON().collect()
+```
+
 ## ETL
+
+### 行・列カウント
+```python
+df.count(), len(df.columns)
+```
 
 ### Nullカウントを全カラムにやるワンライナー
 ```python
@@ -165,4 +175,21 @@ df.withColumn('judge', when('colname' > 5, True).otherwise(False))
 ### Filter
 ```python
 df.filter(df['col'] > 5)
+```
+
+### あるカラムのUniqueな値リスト
+```python
+[r[0] for r in df.select('colname').distinct().collect()]
+```
+
+### 定数値のカラム作成
+pandasでいう`df['new_col'] = 5`みたいな
+
+```python
+df.withColumns('STATIC_VALUE', F.lit(5))
+```
+
+### カラム名を全部大文字 or 小文字にする
+```python
+df.toDF(*[c.lower() for c in df.columns])
 ```

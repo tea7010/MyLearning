@@ -193,3 +193,8 @@ df.withColumns('STATIC_VALUE', F.lit(5))
 ```python
 df.toDF(*[c.lower() for c in df.columns])
 ```
+
+### Window関数
+SQLでいうOVER句。pandasでいうgroupbyしてそれごとに処理するみたいなことができる
+
+https://x1.inkenkun.com/archives/5223

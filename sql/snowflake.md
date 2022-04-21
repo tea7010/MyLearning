@@ -40,6 +40,11 @@ https://docs.snowflake.com/en/sql-reference/functions/time_slice.html
 TIME_SLICE({DATETIME_COL}, 10, 'MINUTE')
 ```
 
+## Timestamp -> epoch time
+```sql
+DATEDIFF(second, '1970-01-01'::DATE, {timestamp});
+```
+
 ## グループの最初の値を取得
 group byしたときの最初の値がほしい（`pandasでいうdf.groupby('group')[col].first()`)
 

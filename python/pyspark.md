@@ -198,3 +198,25 @@ df.toDF(*[c.lower() for c in df.columns])
 SQLでいうOVER句。pandasでいうgroupbyしてそれごとに処理するみたいなことができる
 
 https://x1.inkenkun.com/archives/5223
+
+### Unixtimestamp <-> Timestamp
+timestamp -> unix timestamp
+```python
+F.unix_timestamp(F.col({timestamp}))
+```
+
+unix timestamp -> timestamp
+```python
+F.col({timestamp}).cast('timestamp')
+```
+
+### GruopbyでMedianをとる
+stringのcategoryカラムは、数字にエンコードしたうえで、medianをとる
+```python
+F.percontile_approx(F.col({cate_encoded_col}), 0.5)
+```
+
+### Groupbyのグループ内の特定の値の数を数える
+```python
+F.sum(F.when(F.col({categori_col}) == 'value', 1).otherwise(0))
+```

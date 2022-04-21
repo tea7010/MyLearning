@@ -527,7 +527,7 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * Antarctic: 南極
 * adore: 崇拝する、溺愛する
 * comtemplate: 熟考する、しっかり考える
-* pursue: 追跡する
+* pursue: continue or proceed along
 * disassemble: 分解する
 * intimate: 親密な、親しい
 * literate: 読み書きの出来る
@@ -655,3 +655,6 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * destined: regarded as developing as though according to a pre-existing plan
 * billow: a large undulating mass of something, typically cloud, smoke or steam
 * mighty: possesing great and impressive power and strength, especially because of size
+* suffice: enough, adequate
+* deaf: people who can't hear
+* rular: for drawing straight lines and measuring lengths

@@ -658,3 +658,5 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * suffice: enough, adequate
 * deaf: people who can't hear
 * rular: for drawing straight lines and measuring lengths
+* womb: 子宮
+* offspring: children, 子孫

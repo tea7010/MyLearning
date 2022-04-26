@@ -660,3 +660,4 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * rular: for drawing straight lines and measuring lengths
 * womb: 子宮
 * offspring: children, 子孫
+* freight: goods or cargo carried by a ship, train, truck, or airplane

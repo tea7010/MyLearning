@@ -210,6 +210,11 @@ unix timestamp -> timestamp
 F.col({timestamp}).cast('timestamp')
 ```
 
+### Timestamp -> date(string)
+```python
+df.withColumn('date', F.to_date('timestamp', 'yyyy-MM-DD'))
+```
+
 ### GruopbyでMedianをとる
 stringのcategoryカラムは、数字にエンコードしたうえで、medianをとる
 ```python
@@ -219,4 +224,9 @@ F.percontile_approx(F.col({cate_encoded_col}), 0.5)
 ### Groupbyのグループ内の特定の値の数を数える
 ```python
 F.sum(F.when(F.col({categori_col}) == 'value', 1).otherwise(0))
+```
+
+### あるカラムのユニークな値を見る
+```python
+df.select('column1').distinct().show()
 ```

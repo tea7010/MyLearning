@@ -662,3 +662,5 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * offspring: children, 子孫
 * freight: goods or cargo carried by a ship, train, truck, or airplane
 * deplete: use up the supply or resources fo
+* en masse: as a single group
+* elaborate: to give more details about something: to discuss something more fully

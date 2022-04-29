@@ -664,3 +664,9 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * deplete: use up the supply or resources fo
 * en masse: as a single group
 * elaborate: to give more details about something: to discuss something more fully
+* mandate: to officially demand or require (something)
+* impede: to slow the movement, progress, or action of (someone or something)
+* ruthless: having no pity: cruel or merciless
+* blast: to strongly criticize
+* legislation: law
+* circumvent: avoid, find a way around (an obstacle)

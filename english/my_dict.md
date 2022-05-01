@@ -670,3 +670,4 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * blast: to strongly criticize
 * legislation: law
 * circumvent: avoid, find a way around (an obstacle)
+* impartial: treating all rivals or disputants equally. unbiased

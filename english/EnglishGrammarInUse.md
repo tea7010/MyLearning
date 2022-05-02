@@ -1239,7 +1239,7 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 2
+* Done until: 6
 * Review until: 145
 
 # Duo

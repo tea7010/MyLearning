@@ -671,3 +671,6 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * legislation: law
 * circumvent: avoid, find a way around (an obstacle)
 * impartial: treating all rivals or disputants equally. unbiased
+* ontology: the branch of metaphysics dealing with the nature of being.
+* mushy: soft and pulpy
+* helm: a tiller or wheel for steering a ship or boat.

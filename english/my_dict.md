@@ -674,3 +674,7 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * ontology: the branch of metaphysics dealing with the nature of being.
 * mushy: soft and pulpy
 * helm: a tiller or wheel for steering a ship or boat.
+* primate: a member of the most developed and intelligent group of mammals, including humans, monkeys, and apes
+* tab: the total money charged in a restaurant or hotel for food, drinks, etc.
+* tevern: a place where alcoholic drinks are sold and drunk
+* captivity: the situation in which a person or animal is kept somewhere and is not allowed to leave

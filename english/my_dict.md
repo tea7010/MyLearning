@@ -678,3 +678,6 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * tab: the total money charged in a restaurant or hotel for food, drinks, etc.
 * tevern: a place where alcoholic drinks are sold and drunk
 * captivity: the situation in which a person or animal is kept somewhere and is not allowed to leave
+* bland: lacking a strong or particular flavor
+* affiliation: a connection with a political party or religion, or with a larger organization
+* accommodate: to consider and include something in a design or plan

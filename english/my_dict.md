@@ -681,3 +681,5 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * bland: lacking a strong or particular flavor
 * affiliation: a connection with a political party or religion, or with a larger organization
 * accommodate: to consider and include something in a design or plan
+* paradigm: a typical example or pattern of something; a pattern or model.
+* proprietary: relating to an owner or ownership.

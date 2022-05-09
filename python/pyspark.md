@@ -121,6 +121,12 @@ df.select([F.count(F.when(F.col(c).isNull(), c)).alias(c) for c in df.columns)])
 dropped_df = df.na.drop(subset=[{col1}, {col2}])
 ```
 
+### Fill na/null
+https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.sql.DataFrame.fillna.html
+```python
+df.fillna(0, subset=['col1', 'col2'])
+```
+
 ### 重複チェック
 ```python
 df.groupBy({col}).count().filter('count > 1')

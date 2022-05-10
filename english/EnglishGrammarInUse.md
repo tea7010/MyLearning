@@ -1239,8 +1239,8 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 6
-* Review until: 145
+* Done until: 10
 
-# Duo
-* Done until: unit 21
+# 使ったことない表現メモ
+* It was the first time I had driven the car.
+* How long have you had the camera?

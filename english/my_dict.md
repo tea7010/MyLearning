@@ -683,3 +683,5 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * accommodate: to consider and include something in a design or plan
 * paradigm: a typical example or pattern of something; a pattern or model.
 * proprietary: relating to an owner or ownership.
+* crave: feel a powerful desire for
+* revelation: the act of making something known that was secret, or a fact that is made known

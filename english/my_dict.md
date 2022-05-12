@@ -685,3 +685,5 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * proprietary: relating to an owner or ownership.
 * crave: feel a powerful desire for
 * revelation: the act of making something known that was secret, or a fact that is made known
+* senator: A senator is a person who works in the government. In the United States, senators are elected by voters to represent them in a state or federal senate.
+* attic: a space or room just below the roof of a building.

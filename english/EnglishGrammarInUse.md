@@ -1239,7 +1239,9 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 15
+* Done until: 18
+* Note: 
+    * 17
 
 # 使ったことない表現メモ
 * It was the first time I had driven the car.
@@ -1247,6 +1249,9 @@
 * I had lived there all my childhood
 * When did it start raining? 
     * or How lond has it been raining?
-* How lond is it since your grand father died? 
+* How long is it since your grand father died? 
     * or How lond has it been since ...?
 * It's been ages since I last played baseball.
+* I've got a headache
+    * Have you got any questions?
+* Did you used to ...?

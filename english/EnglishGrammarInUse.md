@@ -1239,19 +1239,13 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 18
+* Done until: 23
 * Note: 
     * 17
 
 # 使ったことない表現メモ
-* It was the first time I had driven the car.
-* How long have you had the camera?
-* I had lived there all my childhood
-* When did it start raining? 
-    * or How lond has it been raining?
-* How long is it since your grand father died? 
-    * or How lond has it been since ...?
-* It's been ages since I last played baseball.
-* I've got a headache
-    * Have you got any questions?
-* Did you used to ...?
+* I　was going to do something = I intended to do it, but didn't do it
+* Shall I do ...? = Do you want me to do it?
+* Will you do...? = I want you to do it 
+* I'll probably ...
+* I hope it do

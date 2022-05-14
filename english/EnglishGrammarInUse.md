@@ -1246,6 +1246,6 @@
 # 使ったことない表現メモ
 * I　was going to do something = I intended to do it, but didn't do it
 * Shall I do ...? = Do you want me to do it?
-* Will you do...? = I want you to do it 
+* Will you do...? = I want you to do it
 * I'll probably ...
 * I hope it do

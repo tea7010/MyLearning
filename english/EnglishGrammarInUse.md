@@ -1239,8 +1239,16 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: 24
+* Done until: 33
 * Note: 
     * 17
 
 # 使ったことない表現メモ
+* could(n't) have done
+* must have done
+* might not have done
+* might be going to do
+* might as well do something
+* might have to do
+* I've got to 
+* should have

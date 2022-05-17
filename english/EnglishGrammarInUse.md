@@ -1244,11 +1244,3 @@
     * 17
 
 # 使ったことない表現メモ
-* could(n't) have done
-* must have done
-* might not have done
-* might be going to do
-* might as well do something
-* might have to do
-* I've got to 
-* should have

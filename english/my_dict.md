@@ -688,3 +688,4 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * senator: A senator is a person who works in the government. In the United States, senators are elected by voters to represent them in a state or federal senate.
 * attic: a space or room just below the roof of a building.
 * fare: the money paid for a journey on public transport.
+* dumb: temporarily unable or unwilling to speak.

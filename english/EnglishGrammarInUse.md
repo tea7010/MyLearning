@@ -1239,7 +1239,7 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: ５０
+* Done until: ５4
 * Note: 
     * 17
     * 36
@@ -1249,19 +1249,9 @@
     * 50
 
 # 使ったことない表現メモ
-* suggest/recommend/propose/insist/demand + that someone should do
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do
 * Should the situation change, I'll contact you.
     * (Less possibility than normal if)
-* Had better (not) do
-    * "had better" is similar to "should", but it's used for a specific situation. not in general
-    * there is a danger or a problem if you don't follow "Had better" advice
-* It's (about) time someone did
-    * present meaning
-* Would
-    * It would be nice to have a new car
-    * I would have ...
-    * (past) If the weather hadn't been so bad, we could have gone out.
 * Asking
     * Do you think you could ...?
     * Is it OK if ...?
@@ -1278,3 +1268,8 @@
 * Where did you have your hair cut?
 * Which bus goes to the station?(not which bus does go to the station?)
 * Are you willing to ...?
+* Neither do I
+* I don't either
+* I haven't considered doing...
+* I wouldn't dare to ...
+* I daren't

@@ -1239,7 +1239,7 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: ５4
+* Done until: ５7
 * Note: 
     * 17
     * 36
@@ -1273,3 +1273,4 @@
 * I haven't considered doing...
 * I wouldn't dare to ...
 * I daren't
+* I was warned not to...

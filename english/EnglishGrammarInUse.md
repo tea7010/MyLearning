@@ -1239,7 +1239,7 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: ５9
+* Done until: 64
 * Note: 
     * 17
     * 36
@@ -1247,6 +1247,7 @@
     * 41
     * 45
     * 50
+    * 63
 
 # 使ったことない表現メモ
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do

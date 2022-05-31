@@ -689,3 +689,4 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * attic: a space or room just below the roof of a building.
 * fare: the money paid for a journey on public transport.
 * dumb: temporarily unable or unwilling to speak.
+* palpitating: (of the heart) beating rapidly, strongly, or irregularly.

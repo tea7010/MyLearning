@@ -141,6 +141,14 @@ pandasでいうMerge
 df1.join(df2, on=[{keycol1}, {keycol2}], how='inner')
 ```
 
+### Joinを複雑な条件で行う
+```python
+df1.join(df2, on=[
+    df1.{keycol1} == df2.{keycol1},
+    df1.{keycol2} >= df2.{keycol2}
+    ], how='inner')
+```
+
 ### カラムの型変更
 ```python
 df.withColumn('colname', df.{colname}.cast({type}))

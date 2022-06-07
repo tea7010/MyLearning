@@ -173,6 +173,20 @@ my_udf = udf(plus_one)
 df.withColumn('udf_result', my_udf('use_colname'))
 ```
 
+一気にudfを定義する方法
+```python
+struct_schema = StructType([
+    StructField('size', IntegerType(), nullable=True),
+    StructField('elements', ArrayType(IntegerType()), nullable=True)
+])
+
+@udf(returnType=struct_schema)
+def calc_len(arr):
+    if arr:
+        return {'size': len(arr), 'elements': arr}
+```
+
+
 ### GroupByして、平均とかを計算する
 ```python
 df.groupBy('group_col').agg(mean('colname'))
@@ -182,6 +196,13 @@ df.groupBy('group_col').agg(mean('colname'))
 ```python
 df.groupBy('cat').agg(mean('col1'), max('col1'), min('col2'))
 ```
+
+### Gruop内で、カテゴリカルな値のカウントをJsonにする
+```python
+df = df.groupby("id", "type").count()
+df = df.groupby("id").agg(map_from_entries(collect_list(struct("type","count"))).alias("count"))
+```
+https://blog.kozakana.net/2020/12/count-the-number-of-specific-columns-and-put-them-together-in-a-map-format/
 
 ### 簡単なif, when
 ```python

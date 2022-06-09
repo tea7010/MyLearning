@@ -106,6 +106,12 @@ df.createOrReplaceTempView({view_name})
 df.toJSON().collect()
 ```
 
+### DDL(Data Definition Lnaguage)を出力する
+scalaのみ
+```scala
+df.schema.toDDL
+```
+
 ## ETL
 
 ### 行・列カウント

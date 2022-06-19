@@ -3,10 +3,11 @@
 ###### tags: `hobby`
 
 ## Objectives, Principal
-* Not be afraid of any mistake
+* Do NOT be afraid of any mistakes
     * Just start speaking some words if I want to say something without thinking of anything after the first word
-* Do NOT communicate few words
-    * That makes difficult to understand to the people, make them understand with a lot of speaking information
+* Do NOT communicate with few words
+    * Speak with low context
+    * High context speaking makes difficult to understand to the people, make them understand with a lot of information
     * Not saying just some few or complicated words, but explain stuffs with some expamles to easily understand without misconception
     * Grammer and vocabrary is the fundamental and neccessary polite stuffs
 * Do NOT consider and trasrate in Japanese in my mind
@@ -17,9 +18,9 @@
     * e.g. I see., I agree. Absolutely. Say more words to ensure my understanding is correct or not.
 * Do NOT learn language on the deks. 
     * Just experience speaking, listening and all related things. 
-    * I'm just like a 3~5 years old baby in native country. The more I spend time to the language, the more I get fluency.
+    * I'm just like a 3~5 years old baby in native country. The more I spend time to the language, the more I get the fluency.
 * Grammer does NOT make sense for the person who hasn't experienced the grammer mistake. 
-    * If I encounter the situation which is difficult to express or translate, that is the start point of learning.
+    * If I encounter the situation that is difficult to express or translate, that is the start point of learning.
 * Question makes the conversation interesting and fun to the talking person.
     * Not building or considering the order of sentences for question, say words immidietly
 * Even native language, it's difficult to clearly explain what you don't understand truly

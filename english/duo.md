@@ -1,0 +1,2 @@
+- Shadowing: 1
+- Reading(Review): 1

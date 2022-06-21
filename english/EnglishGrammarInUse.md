@@ -1239,7 +1239,7 @@
 * pay back: 金を返
 
 # Exercise
-* Done until: ７８
+* Done until: 84
 * Note: 
     * 17
     * 36

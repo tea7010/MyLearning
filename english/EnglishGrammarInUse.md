@@ -1238,17 +1238,11 @@
 * look back (on something): 思い返す
 * pay back: 金を返
 
-# Exercise
-* Done until: 84
-* Note: 
-    * 17
-    * 36
-    * 40
-    * 41
-    * 45
-    * 50
-    * 63
-    * 67
+# Review
+* #Loop:
+    * Reading: 3
+    * Exercise: 1
+* Done until: 93
 
 # 使ったことない表現メモ
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do

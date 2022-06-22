@@ -212,6 +212,17 @@ df = df.groupby("id").agg(map_from_entries(collect_list(struct("type","count")))
 ```
 https://blog.kozakana.net/2020/12/count-the-number-of-specific-columns-and-put-them-together-in-a-map-format/
 
+### カテゴリカラムをPivotして1 or 0をする
+```python
+pivot_df = (
+  df
+  .groupBy('{row_column}')
+  .pivot("{category}")
+  .count()
+  .fillna(0)
+)
+```
+
 ### 簡単なif, when
 ```python
 df.withColumn('judge', when('colname' > 5, True).otherwise(False))
@@ -274,4 +285,27 @@ F.sum(F.when(F.col({categori_col}) == 'value', 1).otherwise(0))
 ### あるカラムのユニークな値を見る
 ```python
 df.select('column1').distinct().show()
+```
+
+## Map/Struct系
+
+### Map型のカラムの最大の値のものを抜き出す
+```python
+@udf(returnType=StructType([
+StructField('argmax_key', StringType(), nullable=True),
+StructField('max_val', LongType(), nullable=True)])
+)
+def udf_keywithmaxval(d):
+  if d is None:
+    return {
+      'argmax_key': None,
+      'max_val': None
+    }
+  else:
+    k = list(d.keys())  
+    v = list(d.values())
+    return {
+      'argmax_key': k[v.index(max(v))], 
+      'max_val': max(v)
+    }
 ```

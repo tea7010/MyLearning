@@ -1242,7 +1242,7 @@
 * #Loop:
     * Reading: 3
     * Exercise: 1
-* Done until: 93
+* Done until: 99
 
 # 使ったことない表現メモ
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do

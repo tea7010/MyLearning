@@ -1240,9 +1240,9 @@
 
 # Review
 * #Loop:
-    * Reading: 3
+    * Reading: 4
     * Exercise: 1
-* Done until: 138
+* Done until: 
 
 # 使ったことない表現メモ
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do

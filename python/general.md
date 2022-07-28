@@ -1,3 +1,11 @@
+## フォルダ階層が下のプライベートライブラリのImport
+syspathに追加する。absoluteでもrelativeでもOK
+
+```python
+import sys
+sys.path.append('..')
+```
+
 ## １桁の数字を0付きの数字にしたい
 
 4 -> 04みたいな

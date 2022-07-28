@@ -194,6 +194,35 @@ def calc_len(arr):
         return {'size': len(arr), 'elements': arr}
 ```
 
+### Pandas UDF
+普通のUDFより速いらしい
+https://spark.apache.org/docs/3.0.0/sql-pyspark-pandas-with-arrow.html
+
+
+```python
+def plus_one(a: pd.Series) -> pd.Series:
+    return a + 1
+
+my_udf = pandas_udf(plus_one, returnType=LongType())
+
+df.withColumn('udf_result', my_udf('use_colname'))
+```
+
+#### Windowのpandas udf
+https://stackoverflow.com/questions/48160252/user-defined-function-to-be-applied-to-window-in-pyspark
+```python
+from pyspark.sql import Window
+
+@pandas_udf("double")
+def mean_udf(v: pd.Series) -> float:
+    return v.mean()
+
+df = spark.createDataFrame(
+    [(1, 1.0), (1, 2.0), (2, 3.0), (2, 5.0), (2, 10.0)], ("id", "v"))
+w = Window.partitionBy('id').orderBy('v').rowsBetween(-1, 0)
+df.withColumn('mean_v', mean_udf("v").over(w)).show()
+```
+
 
 ### GroupByして、平均とかを計算する
 ```python

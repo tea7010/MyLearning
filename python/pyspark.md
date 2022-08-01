@@ -2,8 +2,6 @@ https://towardsdatascience.com/pyspark-on-google-colab-101-d31830b238be
 
 https://www.tutorialspoint.com/pyspark/index.htm
 
-https://qiita.com/paulxll/items/98cd3d3d8adbf6197660
-
 https://github.com/databricks-academy/INT-JEPFS-V2-IL
 
 https://github.com/databricks-academy/apache-spark-programming-with-databricks/tree/published/Apache-Spark-Programming-with-Databricks
@@ -168,7 +166,7 @@ castの中身は'int', 'interger', IntegerType()など
 Pandasでいう`df[[col1, col2]]`みたいな操作
 
 ```python
-df.slect([{col1}, {col2}])
+df.select([{col1}, {col2}])
 ```
 
 ### ユーザ定義関数の適用
@@ -221,6 +219,32 @@ df = spark.createDataFrame(
     [(1, 1.0), (1, 2.0), (2, 3.0), (2, 5.0), (2, 10.0)], ("id", "v"))
 w = Window.partitionBy('id').orderBy('v').rowsBetween(-1, 0)
 df.withColumn('mean_v', mean_udf("v").over(w)).show()
+```
+
+#### グループごとに統計・機械学習モデルを適用
+https://qiita.com/paulxll/items/98cd3d3d8adbf6197660
+
+```python
+from pyspark.sql.functions import col, pandas_udf, PandasUDFType
+
+schema = StructType([
+  StructField("group", StringType(), False),
+  StructField("v", DoubleType(), False),
+  StructField("v2", DoubleType(), False),
+  StructField("cluster", IntegerType(), False)
+])
+
+@pandas_udf(schema, PandasUDFType.GROUPED_MAP)
+def grouped_km(pdf):
+    """
+    groupごとにKMeansによるクラスタリングを実施しデータを5つに分ける。
+    """
+    from sklearn.cluster import KMeans
+    km = KMeans(n_clusters=5, random_state=71)
+    pdf.loc[:, "cluster"] = km.fit_predict(pdf.loc[:, ["v", "v2"]])
+    return pdf
+
+df.groupBy("group").apply(hml_rank).show(10,False)
 ```
 
 

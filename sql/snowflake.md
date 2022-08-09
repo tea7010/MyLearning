@@ -98,3 +98,21 @@ https://docs.snowflake.com/en/user-guide/views-materialized.html
 ```sql
 create or replace materialzied view {mv name}
 ```
+
+## 2つのテーブル間で、keyが存在しないデータを抽出
+https://www.tutorialgateway.org/sql-not-exists-operator/
+
+```sql
+SELECT Employ1.[EmpID]
+      ,Employ1.[FirstName] + ' ' + Employ1.[LastName] AS [Full Name]
+      ,Employ1.[Education]
+      ,Employ1.[Occupation]
+      ,Employ1.[YearlyIncome]
+      ,Employ1.[Sales]
+      ,Employ1.[HireDate]
+  FROM [Employee] AS Employ1
+  WHERE NOT EXISTS( SELECT * FROM [Employee] AS Employ2 
+		    WHERE Employ1.[EmpID] = Employ2.[EmpID] 
+			 AND [Sales] > 1000
+		  )
+```

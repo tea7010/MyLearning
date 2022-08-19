@@ -1,4 +1,4 @@
-- Shadowing: 9
-    - Unit: 39
+- Shadowing: 10
+    - Unit: 7
 - Reading(Review): 5
    - Unit: 

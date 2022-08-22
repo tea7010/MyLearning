@@ -29,3 +29,27 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * The porpose of new legislation is to prevent people from second smoking in public.
     * The porpose of the new law is to prevent pasive smoking in public places.
     * The new law aims to curb passive smoking in public places.
+* 10. 私は自動車通勤しているが、渋滞にぶつからないようできるだけ早めに家を出るようにしている。
+    * I commute by bicycle and leave home as early as possible to avoid traffic.
+    * I go to work by car, and I leave the house as early as possible so as not to get caught in a traffic jam.
+    * 「... しないために」というときは、単に not to do とするよりも so as not to do とする方がふつうです
+* 11. 今日ではありとあらゆる類のマニュアルや手引書が氾濫している。
+    * Nowadays, there are a lot of manuals and procedures for every kind of things.
+    * Today there are all kinds of manuals and handbooks everywhere.
+    * These days we are surrounded by a flood of manuals and how-to books.
+* 12. 東京では電車と地下鉄が縦横に走っているので、自家用車はほとんどいらない。
+    * In Tokyo, the train and subway networks cover like a mesh, I don't need cars very much.
+    * Since trains and subways run all over Tokyo, there's no need for a car in the city.
+    * Who needs a car in Tokyo because trains and subways take you anywhere you want to go?
+* 13. 「国際化」ということがよく言われるが、国際化とは何なのか。
+    * It is often said internationalization, but I'm not sure what it is.
+    * We hear a lot about "inteernationalization" these days, and what exactly is internationalization anyway?
+* 14. 医学が進歩するにつれて、人間の寿命は伸びてきた。
+    * As the medical technology advances, humans life has been lasted.
+    * As medical science has progressed, we have come to live longer than before.
+    * With the progress of medical science, the average life span has been getting longer and longer.
+* 15. 太陽エネルギーや電気などを動力とした車への関心が高まってきている。
+    * It is much more interesting for poople to the cars that move with electlicity and solar power.
+    * People are more and more interested in cars powered by solar energy or electricity.
+    * More and more people are showing an interest in cars ...
+    * There has been an increasing intereset in solar-powerd or electric cars.

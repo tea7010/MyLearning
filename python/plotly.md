@@ -1,3 +1,5 @@
+# Plotly
+
 https://plotly.com/python/plotly-fundamentals/
 
 ```python
@@ -18,4 +20,11 @@ fig = px.line()
 fig.add_scatter(x=df['X'], y=df['A'], mode='lines', name='A')
 fig.add_scatter(x=df['X'], y=df['B'], mode='lines', name='B')
 fig.show()
+```
+
+# Seaborn
+
+### figsizeをmatplotのplt使わずに変更する方法
+```python
+sns.set(rc={'figure.figsize':(10, 10)})
 ```

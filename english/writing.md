@@ -53,3 +53,27 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * People are more and more interested in cars powered by solar energy or electricity.
     * More and more people are showing an interest in cars ...
     * There has been an increasing intereset in solar-powerd or electric cars.
+* 16. 自然を守ることが自分たちの利益につながるということが多くの人に認識されるようになってきた。
+    * There has been recognized to many people that protecting the invironment relates to our benefit.
+    * More people are beginning to realized that protecting nature will lead to benefits for them.
+* 17. パソコンはとても便利な道具だ。将来はパソコンなしの生活など考えられなくなるだろう。
+    * PC is a quite handy tool. I can't live without one in the future.
+    * PC are efficient and useful, and the day will come when we won't be able to live without one.
+* 18. 日本は天然資源が乏しいにもかかわらず、国際貿易のおかげで経済大国になった。
+    * Despite lacking of mineral resorces, Japan has become a large economy company because of international trade.
+    * Despite a lack of natural resources, Japan managed to become an economic superpower through international trade.
+* 19. 現在でも世界では、毎年何万人という人が、生きていくのに十分な食べ物を買うこともできず餓死している。
+    * There are thousands of people who died due to lack of food to live in the world.
+    * Even today tens of thousands of people in the world die from hunger ech year because they can't even buy enough food to live.
+* 20. 市の中心部から少し南に寄ったところに丘があって、そこから市の全景が見渡せる
+    * There is a hill at the south of the center of the city, and we can see the sight over the city from there.
+    * There is a hill a little to the south of the center of the city. You can see the whole city from it.
+* 21. 九州は毎年台風が来るたびに、大きな被害を受ける。
+    * Every year Kushu region has a typhoon and the cities get a tremendous damage.
+    * Every year the Kyushu district suffers a great deal of damage whenever a typhoon strikes the area.
+* 22. 昔に比べると、日本人は自然に親しむことがなくなっている。
+    * Less Japanese people are familiar with nature than before.
+    * Japnaese people have less contact with nature than before.
+* 23. 外国語を学習することで、自分たちの考え方とは異なる考え方を学び、日本語を新しい視点から見ることができる。
+    * By learning foreign language you can also learn the different way of thinking and see Japanese language from a new viewpoint.
+    * By learning forein languages, you can learn ways of think8ing which are different from your own. You will also become able to look at the Japnese language from a different perspective.

@@ -1,16 +1,4 @@
-## テーブルの作成
-https://docs.snowflake.com/en/sql-reference/sql/create-table.html
-
-```sql
-CREATE OR REPLACE table {table_name} ({metric1} {unit1}, {metric2}, {unit2}, ...);
-```
-
-## テーブルへのデータインサート
-```sql
-insert into {table_name} ({metric1}, {metric2}) values
-    ({val1}, {val2}),
-    ()...
-```
+DQL (Data Query Language)
 
 ## ARRAYのカラム作成
 https://docs.snowflake.com/en/sql-reference/functions/array_construct.html
@@ -78,25 +66,6 @@ degrees(
     acos(
       sin(radians(degree_A))*sin(radians(degree_B)) + cos(radians(degree_B))*cos(radians(degree_B))
     ))
-```
-
-## Materialized viewについて
-https://docs.snowflake.com/en/user-guide/views-materialized.html
-
-* Viewだが、集計済みのデータとして保存される仕組み（キャッシュではなく消えないイメージ）
-* 元のテーブルが更新されると自動的にmaterialized viewもバックグランドでsnowflakeが更新してくれる
-* あんまり頻繁に更新されるテーブルが参照されていると、リソースパワーを食うので注意
-* クエリに時間がかかる複雑な集計かつ、頻繁に更新されないものだとメリットある
-* ただし制約が結構きつい
-    * 参照先のテーブルは一つだけ（view/materialzied viewに対しては不可）
-    * join不可
-    * order by, having, windowなど不可
-    * sum/count/avg/min/maxなど基本的な集計関数のみ（時間をさかのぼって検索が必要なものなどは基本使用不可）
-* クラスタが生成可能
-
-作り方：view系の操作に`materialized`をつけるだけ
-```sql
-create or replace materialzied view {mv name}
 ```
 
 ## 2つのテーブル間で、keyが存在しないデータを抽出

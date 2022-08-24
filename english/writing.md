@@ -77,3 +77,26 @@ https://www.writing-plaza.com/exercise/wpe0001.html
 * 23. 外国語を学習することで、自分たちの考え方とは異なる考え方を学び、日本語を新しい視点から見ることができる。
     * By learning foreign language you can also learn the different way of thinking and see Japanese language from a new viewpoint.
     * By learning forein languages, you can learn ways of think8ing which are different from your own. You will also become able to look at the Japnese language from a different perspective.
+* 24. 日本人は季節感が鋭いというのが通説になっている。
+    * It is said that Japanese is sensitive for seasons.
+    * It is widely accepted that the Japanese people have a sharp sense of the seasons.
+* 25. 正しく考えるために何よりもまず必要なことは、批判的な態度をもつことだ。
+    * Having a critical attitude is indispensable to think correctly.
+    * The first thing you need to think correctly is to have a critical attitude.
+* 26. いわゆるメタボリック・シンドロームをほうっておくと、糖尿病や心筋梗塞などになる危険性が高まる。
+    * The possible risks of the heart attack or diabetes are going to be high if you leave "metaboric syndrome" alone.
+    * you will be more at a rist of having ...
+    * If you leave "metabolic syndrom" untreated, you are more likely to have diabets and cardiac infarction.
+* 27. 言語や文化の大きく異なる欧米人と本当に理解し合うことは決してやさしいことではない。
+    * It's not easy to truly understand the western people each other who have different background of language and culture.
+    * It is not easy by any means to really communicate with Westerners, whose languages and cultures are quite different from ours.
+* 28. どんなに日々の生活が忙しくても、文化を楽しむゆとりは持ちたい。
+    * However I'm busy for the daily life, I want to have a little time to enjoy the culture.
+    * However busy our daily lives are, we should make time to enjoy culture.
+    * I want to make time to enjoy culture no matter how busy we are our lives.
+* 29. 表情から、母が一言も話せないほど動揺していることがわかった。
+    * It turned out that my mother was so upset that she coudn't say anything by seeing her face.
+    * I could tell by the look of my mother's face that she was so upset that she couldn't speak.
+* 30. 僕はよく学校に遅刻した。家が遠かったせいもあるが、早起きが苦手だったのだ。
+    * I used to be late for school, that was not only because of far distance from my house, but also I wasn't good at wake up early in the morning.
+    * That was partly because my house was a long way from the school, and also(partly) it was always difficult for me to get up early in the morning.

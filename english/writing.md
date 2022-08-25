@@ -100,3 +100,14 @@ https://www.writing-plaza.com/exercise/wpe0001.html
 * 30. 僕はよく学校に遅刻した。家が遠かったせいもあるが、早起きが苦手だったのだ。
     * I used to be late for school, that was not only because of far distance from my house, but also I wasn't good at wake up early in the morning.
     * That was partly because my house was a long way from the school, and also(partly) it was always difficult for me to get up early in the morning.
+* 31. 長引く景気の低迷で、大学生は就職難だ。
+    * During the prolonged economic slaglation, university students have difficulty for searching jobs.
+    * University students are having a hard time finding jobs because of the prolonged recession.
+* 32. 外国へ行って日本のことを聞かれると、自分の無知ぶりに驚くことが多い。
+    * When I go to abroad and be asked about Japan, I often notice my lack of knowledge.
+    * When we go to a foreign country and are asked about Japan, we are often surprised at our won ignorance.
+* 33. 値段がかなり安くなったことがパソコンの普及に拍車をかけている。
+    * PC is becoming more popular because the price is getting cheaper.
+    * Personal computers have become much cheaper and therefore more widespread.
+* 34. 最新の国勢調査で、晩婚化が進んでいることが明らかになった。
+    * 

@@ -110,4 +110,7 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * PC is becoming more popular because the price is getting cheaper.
     * Personal computers have become much cheaper and therefore more widespread.
 * 34. 最新の国勢調査で、晩婚化が進んでいることが明らかになった。
-    * 
+    * According to the latest citizen survey, there are more people who get married at late ages.
+    * According to the latest census, Japanese people are getting married later in life.
+    * The latest census shows that in Japna more and more people are putting off marriage until later in life.
+* 35. 失くしたと思っていたものが、しばらく後になってから思いがけず出てくることがよくある。

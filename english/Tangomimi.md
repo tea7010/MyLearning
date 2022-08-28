@@ -1,5 +1,5 @@
 # Tangomimi Lv1
-* Practice: 22/20
+* Practice: 2３/20
 * ABC: 11/10
 * JECET: 10/10
 * Practice 3/3

@@ -114,3 +114,65 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * According to the latest census, Japanese people are getting married later in life.
     * The latest census shows that in Japna more and more people are putting off marriage until later in life.
 * 35. 失くしたと思っていたものが、しばらく後になってから思いがけず出てくることがよくある。
+    * I often see the things that I looked for and gave up finding.
+    * Very often, you unexpectedly find, long after ward something that you thought you had lost.
+    * It often happens that, long after you thought you had lost something, it turns up unexpectedly.
+* 36. 人気作家の作品は相変わらずよく売れている。若者が読書嫌いになったとは速断できない
+    * I'm not sure that the younger became to hate reading books because the books written by popular writers are well sold as usual.
+    * Popular authors' books are selling quite well. We can't hastly conclude that young people don't like reading any more.
+* 37. 最近行われた政府の調査によれば、回答者の半数以上が夫婦別姓を認めることに賛成と答えた。
+    * According to a survey that is conducted by government recently, half of the people who answerd the question agreed with having a different family name between a wife and a husband.
+    * A recent government survey reveals that more than half of the respondents favor allowing hasbands and wives to use fifferent surnames.
+* 38.  家庭用浄水器やミネラルウォーターの普及は、人々の水道水への不信感を表している。
+    * The popularity of water cleaners and mineral water implies that the people doesn't trust tap water.
+    * The widespread use of water finlters and mineral water shows how many people distrust tap water.
+    * The increasing popularity of home water purifilers and bottled mineral water is a sign of the public's growing distrust of tap water.
+* 39. 昔通っていた小学校を１０年ぶりに訪ねてみると、校庭が思っていたよりも狭いので驚いた。
+    * When I visited the elementary school where I had been 10 years ago, I was amazed to see that the school yard was smaller than I thought.
+    * When I visited the lementary school I used to go to for the first time in ten years, I was surprised because the playground was smaller than I had thought
+* 40. 現代は情報過多の時代だ。日々手にする大量の情報をうのみにしないようにしなければならない。
+    * Comtemporary is the age of too much information. You had better not trust ever information you see every day.
+    * The present age is one of execessive inromation. We should not blindly believe the large amount of infromation we get daily.
+* 41. このまま少子・高齢化が進んだら、どんな社会になるのだろう。
+    * I wonder how our society becomes if the ageing of society and small number of children are proceeded.
+    * What will our society be like if we have fewer children and live longer?
+    * What effect will the decreasing birth rate and increasing life span have on society?
+* 42. 過去2世紀の間の科学技術の発展は目覚しく、生活もずいぶん豊かになったことは否定できない。
+    * I can't deny the fact that our life has become richer and healther because of the rapid science advances for over 2 centuries.
+    * We can't deny that science and technology have progressed remarkably in the past two centuries, and as a result we are better off than before.
+* 43. 日本語だと思っている言葉でも、実は外来語というのが意外に多い。
+    * There are many words that people believes them Japanese words, but they actually came from the words in foreign language.
+    * Surprisingly, many words which we think are Japnaese have come from foreign countries.
+* 44.  一日中都心の汚れた空気を吸いながら働いている人々にとって、高原の澄んだ空気ほど快いものはない。
+    * For the people who work at the city side and breath durty air all day, there is no other more clean air in the high field.
+    * For those who are at work in the center of the city breathing the polluted air all day long, nothing is more refreshing than the fresh air of the highlands.
+* 45.  最近各地で自然災害が起きていて、自然の恐ろしさを痛感する。
+    * A lot of disasters happen each region, it makes us realize the power of nature.
+    * There have recently been disasters in many places, which makes me fully aware of the frightening forces of nature.
+* 46. 日本では国内転勤の場合でも子供の教育のためを思って単身赴任することもめずらしくない。
+    * It's not rare in Japan that a husband works and lives in different place apart from his family for the children's education even domestic transferring.
+    * When they are transferred to another part of Japan, it is not unusual to go alone so as not to disrupt their children's education.
+* 47. せっかくたくさんお金をかけて海外旅行に出かける以上、ただ名所見物をして帰ってくるだけではもったいない。
+    * It's wasteful to go abroad just seeing famous spots and returning home with spending a lot of money.
+    * Since you spend a lot of money on foreign tips, it is wasteful just to see the sights and come home.
+* 48. 外国語を習得するのに苦労した人はだれでも、子供がいとも簡単に言葉を覚えるのに驚くものだ。
+    * Whoever has learnt a foreing language hard, we are suprised at how children learn words easily.
+    * Anyone who has had a hard time learning a foreing language will be surprised at the ease with which young children learn a language.
+* 49. 日本で働く外国人が、いぜん増え続けている。外国人を受け入れる流れに逆らうことはできまい。
+    * There has been a lot of foreiners working in Japan. We can't help resisting the flow of accepting foreiners.
+    * More and more foreign workers are coming to Japan. We cannot turn them all away.
+    * The number of foreigners working in Japan continues to rise. We cannot reverse the trend toward accepting them.
+* 50. 今ではどんなものでも自販機で買えるようになった。その普及ぶりには目覚しいものがある。
+    * Nowadays, we can buy almost everything at vending machines. I'm suprised to see the widspread use of them.
+    * These days, you can get almost anything out of vending machines. It is amazing that they can be found alsomot anywhere in Japan.
+    * Nowadays you can buy practically anything from vending machines, the spread of which is really remarkable.
+* 51. 使い捨てカメラや紙コップなどのようなものが、資源の浪費や自然破壊につながっていることに気づいている人は少ないようだ。
+    * Few people notices that disposal camera or cups contribute unnecessaryly consumes and destruction of nature.
+* 52. 円高ドル安のおかげで、近頃は海外旅行が安くできるようになった。
+    * We can go to trip abroad cheaper because of the currency between doller and yen.
+* 53. 経済学者の中には、フリーターが増え続けると日本の経済に悪影響を及ぼすと警告する人もいる。
+    * Some economists are warning that the increase of freeter affects  badly Japanese economy.
+* 54. 自然環境がさらに悪化しないように早急に対策を講じなければ、手遅れになる。
+    * Unless we consider the contermeasure so as not to proceed environment pollution, it'd be too late.
+* 55. 科学技術が進歩するにつれて若者の科学技術離れが進んできたというのは皮肉なことである。
+    * As the science and technology advances, it's ironical that the younger people are becoming separate from science and technology.

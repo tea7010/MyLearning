@@ -176,3 +176,13 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * Unless we consider the contermeasure so as not to proceed environment pollution, it'd be too late.
 * 55. 科学技術が進歩するにつれて若者の科学技術離れが進んできたというのは皮肉なことである。
     * As the science and technology advances, it's ironical that the younger people are becoming separate from science and technology.
+* 56. 衣食住にかかわる物資の多くを海外に頼っているのだから、日本人は真の国際感覚を身につける必要がある。
+    * Since Japan has been realying many lifeline things on overseas, the Japanese people need to be sentitive for international things.
+* 57.  法律が改正されて離婚がしやすくなり、離婚率が高くなっている。
+    * Since the legislation has been amended, it became easy to divorce and the number of them has been increasing.
+* 58. 日本にゴミを捨てる場所がなくなる日が遠くないという。資源の再利用にさらに真剣に取り組む必要がある。
+    * It won't be long the day that there is no longer place to throw gabages away in Japan. We need to work on recyling resorces in hornest.
+* 59. 医学研究によれば赤ワインには動脈硬化予防に効果があるという。これも赤ワインの人気が高まったことの理由の１つだ。
+    * According to a medical study, red wine seems to have a power to prevent Arteriosclerosis, which is the one of the reasons that red wine has became popular.
+* 60. 電話は私たちの日常生活にすっかり溶け込んでしまっているので、電話がなかったらどんなに不便かを改めて考えてみないと、そのありがたみがわからない。
+    * Since Telephone has been completely familiar to our life, we don't understand the necesity unless we imagine the inconvinience of the life without it.

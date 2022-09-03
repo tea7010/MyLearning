@@ -32,17 +32,16 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * I drive to work as early as possible so as not to stuck in traffic jam.
 * 11. 今日ではありとあらゆる類のマニュアルや手引書が氾濫している。
     * Nowadays, there are a lot of manuals and procedures for every kind of things.
-    * 
+    * We can find many kinds of manuals and guidbook in thesedays.
 * 12. 東京では電車と地下鉄が縦横に走っているので、自家用車はほとんどいらない。
     * In Tokyo, the train and subway networks cover like a mesh, I don't need cars very much.
-    * 
+    * In Tokyo, you don't need a car so much that the train and subway runs vertically and horizontally.
 * 13. 「国際化」ということがよく言われるが、国際化とは何なのか。
     * It is often said internationalization, but I'm not sure what it is.
-    * We hear a lot about "inteernationalization" these days, and what exactly is internationalization anyway?
+    * 
 * 14. 医学が進歩するにつれて、人間の寿命は伸びてきた。
     * As the medical technology advances, humans life has been lasted.
-    * As medical science has progressed, we have come to live longer than before.
-    * With the progress of medical science, the average life span has been getting longer and longer.
+    * 
 * 15. 太陽エネルギーや電気などを動力とした車への関心が高まってきている。
     * It is much more interesting for poople to the cars that move with electlicity and solar power.
     * People are more and more interested in cars powered by solar energy or electricity.
@@ -181,3 +180,6 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * According to a medical study, red wine seems to have a power to prevent Arteriosclerosis, which is the one of the reasons that red wine has became popular.
 * 60. 電話は私たちの日常生活にすっかり溶け込んでしまっているので、電話がなかったらどんなに不便かを改めて考えてみないと、そのありがたみがわからない。
     * Since Telephone has been completely familiar to our life, we don't understand the necesity unless we imagine the inconvinience of the life without it.
+
+
+* I was standing outside with my wife at the same spot, but only me got the mosquito bites.

@@ -4,3 +4,5 @@
 1. The story of Doctor Dolittle
 1. The Wonderful Wizard of Oz
 1. A Passion for Music
+1. Bedtime Stories for KIDS
+1. Harry the Happy Mouse

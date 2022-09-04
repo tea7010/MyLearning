@@ -6,3 +6,4 @@
 1. A Passion for Music
 1. Bedtime Stories for KIDS
 1. Harry the Happy Mouse
+1. The Little Prince

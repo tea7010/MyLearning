@@ -7,9 +7,9 @@
    - Unit: 
 
 ## Tangomimi Lv1
-* Practice: 27
-* ABC: 15
-* JECET: 16
+* Practice: 28
+* ABC: 16
+* JECET: 17
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058

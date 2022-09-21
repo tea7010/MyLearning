@@ -1,7 +1,7 @@
 # Practice type books
 
 ## Duo3.0
-- Shadowing: 15
+- Shadowing: 16
     - Unit: 
 - Reading(Review): 5
    - Unit: 
@@ -20,3 +20,7 @@
 1. Bedtime Stories for KIDS
 1. Harry the Happy Mouse
 1. The Little Prince: 16,534
+1. 猫マンガで楽しく英語多読1
+1. The Skylark Who was Frightened Of Flying
+1. The little kittens
+1. A bear's Story

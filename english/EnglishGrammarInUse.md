@@ -1239,11 +1239,12 @@
 * pay back: 金を返
 
 # Review
+* Just read: 3
+    * until 10
 * Exercise: 1
     * Preposition: 1
     * Phrasal verb: 2
     * Study Guide: 1
-    
 
 # 使ったことない表現メモ
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do

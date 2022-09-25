@@ -1240,7 +1240,7 @@
 
 # Review
 * Just read: 3
-    * until 10
+    * until 16
 * Exercise: 1
     * Preposition: 1
     * Phrasal verb: 2

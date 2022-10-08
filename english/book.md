@@ -24,3 +24,7 @@
 1. The Skylark Who was Frightened Of Flying
 1. The little kittens
 1. A bear's Story
+1. Edogawa Rampo in English
+1. English short stories
+1. Short stories for elementary level enghlish learners
+1. Short Stories

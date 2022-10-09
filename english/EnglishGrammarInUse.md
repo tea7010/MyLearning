@@ -1248,7 +1248,7 @@
 * Exercise: 1
     * Preposition: 1
     * Phrasal verb: 2
-    * Study Guide: 1
+    * Study Guide: 2
 
 # 使ったことない表現メモ
 * strange/odd/funny/typical/natural/interesting/surprised/surprising + than someone should do

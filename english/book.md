@@ -1,7 +1,12 @@
 # Practice type books
 
+## Logophilia
+- Reading:
+    - article: 6
+    - article: 10
+
 ## Duo3.0
-- Shadowing: 16
+- Shadowing: 17
     - Unit: 
 - Reading(Review): 5
    - Unit: 

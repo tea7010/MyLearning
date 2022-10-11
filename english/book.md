@@ -2,8 +2,8 @@
 
 ## Logophilia
 - Reading:
-    - article: 6
-    - article: 10
+    - Review: 10
+    - New: 13
 
 ## Duo3.0
 - Shadowing: 17

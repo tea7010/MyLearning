@@ -183,3 +183,10 @@ https://www.writing-plaza.com/exercise/wpe0001.html
 * I was standing outside with my wife at the same spot, but only me got the mosquito bites.
 
 https://www.maetoronto.com/ieltsblog-pronunciation1/
+
+
+## My opinion
+
+* https://japantoday.com/category/national/tokyo-trains-ask-people-to-refrain-from-wearing-halloween-costumes-that-may-scare-other-passengers
+    * The company has to make an announcemnt of refraining frightenning costume on the train not to repeat the last year incidents.
+    * I think this kind of announcement that prohibit wear a scared cosutume on the train wouldn't be a direct countermeasure of the incidents. I think those who are desparate people would commit a violence whatever the costume is, and wouldn't mind whether it's prohibited or not. I believe having a opportunity or advice is the most important thing to reduce such desparate violence.

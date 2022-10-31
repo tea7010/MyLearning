@@ -185,8 +185,11 @@ https://www.writing-plaza.com/exercise/wpe0001.html
 https://www.maetoronto.com/ieltsblog-pronunciation1/
 
 
-## My opinion
+## My opinion2wass342z
 
 * https://japantoday.com/category/national/tokyo-trains-ask-people-to-refrain-from-wearing-halloween-costumes-that-may-scare-other-passengers
     * The company has to make an announcemnt of refraining frightenning costume on the train not to repeat the last year incidents.
     * I think this kind of announcement that prohibit wear a scared cosutume on the train wouldn't be a direct countermeasure of the incidents. I think those who are desparate people would commit a violence whatever the costume is, and wouldn't mind whether it's prohibited or not. I believe having a opportunity or advice is the most important thing to reduce such desparate violence.
+* https://japantoday.com/category/national/fire-drill-conducted-on-3rd-anniv.-of-gutted-shuri-castle-in-okinawa
+    * THe fire drill was conducted by the local fireworks and government for preventing and preparing a fire in the future
+    * It is an important thing that considering a countermeasure or learning from the past disaster. Although the interior of the casle would be a little out of the castle atomaspher, I think it'd be more secure and safe to install sprinkler. 

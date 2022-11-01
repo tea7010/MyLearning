@@ -193,3 +193,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/national/fire-drill-conducted-on-3rd-anniv.-of-gutted-shuri-castle-in-okinawa
     * THe fire drill was conducted by the local fireworks and government for preventing and preparing a fire in the future
     * It is an important thing that considering a countermeasure or learning from the past disaster. Although the interior of the casle would be a little out of the castle atomaspher, I think it'd be more secure and safe to install sprinkler. 
+* https://japantoday.com/category/crime/tokyo-police-to-issue-%E2%80%98red-tickets%E2%80%99-to-cyclists-violating-traffic-laws
+    * The police started to stregthen the regulation of cyclists violation of trafic rules.
+    * I'm wondering what is a red ticket. Is is a kind of fine? Anyway I think it is a good thing to tight the cyclist behavior because some cyclists are really reckless and dengerous for pedestrian. I believe make them aware of the rules and safety effectively.

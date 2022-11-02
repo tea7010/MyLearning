@@ -196,3 +196,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/crime/tokyo-police-to-issue-%E2%80%98red-tickets%E2%80%99-to-cyclists-violating-traffic-laws
     * The police started to stregthen the regulation of cyclists violation of trafic rules.
     * I'm wondering what is a red ticket. Is is a kind of fine? Anyway I think it is a good thing to tight the cyclist behavior because some cyclists are really reckless and dengerous for pedestrian. I believe make them aware of the rules and safety effectively.
+* X summit
+    * Annouced the new model of XT series body and 30mm macro lens.
+    * I'm a bit disappointed in no suprise announcement of development product like Pro4, but it was suprising that the 30mm macro lens is inner-focus that means it doesn't extend the lens length considering the its size because the usual macro lens extend a lot. I haven't dicided to buy it yet because I've got 35mmF2 and I'm quite satisfied it, but it sounds useful and versitile for the daily shoot.

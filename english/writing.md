@@ -199,3 +199,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * X summit
     * Annouced the new model of XT series body and 30mm macro lens.
     * I'm a bit disappointed in no suprise announcement of development product like Pro4, but it was suprising that the 30mm macro lens is inner-focus that means it doesn't extend the lens length considering the its size because the usual macro lens extend a lot. I haven't dicided to buy it yet because I've got 35mmF2 and I'm quite satisfied it, but it sounds useful and versitile for the daily shoot.
+* https://japantoday.com/category/business/japan-asks-u.s.-to-loosen-rules-around-ev-tax-credits
+    * Japnese govenment asks US to loosen tax regulation for importing cars to enhaunce selling EVs in US.
+    * It doesn't make sense that Japanese company can get the tax deregulation(allowance). This tax allowance is aimed at enhaunsing US domestic inductory and have a competitivenes for EV manufactualers in China where is one of the most EV selling and biggest EV market in the world I think it's very natural idea that Japan has to produce EVs and hire the people in US plant if foreign companies want to get the benefit.

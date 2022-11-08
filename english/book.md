@@ -9,7 +9,7 @@
 - Shadowing: 17
     - Unit: 
 - Reading(Review): 5
-   - Unit: 
+   - Unit: 18
 
 ## Tangomimi Lv1
 * Practice: 28
@@ -34,3 +34,5 @@
 1. Short stories for elementary level enghlish learners
 1. Short Stories
 1. True Stories
+1. Harry Potter and the Philosopher's Stone: 76,944
+1. Harry Potter and the Chamber of Secrets: 85,141

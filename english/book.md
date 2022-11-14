@@ -9,7 +9,7 @@
 - Shadowing: 17
     - Unit: 
 - Reading(Review): 5
-   - Unit: 22
+   - Unit: 24
 
 ## Tangomimi Lv1
 * Practice: 28

@@ -202,3 +202,7 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/business/japan-asks-u.s.-to-loosen-rules-around-ev-tax-credits
     * Japnese govenment asks US to loosen tax regulation for importing cars to enhaunce selling EVs in US.
     * It doesn't make sense that Japanese company can get the tax deregulation(allowance). This tax allowance is aimed at enhaunsing US domestic inductory and have a competitivenes for EV manufactualers in China where is one of the most EV selling and biggest EV market in the world I think it's very natural idea that Japan has to produce EVs and hire the people in US plant if foreign companies want to get the benefit.
+* https://breakingnewsenglish.com/2211/221110-super-rich-co2-emissions-a.html
+    * The billionairs create more CO2 than average person because of their luxury lifestyle like using private jet, living specious room and using much electricity.
+    * I didn't know that the amount of CO2 luxury people consuming is so big, but it makes sense that it would be huge number of the CO2 emmition ratio when you compare the average CO2 comsumption per person between the normal person and the billionair who has a private jet.
+    * I can't say they shouldn't have a private jet because it's up to the person whatever they use theyir money, but It might be no problem to add kind of reforestration tax to them when they use a private jet.

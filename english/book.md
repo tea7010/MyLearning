@@ -7,7 +7,7 @@
 
 ## Duo3.0
 - Shadowing: 17
-    - Unit: 
+    - Unit: 21
 - Reading(Review): 5
    - Unit: 24
 
@@ -36,3 +36,5 @@
 1. True Stories
 1. Harry Potter and the Philosopher's Stone: 76,944
 1. Harry Potter and the Chamber of Secrets: 85,141
+
+285,516

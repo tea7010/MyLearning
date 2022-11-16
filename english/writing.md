@@ -47,10 +47,10 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * More and more people has been interested in the cars the power source of which are electricity or solor etc.
 * 16. 自然を守ることが自分たちの利益につながるということが多くの人に認識されるようになってきた。
     * There has been recognized to many people that protecting the invironment relates to our benefit.
-    * 
+    * It has become known by many people that protecting the environment leads to our profit.
 * 17. パソコンはとても便利な道具だ。将来はパソコンなしの生活など考えられなくなるだろう。
     * PC is a quite handy tool. I can't live without one in the future.
-    * 
+    * PC is very convinient tool, and you can't think life without it.
 * 18. 日本は天然資源が乏しいにもかかわらず、国際貿易のおかげで経済大国になった。
     * Despite lacking of mineral resorces, Japan has become a large economy company because of international trade.
     * 

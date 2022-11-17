@@ -206,3 +206,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
     * The billionairs create more CO2 than average person because of their luxury lifestyle like using private jet, living specious room and using much electricity.
     * I didn't know that the amount of CO2 luxury people consuming is so big, but it makes sense that it would be huge number of the CO2 emmition ratio when you compare the average CO2 comsumption per person between the normal person and the billionair who has a private jet.
     * I can't say they shouldn't have a private jet because it's up to the person whatever they use theyir money, but It might be no problem to add kind of reforestration tax to them when they use a private jet.
+* https://japantoday.com/category/features/health/billion-youth-risk-hearing-loss-from-headphones-venues-study
+    * Listening music too loud on earphones or headphones and at the concert venue could be a risk of hear loss according to some studies.
+    * I thought I should be carefull with the volume when I listen to music or watching video on smartphone with earphones. I don't like listening to music a loud, so I believe it's no problem for me, but I recon sometimes I have some situations that I need to turn the volume up like having a online meeting that I feel a bit of difficulties of listening to some people saying due to their bad microphone condition. 

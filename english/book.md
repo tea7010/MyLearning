@@ -3,7 +3,7 @@
 ## Logophilia
 - Reading:
     - Review: 10
-    - New: 22
+    - New: 24
 
 ## Duo3.0
 - Shadowing: 17
@@ -36,5 +36,6 @@
 1. True Stories
 1. Harry Potter and the Philosopher's Stone: 76,944
 1. Harry Potter and the Chamber of Secrets: 85,141
+1. Harry Potter and the prisoner of Azkaban 107,253
 
-285,516
+392,769

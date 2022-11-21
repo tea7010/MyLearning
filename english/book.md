@@ -3,11 +3,11 @@
 ## Logophilia
 - Reading:
     - Review: 10
-    - New: 24
+    - New: 27
 
 ## Duo3.0
-- Shadowing: 17
-    - Unit: 21
+- Shadowing: 18
+    - Unit: 
 - Reading(Review): 5
    - Unit: 24
 

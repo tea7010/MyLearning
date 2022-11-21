@@ -53,7 +53,7 @@ https://www.writing-plaza.com/exercise/wpe0001.html
     * PC is very convinient tool, and you can't think life without it.
 * 18. 日本は天然資源が乏しいにもかかわらず、国際貿易のおかげで経済大国になった。
     * Despite lacking of mineral resorces, Japan has become a large economy company because of international trade.
-    * 
+    * Japan became a big economy country because of the international trade although the lack of mineral resources.
 * 19. 現在でも世界では、毎年何万人という人が、生きていくのに十分な食べ物を買うこともできず餓死している。
     * There are thousands of people who died due to lack of food to live in the world.
     * 

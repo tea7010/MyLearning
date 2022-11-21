@@ -70,3 +70,10 @@ class PickleUtils:
         with open(src, 'rb') as p:
             return pickle.load(p)
 ```
+
+## List/Tuple/Set/Dictの違い
+https://qiita.com/ishida330/items/9692836aa860b2d0c36c
+
+* A "set" doesn't accepts duplicated value
+    * Mutable
+    * doesn't have an order of values

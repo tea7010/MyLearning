@@ -95,3 +95,8 @@ dict_list = [{
 pd.DataFrame(dict_list)
 ```
 これでもちゃんと存在しないkey(column)に対しては、nanで読み込んでくれる
+
+## Orders when doing "explode"
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.explode.html
+`In addition, the ordering of rows in the output will be non-deterministic when exploding "sets."`
+> It seems that the order of the values are guaranteed as long as its value is list type.

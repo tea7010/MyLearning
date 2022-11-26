@@ -12,7 +12,7 @@
    - Unit: 24
 
 ## Tangomimi Lv1
-* Practice: 28
+* Practice: 29
 * ABC: 17
 * JECET: 18
 

@@ -216,3 +216,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/crime/uber-eats-delivery-worker-arrested-for-smearing-curry-on-apartment-door-of-customer-who-gave-him-bad-rating
     * An deriverly worker of Uber eats arrested on allegation of throwing curry on an apartment door of the customer who gave a low rate to the worker.
     * I'm wondering what would be happen when a customer gives low satisfaction level to the delivery. Would he or she get lower salary? or would the algorithm of the assignment of delivery worker avoid them when they are in a queue? Anyway, I think throwing the curry on the door is too far for the revenge of it. He could have earned more money and spended more meaningful things if he could ignore the poor review.
+* https://japantoday.com/category/special-promotion/Why-we-eat-'osechi'-at-New-Year-and-what-each-dish-means
+    * Osechi, which is Japanese traditional cuisine for new year celebration, has been changing the style recently. The layers or tiers of the box of Osechi are traditionally 5, but recently 3 tiers box is becoming popular.
+    * I didn't know that the meaning of Datemaki which the origin was from Date city in Nagasaki. 

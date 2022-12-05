@@ -219,3 +219,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/special-promotion/Why-we-eat-'osechi'-at-New-Year-and-what-each-dish-means
     * Osechi, which is Japanese traditional cuisine for new year celebration, has been changing the style recently. The layers or tiers of the box of Osechi are traditionally 5, but recently 3 tiers box is becoming popular.
     * I didn't know that the meaning of Datemaki which the origin was from Date city in Nagasaki. 
+* https://japantoday.com/category/features/health/japanese-biotech-firm-develops-world's-first-early-screening-test-for-pancreatic-cancer-using-worms
+    * A test kit for pancreas cancer that use a special kind of worm that has a quite well sense of smell has been selling in Japan.
+    * It's a bit suspicious to me whether the worm can detect pancreas cancer without a mistake since it's not using a chemical reactions that seem most correct to me. If the worm hates me, he wouldn't like to react the test so as not to notify me the cancer.

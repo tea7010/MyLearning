@@ -62,3 +62,8 @@ pipenv --python=/usr/bin/python3
 ```
 pipenv install [package]
 ```
+
+## VSCodeでWSLのJupyterにアクセスし、ソースファイルを編集
+* WSL,PythonのExtension２つを入れ、使うPythonのpathを追加すればあとはipynb or pyファイルを作成すれば実行可能（なはず）
+
+https://ylabdesk.com/python-environmental-construction#vscode%E3%81%AB%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BDremote-wsl%E3%81%A8python%E3%82%92%E5%85%A5%E3%82%8C%E3%82%8B

@@ -6,6 +6,13 @@ https://github.com/databricks-academy/INT-JEPFS-V2-IL
 
 https://github.com/databricks-academy/apache-spark-programming-with-databricks/tree/published/Apache-Spark-Programming-with-Databricks
 
+# Install Pyspark on local
+* Java
+* pyspark
+* findspark
+https://sparkbyexamples.com/pyspark/install-pyspark-in-anaconda-jupyter-notebook/
+
+
 # SQL
 
 ## SQLクエリを実行する

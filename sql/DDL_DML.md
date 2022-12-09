@@ -24,6 +24,21 @@ insert into {table_name} ({metric1}, {metric2}) values
     ()...
 ```
 
+## 変数の宣言
+```sql
+declare @a int = 10
+select @a + 10
+```
+
+## Temporary tableの作成と呼び出し
+```sql
+select ...
+INTO #tmp_list
+FROM ...
+
+select * from #tmp_list
+```
+
 ## Materialized viewについて
 https://docs.snowflake.com/en/user-guide/views-materialized.html
 

@@ -6,6 +6,7 @@ https://github.com/databricks-academy/INT-JEPFS-V2-IL
 
 https://github.com/databricks-academy/apache-spark-programming-with-databricks/tree/published/Apache-Spark-Programming-with-Databricks
 
+
 # Install Pyspark on local
 * Java
 * pyspark
@@ -212,6 +213,9 @@ my_udf = pandas_udf(plus_one, returnType=LongType())
 
 df.withColumn('udf_result', my_udf('use_colname'))
 ```
+
+https://qiita.com/paulxll/items/1c0833782cd4e1de86e2
+* 複数の変数をUDFに渡すとき
 
 #### Windowのpandas udf
 https://stackoverflow.com/questions/48160252/user-defined-function-to-be-applied-to-window-in-pyspark

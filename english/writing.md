@@ -222,3 +222,5 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/features/health/japanese-biotech-firm-develops-world's-first-early-screening-test-for-pancreatic-cancer-using-worms
     * A test kit for pancreas cancer that use a special kind of worm that has a quite well sense of smell has been selling in Japan.
     * It's a bit suspicious to me whether the worm can detect pancreas cancer without a mistake since it's not using a chemical reactions that seem most correct to me. If the worm hates me, he wouldn't like to react the test so as not to notify me the cancer.
+* https://japantoday.com/category/national/japan-oks-highly-autonomous-level-4-driving-from-april-2023
+    * Some public transportation such as bus is now going to run automatically. Although the area the auto-bomile bus can run is limited only special area, it soulds great progress in the human history. I hope the day will come that I can play cards with my family while driving a car without being aware of anything.

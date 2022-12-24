@@ -223,4 +223,7 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
     * A test kit for pancreas cancer that use a special kind of worm that has a quite well sense of smell has been selling in Japan.
     * It's a bit suspicious to me whether the worm can detect pancreas cancer without a mistake since it's not using a chemical reactions that seem most correct to me. If the worm hates me, he wouldn't like to react the test so as not to notify me the cancer.
 * https://japantoday.com/category/national/japan-oks-highly-autonomous-level-4-driving-from-april-2023
-    * Some public transportation such as bus is now going to run automatically. Although the area the auto-bomile bus can run is limited only special area, it soulds great progress in the human history. I hope the day will come that I can play cards with my family while driving a car without being aware of anything.
+    * Some public transportation such as bus is now going to run automatically. Although the area the auto-bomile bus can run is limited only special area, it soulds great progress in the human history. I hope the day will come that I can play cards with my family while driving a  car without being aware of anything.
+* https://japantoday.com/category/crime/japan-msdf-captain-suspected-of-leaking-state-secret
+    * It might be the first applied case of secret protecting law that a person who worked in self-defence force leaked some information to others.
+    * I don't have any idea what is MSDF, but it doesn't sound it's a serious problem very much. If the information has leaked to other country like, it would be a more critical issue, but it seems the leaakage was taken place in a just other Japanese govement orgagniztion.

@@ -42,5 +42,6 @@
 1. Harry Potter and the Philosopher's Stone: 76,944
 1. Harry Potter and the Chamber of Secrets: 85,141
 1. Harry Potter and the prisoner of Azkaban 107,253
+1. Harry Potter and the Goblet of fire 190,637
 
-392,769
+583,406

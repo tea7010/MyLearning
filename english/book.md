@@ -2,8 +2,9 @@
 
 ## IELTS 単語帳
 - Reading: 
+    - Review: 1
     - rough estimation of progress: 3 units per day -> 32 days a cycle
-    - Unit: 89
+    - Unit: 1
 
 ## Logophilia
 - Reading:

@@ -85,3 +85,7 @@ SELECT Employ1.[EmpID]
 			 AND [Sales] > 1000
 		  )
 ```
+
+## Join条件のUsing/On
+`using`だとマージしたときの重複列が生成されない。ただし結合テーブルのカラム名は同一でないといけない。
+https://style.potepan.com/articles/23541.html

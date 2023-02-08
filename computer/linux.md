@@ -33,3 +33,16 @@ https://sicklylife.jp/ubuntu/1804/help/shell-windows.html#working-with-workspace
 rename 's/file/MyFile/' file*.txt
 ```
 
+## Pathの追加方法
+https://qiita.com/takanemu/items/6027291be8a2a6af9adc
+
+# WSL2
+
+## SQL serverのinstall
+https://dbafromthecold.com/2022/09/27/running-sql-server-in-windows-subsystem-for-linux-wsl/
+
+* /etc/wsl.confを作成するのを忘れない
+```bash
+[boot]
+systemd=true
+```

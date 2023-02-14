@@ -89,3 +89,23 @@ SELECT Employ1.[EmpID]
 ## Join条件のUsing/On
 `using`だとマージしたときの重複列が生成されない。ただし結合テーブルのカラム名は同一でないといけない。
 https://style.potepan.com/articles/23541.html
+
+## 2つのテーブル間・異なるタイムラインに対して、共通部分を計算したい
+* Aを基準にBを結合するとする。
+* Join条件は、Aの各レコードに対して、少しでも共通部分のあるBレコードをjoinさせる（共通する行数分Aレコードが水増しされてJoinされる）
+* diffのところは、`max(A.end, B.end) - min(A.start, B.start)`と解釈すると、共通部分のみの差分を計算してるはず。。。
+
+```sql
+slect 
+    A.start
+    ,B.start
+    ,A.end
+    ,B.end
+    ,datediff('unit', greatest(A.start, B.start), least(A.end, B.end)) as intersection_time
+from A
+left join B
+    on A.key = B.key
+    and A.start <= B.end
+    and A.end >= B.start
+```
+

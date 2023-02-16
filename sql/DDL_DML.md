@@ -24,6 +24,11 @@ insert into {table_name} ({metric1}, {metric2}) values
     ()...
 ```
 
+## カラム一覧の取得
+```sql
+show columns in table {table name}
+```
+
 ## 変数の宣言
 ```sql
 declare @a int = 10

@@ -46,4 +46,5 @@
 1. Harry Potter and the Goblet of fire 190,637
 1. Harry Potter and the Order of the Phoenix 257,045
 1. Harry Potter and Half-Blood Prince 168,923
-1,009,374
+1. Harry Potter and Deathly Hallows 198,227
+1,207,601

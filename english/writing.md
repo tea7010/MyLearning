@@ -185,7 +185,7 @@ https://www.writing-plaza.com/exercise/wpe0001.html
 https://www.maetoronto.com/ieltsblog-pronunciation1/
 
 
-## My opinion2wass342z
+## My opinion
 
 * https://japantoday.com/category/national/tokyo-trains-ask-people-to-refrain-from-wearing-halloween-costumes-that-may-scare-other-passengers
     * The company has to make an announcemnt of refraining frightenning costume on the train not to repeat the last year incidents.
@@ -227,3 +227,6 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/crime/japan-msdf-captain-suspected-of-leaking-state-secret
     * It might be the first applied case of secret protecting law that a person who worked in self-defence force leaked some information to others.
     * I don't have any idea what is MSDF, but it doesn't sound it's a serious problem very much. If the information has leaked to other country like, it would be a more critical issue, but it seems the leaakage was taken place in a just other Japanese govement orgagniztion.
+* https://japantoday.com/category/national/Japan's-H3-rocket-ordered-to-self-destruct-after-liftoff
+    * H3, which is the new generation rocket developed by Mitsubishi heavy industory and lunched today, failed to launch due to a technical trouble.
+    * I found a hilarious comment that said neighbours can help. It impying the country that is actively launching kind of rockets frequently.

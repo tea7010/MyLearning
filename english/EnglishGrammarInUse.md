@@ -1239,8 +1239,8 @@
 * pay back: 金を返
 
 # Review
-* Just read: 3
-    * Until 142
+* Just read: 4
+    * Until 145
 * Exercise: 1
     * Preposition: 1
     * Phrasal verb: 2

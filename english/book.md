@@ -4,7 +4,7 @@
 - Reading: 
     - Review: 2
     - rough estimation of progress: 3 units per day -> 32 days a cycle
-    - Unit: 20
+    - Unit: 30
 
 ## Logophilia
 - Reading:

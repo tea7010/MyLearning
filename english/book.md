@@ -7,9 +7,6 @@
     - Unit: 50
 
 ## Logophilia
-- Reading:
-    - Review: 10
-    - New: 30
 
 ## Duo3.0
 - Shadowing: 18

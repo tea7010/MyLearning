@@ -109,3 +109,33 @@ left join B
     and A.end >= B.start
 ```
 
+## 複数のカテゴリ・カテゴリ値などに対してunpivotする
+AIの回答
+```sql
+SQLで、複数のタイムスタンプとそのタイムスタンプに対応したカテゴリ値が1行であるテーブルがあるとします。このテーブルを1カテゴリごとに、タイムスタンプとなんのカテゴリであるかを含めてUNPIVOTしたい場合は、次のようなクエリを書くことができます1。
+
+例えば、次のようなテーブルがあるとします。
+
+id	timestamp1	category1	timestamp2	category2
+1	2020-01-01	A	2020-01-02	B
+2	2020-01-03	C	2020-01-04	D
+3	2020-01-05	E	NULL	NULL
+このテーブルから、id, timestamp, categoryという3つのカラムにUNPIVOTしたい場合は、次のようなクエリを書くことができます1。
+
+select id, timestamp, category
+from table
+unpivot ((timestamp, category) for pair in ((timestamp1, category1) as 'pair1', (timestamp2, category2) as 'pair2'))
+
+
+id	timestamp	category
+1	2020-01-01	A
+1	2020-01-02	B
+2	2020-01-03	C
+```
+
+## Semi-Join, Anti-Join
+https://exploratory.io/note/BWz1Bar4JF/Filter-Join-mKM1GHu9aw/note_content/note.html
+
+* フィルタリング用途のJoin
+* 一致するもののみ返す: Semi Join
+* 一致しないものを返す: Anti Join

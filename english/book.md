@@ -2,7 +2,7 @@
 
 ## IELTS 単語帳
 - Reading: 
-    - Review: 2
+    - Review: 3
     - rough estimation of progress: 3 units per day -> 32 days a cycle
     - Unit: 50
 

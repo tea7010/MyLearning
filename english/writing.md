@@ -230,3 +230,7 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://japantoday.com/category/national/Japan's-H3-rocket-ordered-to-self-destruct-after-liftoff
     * H3, which is the new generation rocket developed by Mitsubishi heavy industory and lunched today, failed to launch due to a technical trouble.
     * I found a hilarious comment that said neighbours can help. It impying the country that is actively launching kind of rockets frequently.
+* https://www.youtube.com/watch?v=AjoxkxM_I5g&list=PLEC8lRYGYLMIabXR9WJCTSxc-r58R9PQO&index=6
+    * At first thought when I looked at the title of this video was something to do with a special memorization talent like the people who can remember everything in a book for at a glance. However, this was about how to make use of the knowledge or learnings productibely and apply to his dialy life.
+    * His method is basically focused on how you engage to a book you read. The usual way to read a book would be a passive way from his view point, especially non-fiction books. You need to engage the book through some strategies or habit. He break down the levels into 7, but the point to engage books is write down your impressions and summaries of the points and try to apply the learnings in your daily life.
+    * After watching this video, I thought I need to write down my feelings or impresseions when I look something learningfull. So I started to write my notes on github again which I had been kept during covid.

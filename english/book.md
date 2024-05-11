@@ -44,4 +44,9 @@
 1. Harry Potter and the Order of the Phoenix 257,045
 1. Harry Potter and Half-Blood Prince 168,923
 1. Harry Potter and Deathly Hallows 198,227
-1,207,601
+1. Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think: 88,250
+1. The Easy Way to Stop Smoking: 70,000
+1. 1984: 89,000
+1. The Martian: 104,588
+
+Total: 1,559,489

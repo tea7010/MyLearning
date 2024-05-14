@@ -243,3 +243,7 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * https://www.youtube.com/watch?v=MUw4BoFm41g
     * it is about a tips to how to be fluent in non-native language from her experiences. To increase active vocaburary, she mentioned that it is important to be like 3 years old kids to start speaking. Learning vocaburary with context is a key to connect a passive word to active word and make the passive word active because of the brain structure which everything is connected to something.
     * What do I want to apply to my life is that being aware of the connection or context of words. It is important for me to understand the connection or relation or similarity or position of vocaburary to increse my active vocab list in my head.
+* GPT-4o
+    * At first sight, it sounded like Open AI developped a just lighter and faster version of GPT4, but it turned out that the speed of the response is so fast that the 4o can do a real-time conversation as if you talk with a real person.
+    * Open AI demonstrated the talking with gpt functionarity using a smart phone, and it was actually amazing for me
+    * I felt I would not need to pay ELSA speak anymore if Open AI comes out the GPT4o with free, but I also thought that I need more speaking skill in english to talk with gpt. Ironically, language skill is more necessary than before when gpt emeerged because everyone can write down legit documentation or messages with the help of gpt, and it is almost rude to give people untidy messages or emails without proofreading of gpt

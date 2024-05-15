@@ -8,6 +8,9 @@
 
 ## Logophilia
 
+## Phrasal verbs
+- 7
+
 ## Duo3.0
 - Shadowing: 18
     - Unit: 

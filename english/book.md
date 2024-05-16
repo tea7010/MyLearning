@@ -1,21 +1,13 @@
 # Practice type books
 
-## IELTS 単語帳
-- Reading: 
-    - Review: 4
-    - rough estimation of progress: 3 units per day -> 32 days a cycle
-    - Unit: 
-
-## Logophilia
+# Grammer in Use
+* round 4
 
 ## Phrasal verbs
-- 7
+- round 7: part 1
 
 ## Duo3.0
-- Shadowing: 18
-    - Unit: 
-- Reading(Review): 5
-   - Unit: 24
+- round 23
 
 ## Tangomimi Lv1
 * Practice: 29

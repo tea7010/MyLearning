@@ -4,7 +4,7 @@
 * round 4
 
 ## Phrasal verbs
-- round 7: part 1
+- round 7: part 2
 
 ## Duo3.0
 - round 23

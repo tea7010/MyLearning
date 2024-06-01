@@ -275,3 +275,9 @@ https://www.maetoronto.com/ieltsblog-pronunciation1/
 * I really hate when my wife coughs. I encouraged her to see a doctor, and she did, but the prescription she was given didn't work well.
 * I am really into the Harry Potter series. I read all the series books in original last year. Although It took several months since english is not my first language, I felt so immersed in the magical world and the suspense of the buttling scene. After reading the books, I also watched the movies and they made me love the series more as the spectaclur visuals keep me amazed.
 * I am really into the Harry Potter series. I read all the books in the original English last year. Although it took several months because English is not my first language, I felt completely immersed in the magical world and the suspense of the battles. After finishing the books, I also watched the movies, which made me love the series even more. The spectacular visuals left me amazed.
+* the complaint about the wfh display I am using is that the control buttons are pushed without touching somehow. I think it is due to some mecanically mulfunctions of circuit board or something. The odd and irritating point is that the phenomenon doesn't happen always, but sometimes. I really need to change it because it is really frustrating for me like I commerce my job, but dispalay keeps flushing or the configuration screen moving.
+* The complaint about the WFH display I am using is that the control buttons are activated without being touched. I think it is due to some mechanical malfunctions of the circuit board or something similar. The odd and irritating point is that the phenomenon doesn't always happen, but only sometimes. I really need to change it because it is very frustrating for me; when I start my job, the display keeps flickering or the configuration screen keeps changing.
+
+
+
+

@@ -7,3 +7,6 @@ https://nationalguitaracademy.com/blues-guitar-for-beginners/
 * V -> Iのドミナントモーションしない
 * 基本はIのマイナーペンタが使えるが、それだけだとロックな感じなだけ
 * メジャーのコードトーン（M3, M7)を交えると明るいブルージーな雰囲気になる
+
+## Blues 10
+* Part3

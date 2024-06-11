@@ -9,4 +9,4 @@ https://nationalguitaracademy.com/blues-guitar-for-beginners/
 * メジャーのコードトーン（M3, M7)を交えると明るいブルージーな雰囲気になる
 
 ## Blues 10
-* Part3
+* Part5

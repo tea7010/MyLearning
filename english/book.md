@@ -7,10 +7,10 @@
 - round 10:
 
 ## Distinction
-- part 1: 9
-- part 2: 9
-- part 3: 5
-- part 4: 5
+- part 1: 9.25
+- part 2: 9.25
+- part 3: 5.25
+- part 4: 6
 
 ## Duo3.0
 - round 23

@@ -357,3 +357,8 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 
  * Using chatGPT to practice writing english is really convenient for me. Unlike human based service like online english service, you don't have to spare chunk of time like 30min, and you can do whenever you want. What you have to do is just asking ChatGPTS to have a chat with you with a specific topic you want to talk. I have never tried yet, but the latest model can do a kind of near realtime conversation, and it enable you practice talking as if you talk to somebody. I think this is one of the most correct way to use AI. I hope many people stop using AI in a wrong way, but use the splendid technology more good way to enhance human ability.
  * set aside a block of time, allowing you to, 
+
+ * I have been getting weight since I started pumping irons because I need a lot of proteins and carbo to get mascle. However, it seems like getting mascle without getting any fat is impossible according to some youtube videos I watched. It means I need to lose my fat at some point, otherwise I am going to be a fat man with lots of mascles. I need find a way to lose fat as small loss mascle as possible. One thing I have seen was walking everymorning before brakfast. It said that doing a modarate excercising in the starving condition makes your body use and burn your fat as energy and eventually lose your weight. it makes sense. I need to start walking everymorning, but I am just a too lazy not to be able to get up early in the morning. I need to work on that...
+ * gain weight
+ * buildf mascle
+ * as little mascle loss as possible

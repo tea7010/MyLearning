@@ -362,3 +362,11 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
  * gain weight
  * buildf mascle
  * as little mascle loss as possible
+
+ * My means of commute depends on days. On Monday, I drive my car and drop my kids off at childcare and park at the office. On Tuesday and Wednesday, I don't ususlly use the car, but I take ferry. Taking a bus is the fastest way to get to the office, but I like feeling breeze on ferry and relax on the seat. THe ferry is also less packed compared to other public transport, so I can be productive on a ferry, like considering the texts of email, writing documents, watching a youtube video, and so on and forth. On Thursday, I drive the car the same as on Monday. I really hate driving in rush hours. It takes almost an hour to get to my place as it takes only 15mins in non rush hours. Nothing boring and non-productive time than driving in traffic. That is why I use public transportation and pay fees on Tuesday and Wednesday rather than driving in traffic and taking risks for accidents. On Friday, it's half and half to go to the office by car or work from home. it's up to my mood and family situation.
+ * means of commuting
+ * so I can -> allowing me ...
+ * considering the texts of email -> drafting email
+ * as -> whereas
+ * Nothing is more .... than ...
+ * Opt for

@@ -370,3 +370,20 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
  * as -> whereas
  * Nothing is more .... than ...
  * Opt for
+
+ * I didn't know Manderin. I had thought that Mikan is a only species of oranges that can be peer the skin easily in the world, but Manderin is very popuylar and qutie similar to Mikan.
+ * I didn't know Mandarin. I had thought that Mikan was the only species of orange in the world that could be peeled easily, but Mandarin is very popular and quite similar to Mikan.
+ * Mikan is -> Mikan was: cause it's past
+ * the only: only is specific
+ * peel -> peeled: passive form of peel
+
+* I have been practicing blues guitar because the blues music is cool, it's also cool to improvise music and it is calm compared to other music genre for youth like metal, punk, phyche and so on. I tried Jazz music several years ago, but I ended up holding up learning it then, as I don't listen to Jazz so often and its scales of notes were too complicated. Holding up learning jazz doesn't mean I gave up, but just suspended for now and I am keen to learn Jazz in the future. Blues is basically more simple when it comes to the scales, Blues uses mainly minor and major pentatonic scales with blue note. That's very simple, but there are lots of songs created by the simple scale over past 70years. I think most people don't like the complexity and tend to like music simple enough that can sing the melody with voice. I think that's the reason blues is loved by many people for long time.
+* I've been practicing blues guitar because I find blues music cool. It's enjoyable to improvise and it has a calming vibe compared to other genres popular among youth, like metal, punk, and psychedelic music. A few years ago, I tried getting into jazz, but I ended up pausing my learning journey because I don't listen to jazz frequently and its scales are quite complex. Pausing my jazz studies doesn't mean I've given up on it; I plan to revisit learning jazz in the future. Blues music is simpler in terms of scales. It mainly uses minor and major pentatonic scales along with the blues note. Despite its simplicity, blues has produced countless songs over the past 70 years. I believe many people prefer music that is simpler and allows them to sing along with the melody. This simplicity may explain why blues has been loved by so many people for such a long time."
+* I find
+* calm -> calming vibe
+* a few years ago
+* tried getting into: tried make is a hobby
+* hold up -> pause
+* doesn't mean I gave up -> I've given up on it
+* revisit ...ing
+* countless songs

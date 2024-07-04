@@ -387,3 +387,14 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * doesn't mean I gave up -> I've given up on it
 * revisit ...ing
 * countless songs
+
+* I bought a Spark Go, which is a new guitar gear for me. The reason I bought this is becasuse the headphone amp I was using to practice guitar has been making noise when I connect it to the guitar. I thought the headphone amp has broken, but the truth was different. When I connected the new arrived amp with the guitar, it didn't make any sound. The guitar has been something wrong and causing noise when connected to the headphone amp. It is a typical mistake of troubleshooting. You didn't see right under your nose and consider the other possbilities. So the next thing I need to do to enjoy my guitar life is, maybe buying a new guitar or fix the guitar somehow.
+* I bought a Spark Go, which is a new piece of guitar gear for me. The reason I bought it is that the headphone amp I was using to practice guitar has been making noise when I connect it to the guitar. I thought the headphone amp was broken, but the truth was different. When I connected the newly arrived amp to the guitar, it didn't make any sound. The guitar itself has an issue and is causing the noise when connected to the headphone amp. It's a typical troubleshooting mistake: overlooking the obvious and not considering other possibilities. So, the next thing I need to do to enjoy playing guitar is either buy a new guitar or somehow fix the one I have.
+* this -> it: cause this is ambiguous
+* has broken -> was broken: cause it might be wrong, talking about if
+* new -> newly
+* has been sometghing wrong -> has an issue
+* is causing: the subject + adverb ... and is ...
+* overlook
+* either
+

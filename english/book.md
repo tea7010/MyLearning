@@ -9,7 +9,7 @@
 ## Distinction
 - part 1: 11
 - part 2: 11
-- part 3: 8
+- part 3: 9
 - part 4: 8
 
 ## Duo3.0

@@ -404,3 +404,7 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 
 * It turned out that my fat ratio was 17.8 percent when I take the test for a checkup. I will eat more health food to grow muscles and reduce fats. 
 * When I took a test during my checkup, it turned out that my body fat percentage was 17.8%. I will eat more healthy food to build muscle and reduce fat.
+
+* I have been under the weather since Sunday. I think I've got something Covid or Flu from my child. Wondering if there is a data or study that the people who have children are more high rate of infection than the people who don't have any children or partner. I think the thoery that people who have children are more suseptable for infection makes sense for me because they share the same air very long hours and close like when sleeping in the same bed.
+* I have been under the weather since Sunday. I think I might have caught something like COVID-19 or the flu from my child. I'm wondering if there is any data or study showing that people with children have a higher rate of infection compared to those who don't have children or a partner. The theory that people with children are more susceptible to infection makes sense to me because they share the same air for long hours and are in close proximity, such as when sleeping in the same bed.
+* I've got -> I might have caught: more clear!!!

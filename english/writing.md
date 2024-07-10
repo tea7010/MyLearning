@@ -414,3 +414,10 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * something -> quite
 * different to -> from
 * The typical ...is -> Usually, involve
+
+* Keeping a studying habit in busy state is hard. I tend to skip my habits when I am busy for work bacause I feel like my brain is occupied with it and fully used to sort out the issue I am having. I think this state makes my field of view narrower and may choose short solving choice rather than the solution that could be a good in the long run. I am curious how it happens from phycological perspective, but anyway, I think doing and keeping your hobbies even in busy situation makes you keep your head cool and lead a correct dicisions.
+* Keeping a studying habit when busy is hard. I tend to skip my habits when I'm occupied with work because I feel like my brain is fully used up trying to sort out the issues I’m facing. I think this state narrows my field of view and makes me choose short-term solutions rather than those that are better in the long run. I'm curious about the psychological perspective behind this, but in any case, I believe that maintaining your hobbies, even in busy situations, helps you stay calm and make better decisions.
+* use up
+* narrow my field of view
+* those that are better in the long run
+* how it happens -> behind this

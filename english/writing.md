@@ -421,3 +421,12 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * narrow my field of view
 * those that are better in the long run
 * how it happens -> behind this
+
+* I am wondering what am I supposed to write. If the topic is too specific for myself and my living, the journal could be very dangerous for me and family because someone might be able to identifying me using the information. I don't mind to be honest disclosing my private as long as it is not too far though. I recommend someone who might watching here that should not take all the thing as gospel as I actually write this diary with some untrue or making up information sometimes. Houwever, the recent chatGPT or kind of generative AI may be able to distinguish my concealment and idenfify some private information even some password or critical and credential information. I need to be careful, but I don't think there is a person who can spend his or her precious time to watch here and put some effort for me. I am just leaving my diary here just to improve my writing skill and sort out my ideas. there is no worth in literatures or reading this.
+* I am wondering what I am supposed to write. If the topic is too specific to my life, the journal could be very dangerous for me and my family because someone might be able to identify me using the information. I don't mind being honest about my private life as long as it’s not too detailed. I recommend that anyone reading this should not take everything I write as gospel since I sometimes include untrue or made-up information. However, recent advancements in AI, like ChatGPT and other generative models, may be able to identify concealed information, even passwords or other critical data. I need to be careful, but I don't think there is anyone who would spend their precious time watching and putting in the effort to do so. I am just leaving my diary here to improve my writing skills and organize my thoughts. There is no literary value or worth in reading this.
+* only reverse verbs and subject when questioning
+* specific to not for
+* anyone because it is not only the someone, but more wider people
+* anyone because the person might not exist
+* organize someone's thoughts
+* literary value

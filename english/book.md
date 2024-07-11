@@ -10,7 +10,7 @@
 - part 1: 11
 - part 2: 11
 - part 3: 10
-- part 4: 9
+- part 4: 10
 
 ## Duo3.0
 - round 23

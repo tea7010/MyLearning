@@ -430,3 +430,9 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * anyone because the person might not exist
 * organize someone's thoughts
 * literary value
+
+* I have been to a Korean BBQ restaurant for the first time in this city. WHen I lived in the previous city, there were lots of Korean restaurants and most of them are very affordable compared to other Izakaya style restaurants and tastes very nice. However, the Korean restraunts here is more like a fancy type of food and costs almost more than double than I eat in the past place. It was good that the taste was very nice and I felt nostalgiic though.
+* I recently visited a Korean BBQ restaurant for the first time in this city. In my previous city, there were many Korean restaurants, most of which were very affordable compared to other Izakaya-style restaurants and tasted great. However, the Korean restaurants here are more upscale and cost almost double what I used to pay. Despite the higher prices, the food tasted excellent, and it made me feel nostalgic.
+* fancy type of ... -> upscale
+* Cost almost double what I used to pay
+* Despite the higher prices: intruduction of the conclusion

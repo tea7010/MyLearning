@@ -436,3 +436,6 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * fancy type of ... -> upscale
 * Cost almost double what I used to pay
 * Despite the higher prices: intruduction of the conclusion
+
+* I saw very nostalgic people today, but I regret I was not able to have enough time to talk to them. I I have a next time to talk to them, I would like to talk the changes around me and hear what they have been doing at work and lives.
+* I saw some very nostalgic friend today, but I regret not having enough time to talk to them. If I get another chance to talk to them, I would like to discuss the changes around me and hear about what they have been doing at work and in their lives.

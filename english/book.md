@@ -7,7 +7,7 @@
 - round 10:
 
 ## Distinction
-- part 1: 11
+- part 1: 11.5
 - part 2: 11
 - part 3: 10
 - part 4: 10

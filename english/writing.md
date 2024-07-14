@@ -439,3 +439,6 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 
 * I saw very nostalgic people today, but I regret I was not able to have enough time to talk to them. I I have a next time to talk to them, I would like to talk the changes around me and hear what they have been doing at work and lives.
 * I saw some very nostalgic friend today, but I regret not having enough time to talk to them. If I get another chance to talk to them, I would like to discuss the changes around me and hear about what they have been doing at work and in their lives.
+
+* I wonder why my friend cannot stick to study and achieve a certain level. I admit I am a bit easy to get bored when I reach improvement in a cetain extent. but it seems there are people who can't be reach at that level and nothing achieved. I think that's the difference between who can have a lot of skills and expriences and not have.
+* I wonder why my friend cannot stick to studying and achieve a certain level. I admit I tend to get bored once I reach a certain extent of improvement, but it seems some people can't even reach that level and achieve nothing. I think that's the difference between those who can acquire many skills and experiences and those who cannot.

@@ -6,9 +6,9 @@
 ## Phrasal verbs
 - round 10:
 
-## Distinction
+## Distinction 1
 - part 1: 12
-- part 2: 11
+- part 2: 12
 - part 3: 10
 - part 4: 10
 

@@ -451,3 +451,11 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 
 * why do people usually say you should be kind to older people? I think they are already out of the way and young people don't have to put lots of efforts to them. Of-course they need to be cared by public walfare, but I wonder what kind of benefits the young people can get from them. I would like to know opinions from the people who don't agree with my opnion that the young people should take care of the elder people.
 * Why do people usually say you should be kind to older people? I think they are already out of the way, and young people shouldn't have to put in a lot of effort for them. Of course, they need to be cared for by public welfare, but I wonder what kind of benefits young people can get from them. I would like to know the opinions of people who don't agree with my view that young people shouldn't have to take care of elderly people.
+
+* I have re-started pumping iron since I got a cold last week. I think I am fully recovered and I did dead-lift today. Dead lifting is one of the most important complex excercise to work out your back and it's also difficult to work our with correct form and movement. I was not so good at do dead lifting actually that I hurt my back before, but now it's one of my favorite excercise cause I can handle the heaviest weight when dead lifting of all other excersices. 
+* I have resumed lifting weights since recovering from a cold last week. I think I am fully recovered and I did deadlifts today. Deadlifting is one of the most important compound exercises for working out your back. However, it’s also challenging to perform with correct form and movement. I wasn't very good at deadlifting initially and even hurt my back before, but now it's one of my favorite exercises because I can handle the heaviest weight with deadlifts compared to other exercises.
+* resume: restart
+* recover from a cold
+* compound
+* challenging to perform with ...
+* initially: at first

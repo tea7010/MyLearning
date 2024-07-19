@@ -459,3 +459,9 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * compound
 * challenging to perform with ...
 * initially: at first
+
+* I don't hesitate to mention to anyone when I feel I need to do it. However, I still need to work on explain and reply the appropriate answer when they ask me some question to clearify my points. I think my initial explanations or questions is enough to tell what I want to ask to do, but describing and summarizing things in detail with common expressions are neccessary skills for me.
+* I don't hesitate to speak up when I feel it's necessary. However, I still need to work on explaining and providing appropriate answers when people ask me questions to clarify my points. I think my initial explanations or questions are enough to convey what I want, but describing and summarizing things in detail with common expressions are essential skills for me to develop.
+* speak up
+* convey what I want
+* work on, develop skill

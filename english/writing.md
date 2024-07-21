@@ -465,3 +465,6 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * speak up
 * convey what I want
 * work on, develop skill
+
+* We have visited a zoo yesterday. It was kind of a complex place of a zoo and an natural asretchinc facilities. There were lots of animals including some iconic ones in this country and we wanted to take photos there. Unfortunately, the photo taking time was already passed when we got to the place, we ended up getting a free voucher for the next time. Our child was not old enough to play in the asretchinc gyms built on trees in the facility, but if you have children around elementary school, the place would gives them so threring and exciting experience playing on the trees. 
+* We visited a zoo yesterday. It was a complex place, combining a zoo with natural aesthetic facilities. There were lots of animals, including some iconic ones from this country, and we wanted to take photos there. Unfortunately, the photo-taking time had already passed when we arrived, so we ended up getting a free voucher for the next visit. Our child wasn't old enough to play in the aesthetic gyms built on trees, but if you have children around elementary school age, the place would give them a thrilling and exciting experience playing in the trees.

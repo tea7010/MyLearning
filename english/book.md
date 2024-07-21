@@ -50,8 +50,9 @@
 1. 1984: 89,000
 1. The Martian: 104,588
 1. Atomic Habits: 80,000
+1. The time mahine: 35,483
 
-Total: 1,639,489
+Total: 1,674,972
 
 
 

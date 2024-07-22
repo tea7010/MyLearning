@@ -1,24 +1,27 @@
 # Practice type books
 
-# Grammer in Use
-* round 4: unit 132
-
-## Phrasal verbs
-- round 10:
-
-## Distinction 1
-- part 1: 12
-- part 2: 12
-- part 3: 10
-- part 4: 10
-
-## Duo3.0
-- round 23
-
 ## Tangomimi Lv1: done
 * Practice: 29
 * ABC: 17
 * JECET: 18
+
+# Grammer in Use
+* round 4: unit 132
+
+## Duo3.0
+- round 23
+
+## Phrasal verbs
+- round 10
+
+## Distinction 1
+- part 1: 12
+- part 2: 12
+- part 3: 11
+- part 4: 10
+
+## Distinction 2
+- part 1: 1
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058

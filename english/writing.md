@@ -486,3 +486,12 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 
 * It was almost a week since I started walking in the morning. I began walking because I wanted to lose fat on my belly and prepare for playing baseball planned in October. I have been gained almost 10kg since last year and I believe half of them are muscles. I watched some youtube videos mentioned walking in the morening before breakfast makes your fat burn efficiently. 
 * It has been a week
+
+* Spark 2 has been rolled out from positive grid few days ago. I didn't have any ideas what it does mean because there are several spark amp models and what model they are talking about. However, it turned out it was about a 40W size amp. It sounded like the biggest change from the previous models is the buit-in looper and drum machine functionalities. Another is having the portability with a special optional battery, which allow to bring your amp to anywhere without static power and play on the street, in a camp site, and so on. I think havbing a built-on drum machine or looper is really useful to practice the guitar alone. I tend to use a looper and rithm machine to practice improvising and small jam, but I need to launch some app and operate the app, and it makes a bit annoying me. Thus, I think the quicker you can start rithms, the more self-motivated and enjoyable you play the guitar. 
+* Spark 2 was rolled out by Positive Grid a few days ago. Initially, I had no idea what this meant because there are several Spark amp models, and I wasn't sure which one they were referring to. However, it turns out they were talking about a 40W amp. The biggest change from the previous models seems to be the built-in looper and drum machine functionalities. Another notable feature is its portability, thanks to an optional special battery, which allows you to take your amp anywhere without needing a power outlet. You can play on the street, at a campsite, and so on. I think having a built-in drum machine or looper is really useful for practicing guitar alone. I tend to use a looper and rhythm machine to practice improvising and small jams, but I need to launch and operate some apps, which can be a bit annoying. Therefore, I believe the quicker you can start rhythms, the more self-motivated and enjoyable your guitar practice becomes.
+* mention -> reffer to
+* seem to be 
+* notable feature
+* without needing
+* launch and operate some apps
+* becomes

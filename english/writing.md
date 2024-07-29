@@ -495,3 +495,7 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * without needing
 * launch and operate some apps
 * becomes
+
+* I am thinking to buy a smart weight scale that can send the records to a common app of the same brand as the smartwatch I am using. The good thing is that I don't have to open a different app to review my weight and weight is strongly relevant to excercise and the smartwatch is able to log your exciercise and it's best place to review your information of exciercising and weight trend.
+* I am considering buying a smart weight scale that can send records to the same app as my smartwatch. The advantage is that I won't need to open a different app to review my weight. Since weight is strongly related to exercise, and the smartwatch can log your exercise, the app is the best place to review your exercise and weight trends.
+* Since

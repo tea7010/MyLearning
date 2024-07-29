@@ -16,12 +16,12 @@
 
 ## Distinction 1
 - part 1: 13
-- part 2: 12
+- part 2: 13
 - part 3: 11
 - part 4: 11
 
 ## Distinction 2
-- part 1: 1
+- part 1: 2.5
 - part 2: 1
 
 # List of books I've read

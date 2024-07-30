@@ -21,7 +21,7 @@
 - part 4: 11
 
 ## Distinction 2
-- part 1: 2.5
+- part 1: 3
 - part 2: 1
 
 # List of books I've read

@@ -499,3 +499,10 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * I am thinking to buy a smart weight scale that can send the records to a common app of the same brand as the smartwatch I am using. The good thing is that I don't have to open a different app to review my weight and weight is strongly relevant to excercise and the smartwatch is able to log your exciercise and it's best place to review your information of exciercising and weight trend.
 * I am considering buying a smart weight scale that can send records to the same app as my smartwatch. The advantage is that I won't need to open a different app to review my weight. Since weight is strongly related to exercise, and the smartwatch can log your exercise, the app is the best place to review your exercise and weight trends.
 * Since
+
+* I am sleepy. I gotta go to bed early, but I have to finish my journaling habit before. I started this maybe a month ago, but I relly like this because writing your ideas or thinking somewhere helps you sort out the issues you have and points you have to work on. It takes a little bit time to get used to writing from nowhere, but I am now feeling good and want to continue this.
+* I’m feeling sleepy and need to go to bed early, but I want to finish my journaling habit first. I started this about a month ago, and I really like it because writing down your ideas or thoughts helps you sort out your issues and identify areas you need to work on. It took a little time to get used to writing from scratch, but now I feel good about it and want to keep it up.
+* from scratch
+* identify areas you need to work on
+* a litttle time
+* keep it up

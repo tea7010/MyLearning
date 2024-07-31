@@ -506,3 +506,9 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * identify areas you need to work on
 * a litttle time
 * keep it up
+
+* I have no idea what to do to imporove my speaking skill in English. I know vocabulary is the all and end of it, and it is important to expose myself touching English countents as much time as possible. As a foreigner living in English speaking country, I already got used to listening and reading contents in English, but I think I have been just numbing or on autopilot without deeply understanding them. People especially adults can easily adopts a new environment using their experiences, but I think children are more suceptible to the change of environment. That is why I think children are more absorbent when it comes to learning a language spoken around them. I believe that writing a journal like this will help imporove my skills in the long run.
+* I have no idea what to do to improve my speaking skills in English. I know vocabulary is crucial, and it's important to expose myself to English content as much as possible. As a foreigner living in an English-speaking country, I’m already accustomed to listening to and reading content in English. However, I feel like I’ve been just going through the motions without deeply understanding them. While adults can adapt to new environments using their experiences, I believe children are more susceptible to changes in their environment. This is why I think children are more absorbent when it comes to learning a language spoken around them. I believe that writing a journal like this will help improve my skills in the long run.
+* crucial
+* expose myself to ...
+* I am accustomed to ...

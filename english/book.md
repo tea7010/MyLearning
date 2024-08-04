@@ -18,11 +18,11 @@
 - part 1: 14
 - part 2: 14
 - part 3: 13
-- part 4: 12
+- part 4: 13
 
 ## Distinction 2
-- part 1: 3
-- part 2: 3
+- part 1: 4
+- part 2: 4
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058
@@ -57,9 +57,4 @@
 1. The time mahine: 35,483
 
 Total: 1,674,972
-
-
-
-
-
 

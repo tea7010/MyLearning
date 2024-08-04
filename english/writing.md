@@ -521,3 +521,18 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * articulate the things
 * continue it
 
+* I am fed up with my friend attitude not to learn anything around him. He basically doens't know knowledges and skills are created by a tiny study habit that is different to the way to study when we were students. You are the only one who needs to find time and how you use the precious time to study. You can't have enoght chunk of time to sit down in the desk, while you have to use up your time like listening audio book while you are washing the dishes. There must be some time you can spare to study, and what you have to do is throwing away smartphones and watching cheap youtube videos, and just start something very easy things but related to study. You will be able to accumulate small effort, but it is going to be a huge pile of skills and experiences for you.
+*  not wanting
+* created -> build
+* consistent study habit
+* differ from
+* for long periods
+* make the most of your time
+* put away
+* pointless
+
+* Listening is more efficient way to remember vocaburary rather than just reading. I think it is because our brain is more sensitive of sound of words genetically due to the long history of human language. Some people argued that people have been speaking since they became a "human" for over millions years ago(maybe I don't know when the first human emerged), but the letters and wrting systems invented quite a recent years(maybe within 3000 years?). So our brain and the part of it related to communication shoudl be designed to listen and make sounds, not for writing and reading. Thus, I believe listening sound and getting exporse yourself into the contents listening is good way to learn vocaburary. 
+* more sensitive to the sounds of words
+* for millions of years
+* quite recently
+* designed more for listening and making sounds than for writing and reading

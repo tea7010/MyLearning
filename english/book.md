@@ -15,8 +15,8 @@
 - round 10
 
 ## Distinction 1
-- part 1: 14
-- part 2: 14
+- part 1: 15
+- part 2: 15
 - part 3: 13
 - part 4: 13
 

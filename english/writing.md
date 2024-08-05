@@ -536,3 +536,12 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * for millions of years
 * quite recently
 * designed more for listening and making sounds than for writing and reading
+
+* This morning, I ended up going to the gym without my smartphone because I forgot to set it on the charger last night. I usually browsing news and watch youtube videos while walking on the treadmil for about 25mins, but I didn't have the tool to enjoy contents this morning. I though I may have bring my laptop to listen to music or radio, but I didn't do that because it obviously looked silly. So I ended up talking myself without making any sound, and it was really good for me to practice speaking. The first several minutes are a bit awkward to speak by myself wondering what to say and to choose correct words, but I found myself can speak comparatebely smooth and fluent. I experienced the same feeling when I had nothing to do in the U.S. and suffered to sleep due to jet lag. So talking myself might be a worth a shot if I feel I am stambling choosing words and expressions.
+* This morning, I ended up going to the gym without my smartphone because I forgot to put it on the charger last night. I usually browse the news and watch YouTube videos while walking on the treadmill for about 25 minutes, but I didn't have anything to enjoy this morning. I thought about bringing my laptop to listen to music or the radio, but I decided against it because it would have looked silly. So, I ended up talking to myself without making any sound, which turned out to be a great way to practice speaking. The first few minutes were a bit awkward as I wondered what to say and tried to choose the right words, but I found myself speaking relatively smoothly and fluently. I experienced a similar feeling when I had nothing to do in the U.S. and struggled to sleep due to jet lag. So, talking to myself might be worth a shot if I find myself stumbling over words and expressions.
+* I thought about bringing my laptop
+* I didn't have anything to enjoy
+* I would have looked silly
+* talking to myself 
+* relatively
+* I find myself stumbling over words and expressions

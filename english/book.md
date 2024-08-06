@@ -17,8 +17,8 @@
 ## Distinction 1
 - part 1: 15
 - part 2: 15
-- part 3: 13
-- part 4: 13
+- part 3: 14
+- part 4: 14
 
 ## Distinction 2
 - part 1: 4

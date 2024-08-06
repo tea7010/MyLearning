@@ -545,3 +545,11 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * talking to myself 
 * relatively
 * I find myself stumbling over words and expressions
+
+* Today I had an internal learning session meeting organizing myself to teach how to use new system to some team members. I felt I could deliver at least some basics of them, though I feel I went a bit off the topic sometimes. It is quite difficult to teach stuff people, but I think the most important thing is enjoying talking to what you want to tell. Without enjoying the presentation, you will not be able to deliver the value and essense efficiently since the lister feel your nerves feelings and take your saying with a grain of salt. You have to enjoy talking when it comes to speaking and presenting in front of people.
+* Today, I had an internal learning session where I organized myself to teach some team members how to use the new system. I felt I could deliver at least the basics, although I did go off-topic a few times. Teaching can be quite challenging, but I believe the most important thing is to enjoy sharing what you want to communicate. If you don't enjoy the presentation, you won't be able to deliver the value and essence effectively, as the listeners will sense your nervousness and may not take your words seriously. Enjoying the act of speaking is crucial when it comes to presenting in front of people.
+* go off-topic a few times
+* challenging
+* share your thought
+* sense your neversness
+* take the word serisously

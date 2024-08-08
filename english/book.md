@@ -17,12 +17,13 @@
 ## Distinction 1
 - part 1: 15
 - part 2: 15
-- part 3: 14
-- part 4: 14
+- part 3: 15
+- part 4: 15
 
 ## Distinction 2
-- part 1: 4
-- part 2: 4
+- part 1: 5
+- part 2: 5
+- part 3: 1
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058

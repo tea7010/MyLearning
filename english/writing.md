@@ -553,3 +553,10 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * share your thought
 * sense your neversness
 * take the word serisously
+
+* I am losing my confidence for work a bit because of my poor time management and productivity. I am easily get interested in anything and it causing off the track sometimes. I have a habit to write down my task list and priority to address, but it is easiliy distructed by ideas popping up on my head. It is a good thing and enjoy that connect a dot and another dot to draw line. I need double or triple time to do all the things I want to do.
+* I'm losing confidence at work due to my poor time management and productivity. I easily get distracted by new interests, which sometimes causes me to lose focus. I have a habit of writing down my task list and priorities, but I often get sidetracked by new ideas that pop into my head. While I enjoy connecting the dots between different ideas, it often takes me double or triple the time to accomplish everything I want to do.
+* get distracted
+* lose focus
+* get sidetracked
+* popu into my head

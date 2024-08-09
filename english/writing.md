@@ -560,3 +560,14 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * lose focus
 * get sidetracked
 * popu into my head
+
+* My colleague said that he has been offered a job from one of our customer, but he said he will turn down it due to the location of the office. I think it is not a suprising thing in this country to offer a job among relationships, but it made me thinking on the future a bit. I would like to keep this kind of job in the long haul and have some experiences, but I need to organize a lot of things in Japan before I really start working this country like pensions, stocks, bank accounts, and visa. I believe I am a bit lack of points when it comes to applying permanent resident visa, so I need some time to get it. Either way, learning english is the first and all of the future of my life. I will work on and hard on it.
+* My colleague mentioned that he was offered a job by one of our clients, but he said he would turn it down due to the office location. I don’t think it’s surprising in this country for job offers to come through personal connections, but it did make me think about the future. I’d like to stay in this type of job for the long term and gain more experience, but I need to take care of a lot of things in Japan before I can fully commit to working here, such as pensions, stocks, bank accounts, and my visa. I believe I might be lacking in some areas when it comes to applying for a permanent resident visa, so I’ll need some time to prepare for that. In any case, learning English is my top priority, and it will shape the future of my life. I’m committed to working hard on it.
+* mention
+* would turn it down
+* come through
+* make me think about
+* gain more experience
+* fully commit to ...
+* in any case,
+* shape the future 

@@ -576,4 +576,13 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * Having good furniture makes life better. I enjoy going to Ikea and looking for opportunities to improve my home. When I was in Japan, I often visited Nitori or Muji, but now Ikea is my go-to place for discovering something new. What's interesting about Ikea is that they introduce new furniture every season, much like fashion brands do with clothes. Some people, including myself, look forward to seeing the latest items and considering whether a new piece of furniture would fit well in our homes. I enjoy this process of deliberation, even though I know it triggers a dopamine response in the brain, which is associated with the excitement of buying something
 
 * I noticed that my speaking skill become rusty during weekends as I don't speak so much. I felt I need to work on practicing speaking sometimes not only writing journal here. Because the ability and agility to make sentense in real speed is qutie different to the speed when writing and typing on computer. 
-* I noticed that my speaking skills become rusty over the weekends since I don't speak much. I realize I need to practice speaking more, not just writing in my journal here. The ability and agility to form sentences in real-time is quite different from the pace of writing or typing on a computer."
+* I noticed that my speaking skills become rusty over the weekends since I don't speak much. I realize I need to practice speaking more, not just writing in my journal here. The ability and agility to form sentences in real-time is quite different from the pace of writing or typing on a computer.
+
+* It is raining today and that reminds me the rainy season in Japan, which actually I dislike ti he most in the season. Speaking of raining, my unbrella is not large enough to cover my body and backpack. When I use the umbrealla, my backpack is always wet since it can't be covered by the umbrealla. I wanna get a large one, but it doesn't rain a lot in this counry, so I always drop the memory to buy it even I went to shopping mall or somewhere I can buy. actually it is fine for me because I don't have to spend to the iteams that I don't use so much.
+* t's raining today, and that reminds me of the rainy season in Japan, which I actually dislike the most. Speaking of rain, my umbrella isn't large enough to cover both my body and backpack. Whenever I use it, my backpack always gets wet since it can't be fully covered. I want to get a larger one, but it doesn't rain much in this country, so I always forget to buy it even when I'm at the mall or somewhere I could pick one up. Honestly, it's fine because I don't need to spend money on something I rarely use.
+* remind me of ...
+* get wet
+* fully covered
+* Honestly
+* spend on
+* something I rarely use

@@ -595,3 +595,13 @@ Another difference between the US and JIS layouts is the size of the Enter key. 
 * A Diet Video: How to Get Six-Pack Abs
 He pointed out three key points. First, follow a low-fat diet, which means avoiding high-fat foods. The reason for reducing fat is that it’s high in calories. Instead, you should eat plenty of carbohydrates, proteins, and some vegetables. Second, lift weights three times a week. Exercises involving large muscles, like the thighs and chest, burn a lot of energy. Lastly, take vitamins and minerals, as they are crucial for cell regeneration and help your muscles recover effectively.
 On the other hand, there are three things you should avoid. Running, because it could lead to muscle loss. Avoid eating carbohydrates at dinner—it’s risky to reduce your carb intake too much. Lastly, don't be too strict about "forbidden" foods, as this can lead to stress. One mistake won’t ruin everything. Remember, dieting is a long-term commitment, so don’t back yourself into a corner.
+
+* PRS SE DGT is my next want-to gear. I am obsessed to the guitar by its versatality for playing various genre of music. I play blues, rock, jazz, etc. depends on my interest at the moment. It sounds like the split-coil sound of the DGT pickup is nailed and the ham sound is puf-like vintage taste. I think this would be a go-to guitar when practicing any kind of music genre. My only concern when it comes to buy a guitar especially PRS is how flame maple is good. It is completely a lack of draw. let's see whether I can encounter a good one.
+* The PRS SE DGT is the next piece of gear I have my eye on. I'm captivated by its versatility, as it can handle various genres like blues, rock, and jazz, depending on what I'm into at the moment. The split-coil sound of the DGT pickups is said to be spot-on, and the humbucker has a vintage, "puffy" tone that I really like. I think this guitar could easily become my go-to for practicing any style of music. My only concern when buying a PRS guitar is the quality of the flame maple top—it's a hit-or-miss factor for me. I'll just have to wait and see if I come across a good one.
+* want-to: my eye on
+* stole my heart: captivated
+* my interest: I am into 
+* good or exactly: spot-on
+* could easily become my go-to
+* lack of draw: hit-or-miss factor
+* encounter: come across

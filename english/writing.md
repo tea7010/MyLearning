@@ -605,3 +605,9 @@ On the other hand, there are three things you should avoid. Running, because it 
 * could easily become my go-to
 * lack of draw: hit-or-miss factor
 * encounter: come across
+
+* when I bought a new gutiar, I am like I will live with this guitar forever, but actually after several months I always want to get another gutiar. I can't help this reccuring labirinth until I get all kinds of guitar.
+* When I buy a new guitar, I always feel like it's the one I'll keep forever. But after a few months, I find myself wanting another one. I can't seem to escape this recurring cycle until I've experienced all kinds of guitars.
+* I find myhself 
+* I can't seem to escape
+* recurring cycle

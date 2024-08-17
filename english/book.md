@@ -21,7 +21,7 @@
 - part 4: 16
 
 ## Distinction 2
-- part 1: 6
+- part 1: 7
 - part 2: 6
 - part 3: 6
 - part 4: 6

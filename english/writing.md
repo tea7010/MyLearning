@@ -611,3 +611,10 @@ On the other hand, there are three things you should avoid. Running, because it 
 * I find myhself 
 * I can't seem to escape
 * recurring cycle
+
+* I am a bit getting bnred to write my journal everyday because I usually get tired when I can face to laptop and think about what to write. I reckon this habit is definitely a good to imporove my writing skill and sort out my thoughts, but keeping up without any boring feeling might be a little difficult. I need to change it up somehow, like writing about something different to the one usually I write.
+* I'm starting to feel a bit bored writing my journal every day because I usually get tired when I sit in front of my laptop and try to think of what to write. I know this habit is definitely good for improving my writing skills and organizing my thoughts, but keeping it up without feeling bored is becoming a bit challenging. I need to change things up somehow, like writing about something different from what I usually write.
+* start to feel a bit bored
+* sit in front of desk
+* keeping it up
+* change things up

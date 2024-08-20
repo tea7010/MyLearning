@@ -22,7 +22,7 @@
 
 ## Distinction 2
 - part 1: 8
-- part 2: 7
+- part 2: 8
 - part 3: 7
 - part 4: 7
 

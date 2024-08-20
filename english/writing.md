@@ -621,4 +621,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I quit smoking before when I came to this country because the price or tax for tabaco has been insanly pricy. There were no resons to keep smoking in terms of expense, phisical and mental health. After quiting it, I realized that my behaviour and priority to go was almost occupied and controlled by the smoking and nicotine cravings. I never and ever smoke again.
 * I quit smoking when I came to this country because the price and taxes on tobacco are insanely high. There were no good reasons to keep smoking, considering the cost, as well as its impact on my physical and mental health. After quitting, I realized how much my behavior and priorities were controlled by my smoking habits and nicotine cravings. I'll never smoke again.
-* 
+
+* What I really need is sleeping rather than studying, playing the guitar, and watching stupid youtube videos. I will go to bed early today.
+* What I really need is sleep, more than studying, playing guitar, or watching pointless YouTube videos. I’m going to bed early tonight.

@@ -624,3 +624,11 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * What I really need is sleeping rather than studying, playing the guitar, and watching stupid youtube videos. I will go to bed early today.
 * What I really need is sleep, more than studying, playing guitar, or watching pointless YouTube videos. I’m going to bed early tonight.
+
+* Recently, I become a bit fluent speaking English, but I think I am speaking gebbrish sometimes. I am not sure what other people reckon what I am saying, but I realize that speaking gebbrish is better than being silent and not conveying any thing. I think this is part of process to acquire fluency and have meanigful conversations, so I want other people to cut me off some slacks for a while.
+* Recently, I've become a bit more fluent in speaking English, but sometimes I feel like I'm speaking gibberish. I'm not sure how others perceive what I'm saying, but I realize that speaking gibberish is better than staying silent and not conveying anything. I believe this is part of the process of becoming fluent and having meaningful conversations, so I hope others can cut me some slack for a while.
+* I've become
+* fluent in ...ing
+* reckon -> perceive
+* become fluent
+* cume me some slack for a while

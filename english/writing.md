@@ -632,3 +632,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 * reckon -> perceive
 * become fluent
 * cume me some slack for a while
+
+* I think we need to keep away a bit for a while. This is because simply I don't like to stay and talk with him. It is hard time for me to listen what he talks because we cannot have any constructive discussions due to the way he speaks.
+* I think we need to keep some distance for a while. Simply put, I don't enjoy spending time or talking with him. It's difficult for me to listen to what he says because we can't have constructive discussions due to the way he communicates.

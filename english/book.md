@@ -23,8 +23,8 @@
 ## Distinction 2
 - part 1: 8
 - part 2: 8
-- part 3: 7
-- part 4: 7
+- part 3: 8
+- part 4: 8
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058

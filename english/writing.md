@@ -635,3 +635,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I think we need to keep away a bit for a while. This is because simply I don't like to stay and talk with him. It is hard time for me to listen what he talks because we cannot have any constructive discussions due to the way he speaks.
 * I think we need to keep some distance for a while. Simply put, I don't enjoy spending time or talking with him. It's difficult for me to listen to what he says because we can't have constructive discussions due to the way he communicates.
+
+* Probably, I went through ordial today. It becomes so stressful entire day when you have had an argument with family in the morning. I am simply not cut out for being a person having family because I am so busy to keep myself improving my hobbies and work. My priority is always myself, not to anyone else.
+* I probably went through an ordeal today. The entire day becomes stressful when you start with an argument with family in the morning. I’m simply not cut out to be someone who has a family because I’m too focused on improving myself through my hobbies and work. My priority is always myself, not anyone else.

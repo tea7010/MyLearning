@@ -21,10 +21,10 @@
 - part 4: 16
 
 ## Distinction 2
-- part 1: 8
-- part 2: 8
-- part 3: 8
-- part 4: 8
+- part 1: 10
+- part 2: 10
+- part 3: 9
+- part 4: 9
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058
@@ -57,6 +57,6 @@
 1. The Martian: 104,588
 1. Atomic Habits: 80,000
 1. The time mahine: 35,483
+1. Darren Shan, Cirque Du Freak: 50,174
 
-Total: 1,674,972
-
+Total: 1,725,146

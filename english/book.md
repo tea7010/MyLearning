@@ -23,7 +23,7 @@
 ## Distinction 2
 - part 1: 10
 - part 2: 10
-- part 3: 9
+- part 3: 10
 - part 4: 9
 
 # List of books I've read

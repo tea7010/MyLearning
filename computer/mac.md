@@ -88,3 +88,29 @@ https://brew.sh/index_ja
 
 ### フォルダ内のWMAをmp3に一括変換
 `for file in *.wma; do ffmpeg -i "${file}"  -acodec libmp3lame -ab 192k "${file/.wma/.mp3}"; done`
+
+## FFMPEG
+
+### wav -> mp3変換
+```
+for file in *.wav; do
+    ffmpeg -i "$file" "${file%.wav}.mp3"
+done
+```
+
+### Distinction Audio file
+```
+-- ダンプするときに引っかかる文字を置換
+for file in *.mp3; do 
+    newname=$(echo "$file" | sed "s/ /_/g; s/'//g")
+    mv "$file" "$newname"
+done
+
+-- filelistの作成
+for file in *.mp3; do echo "file '$file'" >> filelist.txt; done
+
+
+-- mp3ファイルの結合
+ffmpeg -f concat -safe 0 -i filelist.txt -c copy ../DistinctionX-X.mp3
+
+```

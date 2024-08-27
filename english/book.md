@@ -24,7 +24,7 @@
 - part 1: 10
 - part 2: 10
 - part 3: 10
-- part 4: 9
+- part 4: 10
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058

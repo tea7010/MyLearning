@@ -26,6 +26,10 @@
 - part 3: 10
 - part 4: 10
 
+## Diatinction 3
+- part 1: 1
+- part 2: 1
+
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058
 1. Alice's Adventures in Wonderland: 26,432

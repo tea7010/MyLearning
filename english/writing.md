@@ -666,3 +666,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 * need to be mindful
 * distract me ...
 * rather than one for ...
+
+* I think I can learn many frequentlu used vocaburary and phrases efficiently by reading vocaburary books. But how can I keep acquiring new vocaburary after learning all words and phrases through the books? I think this is something to do with immersion lerning or comprehensive reading that I encounter on youtube videos. Those are basically to get yourself expose into cognitive space that you can image or understand things, and you will be able to acquire vocaburary through the contexst. It makes sense for me that guessing unknown words through context is the natural way to learn vocaburary, and that is the way kids acquire language. 
+* similar to how children acquire language.

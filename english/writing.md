@@ -669,3 +669,11 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I think I can learn many frequentlu used vocaburary and phrases efficiently by reading vocaburary books. But how can I keep acquiring new vocaburary after learning all words and phrases through the books? I think this is something to do with immersion lerning or comprehensive reading that I encounter on youtube videos. Those are basically to get yourself expose into cognitive space that you can image or understand things, and you will be able to acquire vocaburary through the contexst. It makes sense for me that guessing unknown words through context is the natural way to learn vocaburary, and that is the way kids acquire language. 
 * similar to how children acquire language.
+
+* Probably I am getting tired and burning out. I need some rest but it is life becoming busy when you are really hard time. If the hardle you have to overcome is proper hight and help you develop your skills, the ordial is going to be experiences. Even if you can't pull it off, it is going to be a good learning for you. Either way, I think putting the hard yard as long as you are not burning out is worth a shot in your life and developing skills in the long run.
+* I'm probably getting tired and starting to burn out. I need some rest, but life tends to get busier when you're going through a tough time. If the hurdles you have to overcome are at the right height and help you develop your skills, the ordeal will turn into valuable experience. Even if you don't succeed, it will still be a good learning opportunity. Either way, I think putting in the hard work, as long as you're not burning out, is worth it for your personal growth and skill development in the long run.
+* getting tired
+* tends to get busier when you are going through a tough time
+* hardle is at the right height
+* turn into baluable experience
+* don't succeed

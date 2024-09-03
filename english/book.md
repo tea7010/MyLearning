@@ -27,8 +27,8 @@
 - part 4: 10
 
 ## Diatinction 3
-- part 1: 2
-- part 2: 2
+- part 1: 3
+- part 2: 3
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058

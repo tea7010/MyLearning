@@ -677,3 +677,10 @@ On the other hand, there are three things you should avoid. Running, because it 
 * hardle is at the right height
 * turn into baluable experience
 * don't succeed
+
+* It seems to be good for me to think and write down some memo while I walk on a tread mil machine in the gym in the morning. Every now and then, I need to organize my thoughts and doing it while walking is best way I have ever tried in my life. I can drill down my concerns and ideas while keep my fit, which is like killing two birds with one stone. Still, my presentation and speaking skills especially in English is the thing I need to brush up more. I beliebe Writing journal is a good way to imporove it, but I feel I need write down and get to used to diving deep in my mind. Launguage skill is a part of skill to speak fluently in front of people, but not all. You also need to undderstand your feelings and impressions to express your ideas, which are supposed to be the most valueable and interesting things to hear to other pople.
+* Writing down my thoughts while walking on the treadmill in the morning is a great habit for me
+* enhance
+* diving deeper into my thoughts
+* emotions
+* as these are often the most valuable and interesting things for others to hear

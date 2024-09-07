@@ -15,19 +15,19 @@
 - round 10
 
 ## Distinction 1
-- part 1: 18
-- part 2: 18
-- part 3: 18
-- part 4: 18
+- part 1: 19
+- part 2: 19
+- part 3: 19
+- part 4: 19
 
 ## Distinction 2
-- part 1: 10
-- part 2: 10
-- part 3: 10
-- part 4: 10
+- part 1: 11
+- part 2: 11
+- part 3: 11
+- part 4: 11
 
 ## Diatinction 3
-- part 1: 3
+- part 1: 4
 - part 2: 3
 
 # List of books I've read

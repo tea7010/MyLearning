@@ -704,3 +704,15 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I was stopping drinking for a while for dieting. I realized that how alcohol distruct your concentration and sleep, and increase apetite by comparing the day when I drink and the day I don't. Probably, it is advisable to drink only Friday or Saturday because you can sleep more on Saturday and you don't have to wake up early in the morning.
 * I stopped drinking for a while as part of my diet. I realized how alcohol disrupts concentration and sleep, and increases appetite by comparing the days when I drink with the days I don't. It's probably best to drink only on Fridays or Saturdays, since you can sleep in on Saturday and don’t need to wake up early.
+
+* I see many people says it is heart and soul to acquire new vocaburary through contexts when it comes to learning a language. I think it is correct, but the problem is how you find books or contents that are well balanced in proper level of your language skill and your interests. When I started reading books written in English, I could easiliy find easy reading books, but most of them are too childish and bored to read them. On the other hand, I started reading Harry potter series books, I felt they are quite interesting to read, but my english level wasn't enough to understand the contents without dictionary. In the end, seeking an interesting content is never ending journy and you must be doing it even in your mother tongue. 
+* I often hear that acquiring new vocabulary through context is the heart and soul of language learning. I agree with this, but the challenge lies in finding books or content that strike the right balance between matching your language level and keeping your interest. When I first started reading English books, it was easy to find simpler material, but most of it felt too childish and boring. On the other hand, when I began reading the Harry Potter series, I found it fascinating, but my English skills weren’t strong enough to fully understand the content without constantly referring to a dictionary. In the end, finding engaging content is a never-ending journey, even in your native language.
+* acquiring vocabulary through context
+* I agbree with this
+* the challenge lies in ...
+* strike the right balance between matching A and B
+* first started
+* began reaidng
+* fascinating
+* constantly reffering to a dictionary
+* engaging content

@@ -716,3 +716,10 @@ On the other hand, there are three things you should avoid. Running, because it 
 * fascinating
 * constantly reffering to a dictionary
 * engaging content
+
+* Since I started journaling, I am now able to construct sentences a bit freely compared to before, but I don't feel the same fluentcy as I speak and think in my mother tongue. To improve more, what should I practice or do? I am seeking by watching some youtube videos, but I haven't met a decisive way yet. Still, I think journaling and reading books are fundamental training or habits when it comes to acquiring fluencty. Thus, I will maintain those habits but explore ways to get different feelings or excitements to improve my english more sophisticated and sounds interesting.
+* “Since I started journaling, I’ve been able to construct sentences a bit more freely compared to before, but I still don’t feel the same fluency as when I speak and think in my mother tongue. To improve further, what should I practice or focus on? I’ve been watching some YouTube videos, but I haven’t found a definitive approach yet. Still, I believe that journaling and reading books are fundamental habits for acquiring fluency. So, I’ll continue with those, while also exploring new ways to bring different feelings or excitement to make my English sound more sophisticated and interesting.”
+* definitive approach
+* improve further
+* continue with them
+* new ways to bring different feelings or tastes

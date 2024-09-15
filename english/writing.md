@@ -723,3 +723,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 * improve further
 * continue with them
 * new ways to bring different feelings or tastes
+
+* We had a friend coming from Japan for the first time since we came here. We didn't know what to do for a visiter, but we wanted to do our best to welcome a person who spent time and money to meet us. We are simply happy to meet acquiretances in remote area and share information what is going on in Japan and the difference between two countries. I should have talked more to chat. I will try next time and want to make his visit impressive and enjoy.
+* We had a friend visit from Japan for the first time since we moved here. We weren’t sure what to do for a visitor, but we wanted to do our best to welcome someone who had spent time and money to come see us. We were simply happy to meet an acquaintance in such a distant place, share news about what’s happening in Japan, and discuss the differences between the two countries. I should have talked more during the visit. I’ll make an effort next time to make their visit more memorable and enjoyable.

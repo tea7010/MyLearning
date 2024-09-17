@@ -726,3 +726,11 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * We had a friend coming from Japan for the first time since we came here. We didn't know what to do for a visiter, but we wanted to do our best to welcome a person who spent time and money to meet us. We are simply happy to meet acquiretances in remote area and share information what is going on in Japan and the difference between two countries. I should have talked more to chat. I will try next time and want to make his visit impressive and enjoy.
 * We had a friend visit from Japan for the first time since we moved here. We weren’t sure what to do for a visitor, but we wanted to do our best to welcome someone who had spent time and money to come see us. We were simply happy to meet an acquaintance in such a distant place, share news about what’s happening in Japan, and discuss the differences between the two countries. I should have talked more during the visit. I’ll make an effort next time to make their visit more memorable and enjoyable.
+
+* I realized that drinking is not so effective for reliving stress. Some people say that they can forget about concers and feel like revelated by drinking, but I think it make your sleep level lower and even cause more stress in the long run. Also, by looking at the sleep level score that my garmine watch measure, the score when I drunk the last night is tend to lower than that of when I didn't. I recently avoid buying beer or wine bottles unneccesarry, and I feel really better than before.
+* I realized that drinking is not very effective for relieving stress. Some people say they can forget their worries and feel relaxed after drinking, but I think it actually lowers the quality of sleep and causes more stress in the long run. Based on the sleep score measured by my Garmin watch, I’ve noticed that my sleep score after drinking tends to be lower than when I don’t drink. Recently, I’ve been avoiding unnecessary purchases of beer or wine, and I feel much better than before.
+* worries
+* feel realxed
+* lower
+* purchases of beer or wine
+* feel much better than before

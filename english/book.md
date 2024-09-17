@@ -63,5 +63,6 @@
 1. Atomic Habits: 80,000
 1. The time mahine: 35,483
 1. Darren Shan, Cirque Du Freak: 50,174
+1. Darreb Shan, The vampier's assistant: 61,750
 
-Total: 1,725,146
+Total: 1,786,896

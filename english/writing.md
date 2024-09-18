@@ -734,3 +734,12 @@ On the other hand, there are three things you should avoid. Running, because it 
 * lower
 * purchases of beer or wine
 * feel much better than before
+
+* It is important to try to describe complex objects or abstruct things even if you fail to convey your messages. Challenging is the first step and only regret left if you don't try. Of-course there are some extreme situations that you should not challenge like time-sensitive situation or easy-to-fire-up client, but by and large, I think you should try most of situations. Thus, I will keep trying to describe things off the top of my head.
+* It’s important to try describing complex or abstract ideas, even if you fail to convey your message. Taking on the challenge is the first step, and the only regret comes from not trying. Of course, there are extreme situations, like time-sensitive matters or easily agitated clients, where it’s best not to take risks, but in most cases, I believe you should make the effort. Therefore, I will keep trying to describe things as they come to mind.
+* take on the challenge
+* regret comes from not trying
+* agitated
+* it's best not to ...
+* most cases
+* make the effort

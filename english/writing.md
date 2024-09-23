@@ -754,3 +754,10 @@ On the other hand, there are three things you should avoid. Running, because it 
 * Until I moved here, I didn’t realize that “Karubi” is a Japanese or Korean term and not an English word for a cut of meat. In English-speaking countries, Karubi is sold as short ribs. It’s also not sliced thinly like it is in Japan or Korea, probably because it’s prepared for Texas BBQ style. I haven’t seen Harami here either. Perhaps “flap meat” or something similar is equivalent to Harami. I wonder where I can find that cut.
 * cut of meat
 * thinly
+
+* I don't seem to be able to diet since I cannot stand eating less especially dinner time. I know making your body carories deficite is the fundamental to lose fat. I have been walking for thirty minuteis in the morning, and I lose 3kg, but I cannot get over the next 2kg for a while. I think I have reached some tipping point or satulated point that just excersicing can't move forward anymore. Probably, if I walk more, I will lose a bit, but I think it is about time to start thinking of food I take everyday.
+* I’ve been struggling to stick to a diet because I find it hard to eat less, especially at dinner. I know creating a calorie deficit is key to losing fat. I’ve been walking for 30 minutes every morning and have lost 3kg, but I’ve been stuck for a while trying to lose the next 2kg. I think I’ve hit a tipping point or plateau where exercise alone isn’t enough anymore. If I walk more, I might lose a bit, but I feel like it’s time to start focusing on my daily food intake.
+* struggling to stick to
+* I find it hard 
+* plataue
+* exercise alone is not enough

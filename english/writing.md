@@ -761,3 +761,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 * I find it hard 
 * plataue
 * exercise alone is not enough
+
+* I used statistical modeling method in practical analysis for the first time. It was a wating time data and the data should be able to fit with exponential distoribution typically. I had no idea how and when those kinds of distoribution are used in real analysis, but there were up front of my nose. What I did with the model was simply what-if analysis that assuming distribution shape chages are happened in certen situation. Still, I need a crystal ball to forsee the future, but at least I got some interesting results that could make sense for the business dicisions.
+* I used a statistical modeling method in a practical analysis for the first time. The dataset involved waiting times, which are typically expected to fit an exponential distribution. I wasn’t familiar with how or when these types of distributions are applied in real-world analysis, but they were right in front of me. What I did with the model was a simple what-if analysis, assuming that changes in the distribution shape occur under certain conditions. I still need a crystal ball to foresee the future, but at least I got some interesting results that could inform business decisions.

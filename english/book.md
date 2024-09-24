@@ -27,7 +27,7 @@
 - part 4: 14
 
 ## Diatinction 3
-- part 1: 6
+- part 1: 7
 - part 2: 6
 - part 3: 2
 - part 4: 2

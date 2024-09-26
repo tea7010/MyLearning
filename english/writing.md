@@ -770,3 +770,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 * I find myself browsing unnecessary web pages
 * leads nowhere
 * how much time I'm spending on them
+
+* I feel gaps of the speed and quality of work between what I am thinking to be suppose to be and what I really can do. In my image, it is clear what I need to do, but it actually takes much more time to do it than I thought. I wish I had more time, but at the same time I need to rest and want to spend time with my family more. I am between rock and hard. What am I suppose to do to jaggle work and home at the same time?
+* I feel a gap between the speed and quality of work I expect from myself and what I can actually achieve. In my mind, I have a clear image of what needs to be done, but it always takes much longer than I anticipated. I wish I had more time, but I also need rest and want to spend more time with my family. I’m stuck between a rock and a hard place. How am I supposed to juggle both work and home life at the same time?

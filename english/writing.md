@@ -784,3 +784,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Even though I listen a lot of podcasts and youtube videos, I don't feel like my vocaburary has been increased drastically. I believe the change will be gradual and unnotisable not like when you were a bigginer. What I need is patince to stick to this strategy and expose myself as long as possible. That's my beliefe.
 * Even though I listen to a lot of podcasts and YouTube videos, I don’t feel like my vocabulary has increased drastically. I believe the change will be gradual and less noticeable, unlike when I was a beginner. What I need is patience to stick to this strategy and expose myself to the language as much as possible. That’s my belief.
+
+* Listening to a car reviewing podcast is one of my favorite time recently. I have leased a car, but I want to get my own car if all things are settled in here. I am not sure everything will work well, still it will be what it will be. 
+* Listening to car review podcasts has become one of my favorite pastimes recently. I’ve leased a car, but I want to get my own once everything is settled here. I’m not sure how things will work out, but it will be what it will be.

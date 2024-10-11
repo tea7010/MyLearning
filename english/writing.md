@@ -805,3 +805,8 @@ On the other hand, there are three things you should avoid. Running, because it 
 * make most of time
 * overthink and wording
 * commit to
+
+* I bought a new pair of shoes for daily casual use. The last ones I used were kind of flagship model of adidas, and it did great job for daily commuting, gym training, walking, baseball, and so on. The only reason I bought new ones is simply it worning out. The right shoe outer has been torn and my 4th toe finger coming out from the shoe. I know highend shoes are expensive, but they are really comfy when you select shoes by not brand name, but quality and fuctionality. This shoes might be most expensive shoes I have ever bought for sneeker, but I use them literally everyday for gym walking, so I didn't want to compromise the queality and don't regret buying it. 
+* I bought a new pair of shoes for everyday casual use. My previous pair was a flagship model from Adidas, and they served me well for daily commuting, gym workouts, walking, baseball, and more. The only reason I replaced them was because they were simply worn out. The outer side of the right shoe had torn, and my fourth toe was starting to poke through. I know high-end shoes can be expensive, but they’re worth it if you focus on quality and functionality rather than just the brand name. These are probably the most expensive sneakers I’ve ever bought, but since I use them daily for the gym and walking, I didn’t want to compromise on quality, and I have no regrets about the purchase.
+* purchase
+* poke out, poke through

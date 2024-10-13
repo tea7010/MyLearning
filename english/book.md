@@ -30,7 +30,7 @@
 - part 1: 8
 - part 2: 8
 - part 3: 4
-- part 4: 3
+- part 4: 3.5
 
 # List of books I've read
 1. The Tale of Peter Rabbit: 4,058
@@ -65,5 +65,6 @@
 1. The time mahine: 35,483
 1. Darren Shan, Cirque Du Freak: 50,174
 1. Darreb Shan, The vampier's assistant: 61,750
+1. Simple Marketing For Smart People: (?) 50,000
 
-Total: 1,786,896
+Total: 1,836,896

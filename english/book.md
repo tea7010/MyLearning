@@ -29,7 +29,7 @@
 ## Diatinction 3
 - part 1: 8
 - part 2: 8
-- part 3: 4
+- part 3: 5
 - part 4: 4
 
 # List of books I've read

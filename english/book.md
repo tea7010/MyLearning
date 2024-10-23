@@ -66,5 +66,6 @@
 1. Darren Shan, Cirque Du Freak: 50,174
 1. Darreb Shan, The vampier's assistant: 61,750
 1. Simple Marketing For Smart People: (?) 50,000
+1. Darreb Shan, Tunnels of blood: 38,955
 
-Total: 1,836,896
+Total: 1,875,851

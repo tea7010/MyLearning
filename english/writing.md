@@ -851,3 +851,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * The taks I am currently working on might be the most enjoyable task for me. I am so excited to create valuable insights from it that I didn't notice I was overtime.
 * The task I’m currently working on might be the most enjoyable one I’ve had. I’m so excited to create valuable insights from it that I didn’t even notice I was working overtime
+
+* Wine is a my favorite alcohol drink, but I don't like the headache and hangover after drink it. Especially I love drinking red wine while I eat thick meat like steak. I used to buy box wine as daily go-to drinking, but recentlly I don't drink so much because I started dieting. Drinking make you more appatite and in result you end up eating more than enough.
+* Wine is my favorite alcoholic drink, but I don’t like the headache and hangover that come after drinking it. I especially love drinking red wine with hearty meat dishes like steak. I used to buy boxed wine as my go-to daily drink, but recently I’ve cut back because I started dieting. Drinking tends to increase your appetite, and as a result, you often end up eating more than you need.

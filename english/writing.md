@@ -869,3 +869,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * It has been a while I started jounaling, but I still struggle summonrn english expressions quickly in a daily conversatin. I know I need to practice and practice, but I wonder if there is an effective and quick way to imporove the fluency and flow of my english.
 * It’s been a while since I started journaling, but I still struggle to quickly summon English expressions in daily conversation. I know I need to keep practicing, but I wonder if there’s an effective and quick way to improve my fluency and flow in English.
+
+* I realized that Walking at night is pleasant especially when I have been drunken. Lots of things you don't know much could be seen when you walk without any purpose. Also, it should help reduce a bit of calories I took when I drink, which makes me reduce a bit of guilty when I eat too much.
+* I’ve realized that walking at night is especially pleasant when I’ve had a few drinks. When you walk without a specific purpose, you notice things you might usually overlook. Plus, it helps burn a few of the extra calories from drinking, which eases some of the guilt when I overindulge.

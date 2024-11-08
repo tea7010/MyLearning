@@ -872,3 +872,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I realized that Walking at night is pleasant especially when I have been drunken. Lots of things you don't know much could be seen when you walk without any purpose. Also, it should help reduce a bit of calories I took when I drink, which makes me reduce a bit of guilty when I eat too much.
 * I’ve realized that walking at night is especially pleasant when I’ve had a few drinks. When you walk without a specific purpose, you notice things you might usually overlook. Plus, it helps burn a few of the extra calories from drinking, which eases some of the guilt when I overindulge.
+
+* I am still underestimate the work time of me. Tasks I imagine easy to do takes almost double as I thought, which makes me drive me nuts due to the gap of the fact.
+* I still tend to underestimate the time my work will take. Tasks I expect to be easy often take almost twice as long as I’d imagined, which drives me nuts because of the gap between my expectations and reality.”

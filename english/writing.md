@@ -881,3 +881,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I did fishing since for a while. I coudn't catch any fish, but it was so pleasant to hang around river banks in the morning. 
 * I went fishing for the first time in a while. I didn’t catch anything, but it was so pleasant to spend the morning by the riverbanks.
+
+* I am stressed out now because there are too many things to do while I don't have enough time and skill to juggle them productively. I think I am not cut out for a multi-tasking and I would rather focus on digging deep a specific thing. maybe becoming a resercher might be a job I am cut out for.
+* “I’m feeling stressed because there’s so much to do, and I don’t have enough time or skill to juggle it all productively. I don’t think I’m cut out for multitasking—I’d rather focus deeply on one specific thing. Maybe becoming a researcher would be a job I’m better suited for.”

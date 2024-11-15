@@ -890,3 +890,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Putting hard yard is not always good strategy to keep your productivity even in the short term. I need sleep to keep productive. 120% only a day, but 60% the other day would be 70% in total. However, if you can keep 80% efficiency everyday, that would be better.
 * Putting in maximum effort isn’t always the best strategy for maintaining productivity, even in the short term. I need enough sleep to stay productive. Giving 120% one day but only 60% the next averages out to about 70%. But if you can maintain 80% efficiency consistently every day, that’s actually more effective.
+
+* I like crunchy pears, but the box of pear I bought today might be a bit softer. That's a shame. Is there any way to tell pears are crunchy or soft?
+* I love crunchy pears, but the box of pears I bought today seems to be a bit softer than I prefer. What a shame. Is there any way to tell if pears are crunchy or soft before buying them?

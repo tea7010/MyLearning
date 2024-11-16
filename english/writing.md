@@ -893,3 +893,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I like crunchy pears, but the box of pear I bought today might be a bit softer. That's a shame. Is there any way to tell pears are crunchy or soft?
 * I love crunchy pears, but the box of pears I bought today seems to be a bit softer than I prefer. What a shame. Is there any way to tell if pears are crunchy or soft before buying them?
+
+* I drove towards country side today. It was so pleasant to drive vast wide field in this country.
+* I drove out to the countryside today. It was so pleasant to drive through the vast, wide fields in this country.

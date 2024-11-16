@@ -67,5 +67,6 @@
 1. Darreb Shan, The vampier's assistant: 61,750
 1. Simple Marketing For Smart People: (?) 50,000
 1. Darreb Shan, Tunnels of blood: 38,955
+1. Darren Shan, Vampires Mountain: 35,834
 
-Total: 1,875,851
+Total: 1,911,685

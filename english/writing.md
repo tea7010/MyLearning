@@ -896,3 +896,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I drove towards country side today. It was so pleasant to drive vast wide field in this country.
 * I drove out to the countryside today. It was so pleasant to drive through the vast, wide fields in this country.
+
+* I reckon that the ability to express your ideas and opnions is the thing I need to work on most. Learning vocaburary and grammer are of course crucial, however, once you reached a platou where you don't make linear or steep progress like when you are a bigginer, you need to switch on focusing on using your language to express yourself. Knowing the gap between your mother tongue and the language you want to learn should be the measure you need to keep track on.
+* I reckon that the ability to express my ideas and opinions is the area I need to work on the most. Learning vocabulary and grammar is, of course, crucial. However, once you reach a plateau where progress is no longer linear or steep, as it often is for beginners, it becomes essential to focus on using the language to express yourself. Understanding the gap between your mother tongue and the language you’re learning can serve as a key measure to track your progress.

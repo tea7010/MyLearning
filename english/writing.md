@@ -902,3 +902,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I seem to be need to sleep. I saw sometghing like flowing rainbow lightning on my sight when I got home today. This is presumably considered to be too much stress to my eyes.
 * I think I need to sleep. When I got home today, I saw something like flowing rainbow lightning in my vision. This is presumably due to too much stress on my eyes.
+
+* I don't know how I should be as a professional in this team. I know focusing on a project and putting best foot forward is the first priroty to do, but there are lots of things I can learn from other tesks and levaledge the knowledges to the main or future task as well. So I believe trying out as many tasks and experience as possible are quite important to mature my skill. Why not go for it?
+* I’m not sure how I should approach being a professional in this team. I understand that focusing on a project and putting my best foot forward is the top priority, but there are many things I can learn from other tasks and leverage that knowledge for my current or future projects. That’s why I believe trying out as many tasks and gaining diverse experiences is crucial for improving my skills. Why not go for it?

@@ -908,3 +908,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I have been becoming fluent and free to talk without any difficulties. I think it is quite a good outcome of listening podcasts and journaling.
 * I’ve been becoming more fluent and confident in speaking without much difficulty. I think this is a great result of listening to podcasts and journaling.
+
+* I am so flustrated the gap between the expectation of my performance in my head and the reality. I think I mentioned this descrepancy before, I still feel the feelings.
+* I’m so frustrated by the gap between the expectations I have for my performance and the reality. I think I’ve mentioned this discrepancy before, but I still feel the same way.

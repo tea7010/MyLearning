@@ -914,3 +914,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Fishing is quite difficult especially when you fish in the place where you first visit. You need to know what kind of bait are there, like insects, small fish, shrimps, etc. The strategy to tackele is important, but the most important thing is where you go. You need to be the place where fish is there, unless you lose your time for nothing.
 * Fishing is quite difficult, especially when you fish in a place you’re visiting for the first time. You need to know what kind of bait is available, like insects, small fish, shrimps, etc. Strategy and technique are important, but the most crucial factor is the location. You need to be where the fish are; otherwise, you’ll waste your time for nothing.
+
+* Drinking alhocol drinks is the one somehow I cann't help stopping it. I know drinking prevent me from sleeping well and there is nothing beneficial in the ground schema of things, but somehow I am addicted to it.
+* Drinking alcohol is something I somehow can’t stop. I know it prevents me from sleeping well and offers no real benefits in the grand scheme of things, but I’m still addicted to it.

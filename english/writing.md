@@ -917,3 +917,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Drinking alhocol drinks is the one somehow I cann't help stopping it. I know drinking prevent me from sleeping well and there is nothing beneficial in the ground schema of things, but somehow I am addicted to it.
 * Drinking alcohol is something I somehow can’t stop. I know it prevents me from sleeping well and offers no real benefits in the grand scheme of things, but I’m still addicted to it.
+
+* Work stress has been becoming a very graat amount of burden for me. Too much to think and I am stressed out the gap between ideal state and the reality. Probably some might be because of my lack of speaking ability of english, simploy too much things to consider.
+* Work stress has become an overwhelming burden for me. There’s too much to think about, and I feel stressed by the gap between the ideal state and reality. Some of this might be due to my lack of English-speaking ability, or simply having too many things to consider.

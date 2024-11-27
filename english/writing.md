@@ -920,3 +920,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Work stress has been becoming a very graat amount of burden for me. Too much to think and I am stressed out the gap between ideal state and the reality. Probably some might be because of my lack of speaking ability of english, simploy too much things to consider.
 * Work stress has become an overwhelming burden for me. There’s too much to think about, and I feel stressed by the gap between the ideal state and reality. Some of this might be due to my lack of English-speaking ability, or simply having too many things to consider.
+
+* I have been watching three body problem on netflix. This series is insainly interesting. I want to read the novel written in english someday.
+* I have been watching The Three-Body Problem on Netflix. This series is insanely interesting, and I want to read the novel in English someday

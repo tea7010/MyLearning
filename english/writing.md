@@ -923,3 +923,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I have been watching three body problem on netflix. This series is insainly interesting. I want to read the novel written in english someday.
 * I have been watching The Three-Body Problem on Netflix. This series is insanely interesting, and I want to read the novel in English someday
+
+* Devoicing may be a good decision for me to put an end with the sufferings I am facing. I can't imagime the future we will be able to close each other anymore.
+* Divorcing might be a good decision for me to put an end to the suffering I’m facing. I can’t imagine a future where we can grow closer to each other anymore. 

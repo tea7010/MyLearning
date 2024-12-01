@@ -926,3 +926,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Devoicing may be a good decision for me to put an end with the sufferings I am facing. I can't imagime the future we will be able to close each other anymore.
 * Divorcing might be a good decision for me to put an end to the suffering I’m facing. I can’t imagine a future where we can grow closer to each other anymore. 
+
+* I bought a digital book of three body problem. I watched all episodes of netrix serios of it, but I was too curious to read the original book. although english version is just a translated versionm from Chinese. I am looking forward to read all series of it.
+* I bought a digital copy of The Three-Body Problem. I’ve watched all the episodes of the Netflix series, but I was too curious not to read the original book. Although the English version is just a translation from Chinese, I’m looking forward to reading the entire series.

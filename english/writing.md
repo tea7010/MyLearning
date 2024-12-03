@@ -929,3 +929,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I bought a digital book of three body problem. I watched all episodes of netrix serios of it, but I was too curious to read the original book. although english version is just a translated versionm from Chinese. I am looking forward to read all series of it.
 * I bought a digital copy of The Three-Body Problem. I’ve watched all the episodes of the Netflix series, but I was too curious not to read the original book. Although the English version is just a translation from Chinese, I’m looking forward to reading the entire series.
+
+* It is always so hectic on December. I think it is because people want to move things earlier than usual because Christmas and year end holiday. Also, December is end of second quarters for the coutry the finacial year start from June, which the budget must be consumed all. Otherwise, the budjet of next year will tend to be smaller than this year.
+* December is always so hectic. I think it’s because people want to move things forward earlier than usual due to Christmas and the year-end holidays. Additionally, December marks the end of the second quarter for countries where the financial year starts in June. Budgets must be fully utilized; otherwise, next year’s budget is likely to be reduced.

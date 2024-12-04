@@ -932,3 +932,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * It is always so hectic on December. I think it is because people want to move things earlier than usual because Christmas and year end holiday. Also, December is end of second quarters for the coutry the finacial year start from June, which the budget must be consumed all. Otherwise, the budjet of next year will tend to be smaller than this year.
 * December is always so hectic. I think it’s because people want to move things forward earlier than usual due to Christmas and the year-end holidays. Additionally, December marks the end of the second quarter for countries where the financial year starts in June. Budgets must be fully utilized; otherwise, next year’s budget is likely to be reduced.
+
+* burning out happens if the task is too busy and our mental recognize the task itself as an enemy to gurde ourself from stress.
+* Burnout occurs when tasks become overwhelming, and our minds perceive the work itself as an enemy in an attempt to shield us from stress.

@@ -935,3 +935,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * burning out happens if the task is too busy and our mental recognize the task itself as an enemy to gurde ourself from stress.
 * Burnout occurs when tasks become overwhelming, and our minds perceive the work itself as an enemy in an attempt to shield us from stress.
+
+* Working hard doesn't mean directly a good result or outcome, but it definitely gives me a good experience and learning.
+* Working hard doesn’t necessarily guarantee a good result or outcome, but it definitely provides valuable experience and learning.

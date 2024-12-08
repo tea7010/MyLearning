@@ -938,3 +938,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Working hard doesn't mean directly a good result or outcome, but it definitely gives me a good experience and learning.
 * Working hard doesn’t necessarily guarantee a good result or outcome, but it definitely provides valuable experience and learning.
+
+* Driving to country side is becoming a hobby for me. I can't put my finger what makes so different to drive on country side compared to the ordinary roads, but it is not boring for me to dtive on the road without any cars and vast scenery continues to horizon. I become drayssy when I drive on the city road within 30mins, but I can keep driving on country road for an hour without any break. 
+* Driving to the countryside is becoming a hobby for me. I can’t quite put my finger on what makes it so different from driving on ordinary roads, but I never find it boring to drive on empty roads with vast scenery stretching to the horizon. I feel drowsy when driving in the city after just 30 minutes, but I can keep driving on country roads for an hour without needing a break.

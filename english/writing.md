@@ -944,3 +944,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I found that asking chatgpt to be a student and give me questions about english is really good practice to describe and explain things I havenot tried. Thinking about what I have not though is quite difficult. ChatGPT really helps me to look my ability to explain things from third person's perspective.
 * I found that asking ChatGPT to act as a student and give me questions about English is a great way to practice describing and explaining things I haven’t tried before. Thinking about concepts I haven’t thought of yet is quite challenging. ChatGPT helps me view my ability to explain things from a third-person perspective.
+
+* Pretenting like getting along with partner to other people is cumbersome. It takes some time to make up our relationships actually.
+* Pretending to get along with a partner in front of others is exhausting. It takes time and effort to genuinely rebuild a relationship.

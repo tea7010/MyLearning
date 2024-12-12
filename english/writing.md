@@ -947,3 +947,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Pretenting like getting along with partner to other people is cumbersome. It takes some time to make up our relationships actually.
 * Pretending to get along with a partner in front of others is exhausting. It takes time and effort to genuinely rebuild a relationship.
+
+* It has been almost two months I think since I sleep under 6 hours. I don't know why I cannot sleep more even in weekend, but I think this is mainlyu because of the ealiry sunrise. It becomes bright around 5 already in this season, I naturally wake up by that. 
+* It’s been almost two months since I’ve been sleeping less than six hours a night. I’m not sure why I can’t sleep more, even on weekends, but I think it’s mainly because of the early sunrise. It gets bright around 5 a.m. this season, and I naturally wake up at that time.

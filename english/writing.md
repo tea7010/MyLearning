@@ -949,4 +949,7 @@ On the other hand, there are three things you should avoid. Running, because it 
 * Pretending to get along with a partner in front of others is exhausting. It takes time and effort to genuinely rebuild a relationship.
 
 * It has been almost two months I think since I sleep under 6 hours. I don't know why I cannot sleep more even in weekend, but I think this is mainlyu because of the ealiry sunrise. It becomes bright around 5 already in this season, I naturally wake up by that. 
-* It’s been almost two months since I’ve been sleeping less than six hours a night. I’m not sure why I can’t sleep more, even on weekends, but I think it’s mainly because of the early sunrise. It gets bright around 5 a.m. this season, and I naturally wake up at that time.
+* It’s been almost two months since I’ve been sleeping less than six hours a night. I’m not sure why I can’t sleep more, even on weekends, but I think it’s mainly because of the early sunrise. It gets bright around 5 a.m. this season, and I naturally wake up at that time.  
+
+* This is the first entry for 2025. I can't imagine what my 2025 year will be, but I would like to make use of this oppotunity to live and work in abroad. I declar or write down some goals in the first of year every year. I will leave the goals memo somewhere in blog or notepads.
+* This is my first entry for 2025. I can’t imagine what this year will bring, but I’d like to make the most of this opportunity to live and work abroad. Every year, I declare or write down some goals at the beginning of the year. I plan to leave my goals in a blog or notepad as a memo.

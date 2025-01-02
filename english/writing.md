@@ -953,3 +953,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * This is the first entry for 2025. I can't imagine what my 2025 year will be, but I would like to make use of this oppotunity to live and work in abroad. I declar or write down some goals in the first of year every year. I will leave the goals memo somewhere in blog or notepads.
 * This is my first entry for 2025. I can’t imagine what this year will bring, but I’d like to make the most of this opportunity to live and work abroad. Every year, I declare or write down some goals at the beginning of the year. I plan to leave my goals in a blog or notepad as a memo.
+
+* Things I declare for 2025 is kind of goals, but I think the most important things are habits to achieve the goals and states you want to be. 
+* The things I declare for 2025 are like goals, but I believe the most important aspects are the habits that help achieve those goals and the state of being you aspire to reach.

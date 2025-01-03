@@ -956,3 +956,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Things I declare for 2025 is kind of goals, but I think the most important things are habits to achieve the goals and states you want to be. 
 * The things I declare for 2025 are like goals, but I believe the most important aspects are the habits that help achieve those goals and the state of being you aspire to reach.
+
+* I am sad about the fact that my holiday almost for four weeks will be ended by three days. I was very happy with staying with family and traveling in this country.
+* I feel sad knowing that my almost four-week holiday will end in just three days. I’ve truly enjoyed spending time with my family and traveling around this country.

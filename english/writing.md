@@ -965,3 +965,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * First day of work started since I had a long holiday. I wasn't so productive to catch up with emails and other adnimistrative work, but I think it is okay to start working moderately as to keep motivated to work in the long run.
 * The first day of work after a long holiday has started. I wasn’t very productive as I focused on catching up with emails and other administrative tasks. However, I think it’s okay to ease back into work moderately to maintain motivation in the long run.
+
+* I never satisfied my life because I haven't been able to achieve the state of myself or kind of a dream of playing the guitar freely or fluently. Just like speaking English fluentlu, playing the guitar as I want is really ideal state of mine. Touching the guitar as long time as I can and consider to practice the guirar as effectice as possible is needed.
+* I’ve never been fully satisfied with my life because I haven’t yet achieved the state of being able to play the guitar freely and fluently. Similar to speaking English fluently, playing the guitar the way I want is my ideal goal. Spending as much time as possible with the guitar and practicing effectively are what I need to focus on.

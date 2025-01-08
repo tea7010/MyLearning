@@ -968,3 +968,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I never satisfied my life because I haven't been able to achieve the state of myself or kind of a dream of playing the guitar freely or fluently. Just like speaking English fluentlu, playing the guitar as I want is really ideal state of mine. Touching the guitar as long time as I can and consider to practice the guirar as effectice as possible is needed.
 * I’ve never been fully satisfied with my life because I haven’t yet achieved the state of being able to play the guitar freely and fluently. Similar to speaking English fluently, playing the guitar the way I want is my ideal goal. Spending as much time as possible with the guitar and practicing effectively are what I need to focus on.
+
+* Spending with family is pleasant for me. Since they came back from holiday, I am really enjoying the time with them. The problem is how long I can keep this state. FInger crossed.
+* Spending time with my family is truly pleasant. Since they returned from their holiday, I’ve been thoroughly enjoying being with them. The only concern is how long I can maintain this happy state. Fingers crossed!

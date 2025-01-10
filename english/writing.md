@@ -971,3 +971,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Spending with family is pleasant for me. Since they came back from holiday, I am really enjoying the time with them. The problem is how long I can keep this state. FInger crossed.
 * Spending time with my family is truly pleasant. Since they returned from their holiday, I’ve been thoroughly enjoying being with them. The only concern is how long I can maintain this happy state. Fingers crossed!
+
+* I started dictation of short videos of youtube. My favorite is Hamish and Andy, which I listen to their podcasts sometimes simply because the podcasts make daily things witty and funny. I can encounter lots of idioms and phrasal verbs I don't know and it should make my listening and comprehension skill imporove.
+* I started doing dictation exercises with short YouTube videos. My favorite is Hamish and Andy because I enjoy their podcasts too—they turn everyday situations into witty and funny stories. Through this, I encounter many idioms and phrasal verbs I didn’t know, which should help improve my listening and comprehension skills.

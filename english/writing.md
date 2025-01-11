@@ -974,3 +974,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I started dictation of short videos of youtube. My favorite is Hamish and Andy, which I listen to their podcasts sometimes simply because the podcasts make daily things witty and funny. I can encounter lots of idioms and phrasal verbs I don't know and it should make my listening and comprehension skill imporove.
 * I started doing dictation exercises with short YouTube videos. My favorite is Hamish and Andy because I enjoy their podcasts too—they turn everyday situations into witty and funny stories. Through this, I encounter many idioms and phrasal verbs I didn’t know, which should help improve my listening and comprehension skills.
+
+* Camping matress would be the best option for guest beds. Camping matress could of-course use when camping, but it is also very handy for a bed for a guest bacause you can put it aside when you won't have a guest. It is like killing two birds with one stone.\
+* Camping mattresses are a great option for guest beds. Not only are they perfect for camping, but they’re also convenient for hosting guests since you can easily store them away when not in use. It’s like killing two birds with one stone.

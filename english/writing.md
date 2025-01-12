@@ -977,3 +977,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Camping matress would be the best option for guest beds. Camping matress could of-course use when camping, but it is also very handy for a bed for a guest bacause you can put it aside when you won't have a guest. It is like killing two birds with one stone.\
 * Camping mattresses are a great option for guest beds. Not only are they perfect for camping, but they’re also convenient for hosting guests since you can easily store them away when not in use. It’s like killing two birds with one stone.
+
+* I didn't know about Swag, which is a kind of camping tent but basically it specified to sleep. It sounded like it is popular in Australia, but I wonder whether it is also popular in Japan too.
+* I didn’t know about swags, which are a type of camping tent mainly designed for sleeping. They seem to be popular in Australia, but I wonder if they’re also common in Japan.

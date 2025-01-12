@@ -24,3 +24,6 @@ Can you explain the meaning of these phrases from a passage and provide examples
 * get it inside
 * wheelie bin
 * Just pop it straight in
+
+* https://www.youtube.com/shorts/DnQn5W55FgY
+* A hoy Sam. A hoy boys. Gusto to you. That's great. I don't know if we have done before, but it feels very, it's like a fun version of Ham tells it, isn't it? Under his eye, and Gusto to you.

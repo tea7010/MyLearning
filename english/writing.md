@@ -980,3 +980,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I didn't know about Swag, which is a kind of camping tent but basically it specified to sleep. It sounded like it is popular in Australia, but I wonder whether it is also popular in Japan too.
 * I didn’t know about swags, which are a type of camping tent mainly designed for sleeping. They seem to be popular in Australia, but I wonder if they’re also common in Japan.
+
+* I had a kind of waste of time. The balance between the quality of the work and the requirements didn't match very much. I need to decide the priorities of tasks. In Japanese idioms says that a hanter who is after two rabbits at the same time cannot get even one.
+* I felt like I wasted time today. The balance between the quality of work and the actual requirements didn’t align well. I need to prioritize tasks more effectively. As a Japanese idiom says, “A hunter who chases two rabbits at the same time will catch neither.

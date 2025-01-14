@@ -983,3 +983,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I had a kind of waste of time. The balance between the quality of the work and the requirements didn't match very much. I need to decide the priorities of tasks. In Japanese idioms says that a hanter who is after two rabbits at the same time cannot get even one.
 * I felt like I wasted time today. The balance between the quality of work and the actual requirements didn’t align well. I need to prioritize tasks more effectively. As a Japanese idiom says, “A hunter who chases two rabbits at the same time will catch neither.
+
+* I know I need to finish off the important task first, but I cannot resist temptation to face with the task directly somehow. Maybe I don't like feel burnout after the effort or just running away the fact that I have to address it, just like kids putting off the homework from school
+* I know I need to tackle the important task first, but I somehow can’t resist the temptation to avoid facing it directly. Maybe I’m afraid of burning out after putting in too much effort, or perhaps I’m just avoiding the reality that I need to address it—just like kids procrastinating on their homework

@@ -17,6 +17,7 @@ Can you explain the meaning of these phrases from a passage and provide examples
 * that's how pros do it
 * Brand new to the car
 
+* https://www.youtube.com/shorts/U9tlPLsKc-8
 * Getting the mail is the biggest waste of time. Drag it in. Open bin, Open bin. like what a pointless system. people must know that now one open the mail and it just sits on the counter. and this whole thing it's just about covering your ass, "Well, I sent it". Usually now I don't event get it inside and I'll just go past the bins on the way inside... Tell you what Jack, get your wheelie bin and cut a little letter hole in it and just leave that at the front of the property builing and just pop it straight in.
 * Drag it in
 * sit on the counter
@@ -27,3 +28,9 @@ Can you explain the meaning of these phrases from a passage and provide examples
 
 * https://www.youtube.com/shorts/DnQn5W55FgY
 * A hoy Sam. A hoy boys. Gusto to you. That's great. I don't know if we have done before, but it feels very, it's like a fun version of Ham tells it, isn't it? Under his eye, and Gusto to you.
+* Gusto
+
+* https://www.youtube.com/shorts/a93FFjgZo8k
+* Radio up we are on. I don't think it's so much on. yeah no, If you want to listen to the remember project, we go back for about the last 20 years of our careers, and see if we can remember the stuff we did, often we can't. it's out now.
+* radio up
+* go back

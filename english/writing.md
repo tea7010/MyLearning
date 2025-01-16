@@ -986,3 +986,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I know I need to finish off the important task first, but I cannot resist temptation to face with the task directly somehow. Maybe I don't like feel burnout after the effort or just running away the fact that I have to address it, just like kids putting off the homework from school
 * I know I need to tackle the important task first, but I somehow can’t resist the temptation to avoid facing it directly. Maybe I’m afraid of burning out after putting in too much effort, or perhaps I’m just avoiding the reality that I need to address it—just like kids procrastinating on their homework
+
+* Xreal one looks very good when it comes to use it as a productivity device and amusement on flight. Saw an interesting interview article said that 3DoF tracking factionality is still fiddle during flight and the screen goes away due to acceleration and deceleration.
+* The Xreal one looks like a great device for both productivity and entertainment during flights. I came across an interesting interview article mentioning that the 3DoF tracking functionality is still a bit finicky during flights, as the screen tends to drift due to acceleration and deceleration.

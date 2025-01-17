@@ -989,3 +989,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Xreal one looks very good when it comes to use it as a productivity device and amusement on flight. Saw an interesting interview article said that 3DoF tracking factionality is still fiddle during flight and the screen goes away due to acceleration and deceleration.
 * The Xreal one looks like a great device for both productivity and entertainment during flights. I came across an interesting interview article mentioning that the 3DoF tracking functionality is still a bit finicky during flights, as the screen tends to drift due to acceleration and deceleration.
+
+* I need to pick up what to prioritize to do as time is always limited and I never have enough time to do everything. Things that I am not keen to do could be important for me as it must be something needs imporovbement.
+* I need to prioritize my tasks since time is always limited, and I never have enough time to do everything. The things I’m not keen on doing might actually be important, as they could be areas that need improvement.

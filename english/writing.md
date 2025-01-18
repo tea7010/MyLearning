@@ -992,3 +992,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I need to pick up what to prioritize to do as time is always limited and I never have enough time to do everything. Things that I am not keen to do could be important for me as it must be something needs imporovbement.
 * I need to prioritize my tasks since time is always limited, and I never have enough time to do everything. The things I’m not keen on doing might actually be important, as they could be areas that need improvement.
+
+* I am becoming to be into camping. Since I bought a swag for secondary bed for guests, I cannot stop browsing gears to buy for family camp. The good excuses to buy camp items is that I would also use them in balcony.
+* I’m getting into camping. Since I bought a swag as a secondary bed for guests, I can’t stop browsing gear for family camping. A good excuse to buy camping items is that I can also use them on the balcony.

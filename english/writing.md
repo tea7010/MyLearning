@@ -995,3 +995,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I am becoming to be into camping. Since I bought a swag for secondary bed for guests, I cannot stop browsing gears to buy for family camp. The good excuses to buy camp items is that I would also use them in balcony.
 * I’m getting into camping. Since I bought a swag as a secondary bed for guests, I can’t stop browsing gear for family camping. A good excuse to buy camping items is that I can also use them on the balcony.
+
+* I didn't know that my headset could recall to the last call I got on my phone. The annoying thing is the action is triggered by long pushing on play button where located very easily mish pushed. I unawarely called to childcare and my wife due to this. I need to be careful and make sure that the power of headset is off when I remove them from my head.
+* I didn’t know that my headset could redial the last call I received on my phone. The annoying thing is that this action is triggered by long-pressing the play button, which is easy to press by mistake. I accidentally called the childcare center and my wife because of this. I need to be careful and make sure to turn off the headset when I take it off.

@@ -34,3 +34,8 @@ Can you explain the meaning of these phrases from a passage and provide examples
 * Radio up we are on. I don't think it's so much on. yeah no, If you want to listen to the remember project, we go back for about the last 20 years of our careers, and see if we can remember the stuff we did, often we can't. it's out now.
 * radio up
 * go back
+
+* https://www.youtube.com/shorts/-qD25n-E8q8
+* You know the light above two front seats in the car. yeah. So I would turn it on and then I get out of the car and I forget to switch it off. So it'd drained the battery and come out flat battery in the morning. So instead of just making sure that I've turned it off, I just got the back end of a screwdriver and smashed the light. light bro soul.
+* come out
+* drain the battery

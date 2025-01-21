@@ -39,3 +39,6 @@ Can you explain the meaning of these phrases from a passage and provide examples
 * You know the light above two front seats in the car. yeah. So I would turn it on and then I get out of the car and I forget to switch it off. So it'd drained the battery and come out flat battery in the morning. So instead of just making sure that I've turned it off, I just got the back end of a screwdriver and smashed the light. light bro soul.
 * come out
 * drain the battery
+
+* https://www.youtube.com/shorts/P84u6CIhTiM
+* Why is he moving so fast? while appering to only be walking. He's going on unnaturally quick given the casual movement on his body. You might think, my brain hurts. I do not undrestand. is he really doing this? Yes, he is. but it looks impossible. while this very well, could be David copperfield in disguise performing a new magic trick. I assure you this is no illusion. there are no special effect used here. Albat the affect on people is very special. and I know what are contemplating folks, what kind of witchcaraft am I witnessing? what was that? but trust me, this is pure science. what you see is real. Robot shoes with wheels powered by AI allowing you to walk at the speed of run. may we walk in the future really fast.

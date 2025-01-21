@@ -998,3 +998,7 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I didn't know that my headset could recall to the last call I got on my phone. The annoying thing is the action is triggered by long pushing on play button where located very easily mish pushed. I unawarely called to childcare and my wife due to this. I need to be careful and make sure that the power of headset is off when I remove them from my head.
 * I didn’t know that my headset could redial the last call I received on my phone. The annoying thing is that this action is triggered by long-pressing the play button, which is easy to press by mistake. I accidentally called the childcare center and my wife because of this. I need to be careful and make sure to turn off the headset when I take it off.
+
+* I bet camping is another rabbit hole or excuse to satisfication to buy something. I know I could be ended up spending lots, but I cannot resist the temptation to serarch which product would fit for our camping.
+* I bet camping is another rabbit hole—or just an excuse—to satisfy my urge to buy things. I know I might end up spending a lot, but I can’t resist the temptation to search for the perfect gear for our camping trips.
+

@@ -1002,3 +1002,5 @@ On the other hand, there are three things you should avoid. Running, because it 
 * I bet camping is another rabbit hole or excuse to satisfication to buy something. I know I could be ended up spending lots, but I cannot resist the temptation to serarch which product would fit for our camping.
 * I bet camping is another rabbit hole—or just an excuse—to satisfy my urge to buy things. I know I might end up spending a lot, but I can’t resist the temptation to search for the perfect gear for our camping trips.
 
+* I thought I need to talk to chatgpt more to be used to speaking and expressing my thoughts outside. It is also a good practice for me to talk in english.
+* I think I need to talk to ChatGPT more to get used to speaking and expressing my thoughts. It’s also a great way to practice speaking in English.

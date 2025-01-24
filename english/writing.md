@@ -1004,3 +1004,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I thought I need to talk to chatgpt more to be used to speaking and expressing my thoughts outside. It is also a good practice for me to talk in english.
 * I think I need to talk to ChatGPT more to get used to speaking and expressing my thoughts. It’s also a great way to practice speaking in English.
+
+* Camping is really a hobby costs a lot. I think I have almost spent a grand already although I have never been to a camp site yet. So far, I bought a double size swag, a nice pair of chairs, a foldable table, a muk mat, and some lights. I still need some kitchen stuff when I really do a life in wild.
+* Camping is really an expensive hobby. I think I’ve already spent almost a grand, even though I haven’t been to a campsite yet. So far, I’ve bought a double-size swag, a nice pair of chairs, a foldable table, a muk mat, and some lights. I still need some kitchen gear for when I actually camp in the wild.

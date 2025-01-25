@@ -1007,3 +1007,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Camping is really a hobby costs a lot. I think I have almost spent a grand already although I have never been to a camp site yet. So far, I bought a double size swag, a nice pair of chairs, a foldable table, a muk mat, and some lights. I still need some kitchen stuff when I really do a life in wild.
 * Camping is really an expensive hobby. I think I’ve already spent almost a grand, even though I haven’t been to a campsite yet. So far, I’ve bought a double-size swag, a nice pair of chairs, a foldable table, a muk mat, and some lights. I still need some kitchen gear for when I actually camp in the wild.
+
+* I didn't know that I need to book a space at a campsite. I had thought that I could vist and stay freely anytime, but lots of campsite has separated space or lots and you need to book beforehadnd.
+* I didn’t know that I needed to book a spot at a campsite. I had thought I could visit and stay freely anytime, but many campsites have designated spaces or lots that need to be booked in advance.

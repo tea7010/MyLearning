@@ -1010,3 +1010,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I didn't know that I need to book a space at a campsite. I had thought that I could vist and stay freely anytime, but lots of campsite has separated space or lots and you need to book beforehadnd.
 * I didn’t know that I needed to book a spot at a campsite. I had thought I could visit and stay freely anytime, but many campsites have designated spaces or lots that need to be booked in advance.
+
+* Using swag in the beach was not so bad, but it is a bit pain in the neck that sand stick on the seats and matress of swag. Probably I will never bring swag in the beach except a campsite sits is in beach.
+* Using a swag on the beach wasn’t too bad, but it was a bit of a pain having sand stick to the seats and mattress. I’ll probably never bring a swag to the beach again unless the campsite itself is on the beach.

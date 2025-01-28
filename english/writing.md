@@ -1013,3 +1013,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Using swag in the beach was not so bad, but it is a bit pain in the neck that sand stick on the seats and matress of swag. Probably I will never bring swag in the beach except a campsite sits is in beach.
 * Using a swag on the beach wasn’t too bad, but it was a bit of a pain having sand stick to the seats and mattress. I’ll probably never bring a swag to the beach again unless the campsite itself is on the beach.
+
+* Listening podcasts became a habit for me, but I think I need to focus on the contents and atitude to learn something from it. Othrewise, the time listening podcasts in English is going to be just a background noise and won't make any help my english skills.
+* Listening to podcasts has become a habit for me, but I think I need to focus more on the content and my attitude toward learning from them. Otherwise, listening to English podcasts will just become background noise and won’t actually help improve my English skills.

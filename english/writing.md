@@ -1016,3 +1016,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * Listening podcasts became a habit for me, but I think I need to focus on the contents and atitude to learn something from it. Othrewise, the time listening podcasts in English is going to be just a background noise and won't make any help my english skills.
 * Listening to podcasts has become a habit for me, but I think I need to focus more on the content and my attitude toward learning from them. Otherwise, listening to English podcasts will just become background noise and won’t actually help improve my English skills.
+
+* I am not good at learning vocaburary thought reading dictionaries because it is boring for me to read through the same texts again and again. I believe the way I am trying will be sastainable and effective for me, which basically enjoying content written or spoken in English and not being felt learning or studying intentionally. 
+* I’m not good at learning vocabulary by reading dictionaries because I find it boring to go through the same texts repeatedly. I believe the method I’m using is both sustainable and effective for me—enjoying content written or spoken in English without feeling like I’m intentionally studying.

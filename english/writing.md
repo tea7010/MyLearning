@@ -1019,3 +1019,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I am not good at learning vocaburary thought reading dictionaries because it is boring for me to read through the same texts again and again. I believe the way I am trying will be sastainable and effective for me, which basically enjoying content written or spoken in English and not being felt learning or studying intentionally. 
 * I’m not good at learning vocabulary by reading dictionaries because I find it boring to go through the same texts repeatedly. I believe the method I’m using is both sustainable and effective for me—enjoying content written or spoken in English without feeling like I’m intentionally studying.
+
+* I went to a fancy stakehouse with my family for the first time. I thought it would be a bit out of manner if we bring our child to a fancy restaurant, but it turned out that the restaurant was really kids friendly. It also had a menu for kids.
+* I went to a fancy steakhouse with my family for the first time. I thought it might be inappropriate to bring our child to a fancy restaurant, but it turned out to be very kid-friendly. They even had a special menu for kids.

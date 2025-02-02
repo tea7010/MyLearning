@@ -1022,3 +1022,6 @@ On the other hand, there are three things you should avoid. Running, because it 
 
 * I went to a fancy stakehouse with my family for the first time. I thought it would be a bit out of manner if we bring our child to a fancy restaurant, but it turned out that the restaurant was really kids friendly. It also had a menu for kids.
 * I went to a fancy steakhouse with my family for the first time. I thought it might be inappropriate to bring our child to a fancy restaurant, but it turned out to be very kid-friendly. They even had a special menu for kids.
+
+* Talking to chatgpt during driving feels like giving a drive to a guest who is important person in work. I need to concentrate on subjects or clues to keep conversation healthly as well as driving safely, which is really difficult to keep. Sometimes I may be missing the speed limit and forget to look at my current speed. 
+* Talking to ChatGPT while driving feels like giving a ride to an important guest from work. I need to focus on the conversation to keep it flowing naturally while also driving safely, which can be quite challenging. Sometimes, I might miss the speed limit signs or forget to check my current speed.

@@ -69,5 +69,6 @@
 1. Darreb Shan, Tunnels of blood: 38,955
 1. Darren Shan, Vampires Mountain: 35,834
 1. Three body problem: 226,341
+1. The dark forest: 209,208
 
-Total: 2,138,026
+Total: 2,347,234

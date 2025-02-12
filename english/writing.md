@@ -1042,3 +1042,6 @@ Overall, camping by the beach was such an amazing experience that we’re alread
 * I don’t feel like my English has been improving over the past few months. Maybe one reason is that I don’t use English when I’m with my family, but more importantly, I think I’ve been lacking the awareness of my limitations and the urgency to improve.
 When I traveled to another English-speaking country last year, I was desperate to express my thoughts in English. That experience pushed me to learn a lot because I had to think and communicate entirely in English. But now, I feel like I’ve lost that sense of urgency.
 I need to spend more time organizing my thoughts and challenging myself to express complex ideas in English. I believe that’s the key to accelerating my progress and changing the trajectory of my language-learning journey.
+
+* I ordered jetboil genesys at ebay once, but I soon cancelled it due to long delivery. Although the cancellation may not be applied, On sencond thoughts, I am learning towards to buying chinese similar products which is almost one third of the price.
+* I ordered a Jetboil Genesis on eBay, but I soon canceled it due to the long delivery time. Although the cancellation may not go through, on second thought, I’m now leaning toward buying a similar Chinese product that costs about one-third of the price.

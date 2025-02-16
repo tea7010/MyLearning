@@ -1051,3 +1051,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I am drunk now as I had a two bottles of beer tonight. I used to drink wiskey a lot when I was in Japan, but in here, wiskey is kind a very laxury drink. I hardly buy it, but beer is really good taste instead.
 * I’m a bit drunk now after having two bottles of beer tonight. I used to drink a lot of whiskey when I was in Japan, but here, whiskey feels like more of a luxury. I hardly ever buy it, but beer tastes really good instead.
+
+* I finally bought a hard cooler box for capming. I wanted to buy really thick one like yeti, which is very expensive, but I ended up compromising a cheaper ooption as it is a trade-off of the size of coolers and quality of keeping temprature. I don't drive a very large car or a truck, so I bought a maximum size of cooler that I can load to my car.
+* I finally bought a hard cooler box for camping. I wanted to get a really thick one like a Yeti, but since they’re quite expensive, I compromised and went with a more affordable option. It was a trade-off between size and cooling performance. Since I don’t drive a large car or a truck, I chose the biggest cooler that would still fit in my car.

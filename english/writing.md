@@ -1057,3 +1057,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * There are so many aspects adn viewpoints to slice and cut data that I am a little bit overwelmed by the information I analysed. However, I think it is important to try to visualize and materialize metrics as many as possible, otherwise your world is kept small and will be stacked in the corner where youself has set. So it is not a bad idea to brainstorm once and organize them after that.
 * There are so many ways to slice and analyze data that I feel a bit overwhelmed by all the information I’ve gone through. However, I believe it’s important to visualize and materialize as many metrics as possible—otherwise, your perspective remains narrow, and you end up stuck in a corner of your own making. So, it’s not a bad idea to brainstorm freely at first and organize everything later.
+
+* It seems like the business trip to abroad has been settle and I need to fly to there. I have been to there last year, and I suffered really bad jetlag that I coudn't almost asleep at night. This time I will bring sleep tabs to force myself sleep.
+* It looks like my business trip abroad is confirmed, and I’ll need to fly there soon. I went there last year and struggled with terrible jet lag—I could barely sleep at night. This time, I’ll bring some sleeping pills to help me fall asleep.

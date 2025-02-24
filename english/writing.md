@@ -1060,3 +1060,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * It seems like the business trip to abroad has been settle and I need to fly to there. I have been to there last year, and I suffered really bad jetlag that I coudn't almost asleep at night. This time I will bring sleep tabs to force myself sleep.
 * It looks like my business trip abroad is confirmed, and I’ll need to fly there soon. I went there last year and struggled with terrible jet lag—I could barely sleep at night. This time, I’ll bring some sleeping pills to help me fall asleep.
+
+* I had a cold since in a while. I hadn't had any cold since I started walking in the morning and do some weight not consectively, but I went to gym and did weight three days in a row and I became sick immediately after that. I won't push myself hard and pump iron consective days moving forward.
+* I caught a cold for the first time in a while. I hadn’t been sick since I started walking in the mornings and doing some weight training, though not on consecutive days. However, after going to the gym and lifting weights three days in a row, I got sick right after. Moving forward, I won’t push myself too hard or do consecutive days of heavy lifting.

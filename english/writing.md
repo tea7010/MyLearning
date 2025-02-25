@@ -1063,3 +1063,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I had a cold since in a while. I hadn't had any cold since I started walking in the morning and do some weight not consectively, but I went to gym and did weight three days in a row and I became sick immediately after that. I won't push myself hard and pump iron consective days moving forward.
 * I caught a cold for the first time in a while. I hadn’t been sick since I started walking in the mornings and doing some weight training, though not on consecutive days. However, after going to the gym and lifting weights three days in a row, I got sick right after. Moving forward, I won’t push myself too hard or do consecutive days of heavy lifting.
+
+* Going camping is becoming my pleasure time on weekends. I cannot ctop thinking what gears could make our camping better and cozyier and which place to go next.
+* Going camping has become my favorite weekend activity. I can’t stop thinking about which gear could make our trips better and cozier, and where to go next.

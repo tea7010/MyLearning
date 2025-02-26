@@ -1066,3 +1066,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Going camping is becoming my pleasure time on weekends. I cannot ctop thinking what gears could make our camping better and cozyier and which place to go next.
 * Going camping has become my favorite weekend activity. I can’t stop thinking about which gear could make our trips better and cozier, and where to go next.
+
+* I feel like I have already burned out for the busy days working and upcoming tasks I will need to face. I had enough time, but I poorly managed my tasks and end up sending the main task later.
+* I feel like I’m already burned out from the busy days at work and the upcoming tasks I need to tackle. I had enough time, but I managed my tasks poorly and ended up delaying the main one.

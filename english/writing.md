@@ -1069,3 +1069,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I feel like I have already burned out for the busy days working and upcoming tasks I will need to face. I had enough time, but I poorly managed my tasks and end up sending the main task later.
 * I feel like I’m already burned out from the busy days at work and the upcoming tasks I need to tackle. I had enough time, but I managed my tasks poorly and ended up delaying the main one.
+
+* I can hear loud party noise from the room right above of mine. Even though the party culture in here is definitely stronger than Japan, the residents of above room seem to be annoyed the noise as well because they constantly hitting wall and warn them who are in the room doing the party.
+* I can hear loud party noise coming from the room right above mine. Even though party culture here is definitely stronger than in Japan, the residents in the room above seem annoyed by the noise as well, as they keep banging on the wall to warn the people having the party.

@@ -1081,3 +1081,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I didn't like data engineering tasks but once I start I cannot think other than how to improve the data structure and process more and more, and I find myself enjoying to consider that. Probably, entering to flow state is the key to make the data enginnering task enjoyable.
 * I didn’t like data engineering tasks at first, but once I start, I can’t think about anything else except how to improve the data structure and processes. I end up enjoying it more than I expected. Probably, getting into a flow state is the key to making data engineering tasks enjoyable.
+
+* A halycane is coming to the city I live in. It reminds me of typhoon in Japan.
+* A hurricane is approaching the city where I live. It reminds me of typhoons in Japan.

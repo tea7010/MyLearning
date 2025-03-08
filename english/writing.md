@@ -1084,3 +1084,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * A halycane is coming to the city I live in. It reminds me of typhoon in Japan.
 * A hurricane is approaching the city where I live. It reminds me of typhoons in Japan.
+
+* My child turned to three years old. she hasn't been able to talk fluently yet, but she's becoming to communicate what she weants. I hope the day comes soon when I can talk her.
+* My child just turned three years old. She can’t speak fluently yet, but she’s starting to communicate what she wants. I hope the day comes soon when we can have full conversations.

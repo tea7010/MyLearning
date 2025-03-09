@@ -1087,3 +1087,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * My child turned to three years old. she hasn't been able to talk fluently yet, but she's becoming to communicate what she weants. I hope the day comes soon when I can talk her.
 * My child just turned three years old. She can’t speak fluently yet, but she’s starting to communicate what she wants. I hope the day comes soon when we can have full conversations.
+
+* I know the best way to imporove my ability of speaking English and imporove fluency is to experience as many trial-and-error as possible. The more you experience failures and occations you felt embarassed, the more chances or motivation you would like to study and learn subconsciouly. 
+* I know the best way to improve my English-speaking skills and fluency is to go through as many trial-and-error experiences as possible. The more I experience failures and moments of embarrassment, the more motivated I become to study and learn subconsciously.

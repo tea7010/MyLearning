@@ -1090,3 +1090,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I know the best way to imporove my ability of speaking English and imporove fluency is to experience as many trial-and-error as possible. The more you experience failures and occations you felt embarassed, the more chances or motivation you would like to study and learn subconsciouly. 
 * I know the best way to improve my English-speaking skills and fluency is to go through as many trial-and-error experiences as possible. The more I experience failures and moments of embarrassment, the more motivated I become to study and learn subconsciously.
+
+* I have been rying to enhance my agility of speaking english through translating some of example sentences in Japanse into English. ChatGPT helps giving me example sentences randomly, and I think using ChatGPT as a problems generator is a good way to use AI.
+* I’ve been trying to improve my agility in speaking English by translating example sentences from Japanese into English. ChatGPT helps by providing random example sentences, and I think using ChatGPT as a problem generator is a great way to make use of AI.

@@ -1099,3 +1099,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Meeting people is kind a stress for me. I've heard that there are some people who feel they releafe stress when they meet peple or having a party. I am an opposite. I need to go camping to chill out.
 * Meeting people is kind of stressful for me. I’ve heard that some people relieve stress by socializing or having parties, but I’m the opposite. I need to go camping to relax.
+
+* The restaurant we went today was probably one of the most impressed I have ever been so far. The dishes are really nice and the stomasphere was kind a special.
+* The restaurant we went to today was probably one of the most impressive I’ve ever been to. The dishes were really nice, and the atmosphere felt special.

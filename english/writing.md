@@ -1102,3 +1102,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * The restaurant we went today was probably one of the most impressed I have ever been so far. The dishes are really nice and the stomasphere was kind a special.
 * The restaurant we went to today was probably one of the most impressive I’ve ever been to. The dishes were really nice, and the atmosphere felt special.
+
+* I don't wanna do anything now. I am tired. maybe this is because of the dinner I needed to attend yesterday. When I have a occation that I need to take care of visitor, I seem to get tired and stressed. 
+* I don’t feel like doing anything right now. I’m tired. Maybe it’s because of the dinner I had to attend yesterday. Whenever I have to take care of a visitor, I end up feeling exhausted and stressed.

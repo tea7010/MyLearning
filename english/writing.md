@@ -1105,3 +1105,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I don't wanna do anything now. I am tired. maybe this is because of the dinner I needed to attend yesterday. When I have a occation that I need to take care of visitor, I seem to get tired and stressed. 
 * I don’t feel like doing anything right now. I’m tired. Maybe it’s because of the dinner I had to attend yesterday. Whenever I have to take care of a visitor, I end up feeling exhausted and stressed.
+
+* I was productive today as I concentrated on the two tasks. Probably this is because the task I am dealing with is quite clear what to do and something new.
+* I was productive today and I focused on two tasks. Maybe it’s because the tasks were clear and involved something new.

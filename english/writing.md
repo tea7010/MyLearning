@@ -1108,3 +1108,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I was productive today as I concentrated on the two tasks. Probably this is because the task I am dealing with is quite clear what to do and something new.
 * I was productive today and I focused on two tasks. Maybe it’s because the tasks were clear and involved something new.
+
+* I feel that I was a bit sloppy and lazy to study english as a dayly habit. During camping I usually cannot do journaling habit because internet is not available on a desery campsite. However, after returning to normal life, It is always important to be aware that what habit is making you more productive and moving forward to your future.
+* I feel like I’ve been a bit sloppy and lazy with my daily English study habit. When I go camping, I usually can’t keep up my journaling habit because there’s no internet at remote campsites. However, once I return to normal life, it’s important to stay aware of the habits that keep me productive and moving forward toward my future goals.

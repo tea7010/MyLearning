@@ -1111,3 +1111,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I feel that I was a bit sloppy and lazy to study english as a dayly habit. During camping I usually cannot do journaling habit because internet is not available on a desery campsite. However, after returning to normal life, It is always important to be aware that what habit is making you more productive and moving forward to your future.
 * I feel like I’ve been a bit sloppy and lazy with my daily English study habit. When I go camping, I usually can’t keep up my journaling habit because there’s no internet at remote campsites. However, once I return to normal life, it’s important to stay aware of the habits that keep me productive and moving forward toward my future goals.
+
+* Drinking beer in the brewer is pleasant for me, but it costs a lot. A pint of beer costs around 15 if I order in the bar, but you can buy the same amount of it just 10 if you choose packed can. However, drinking in the pub is really good as the atomasphere is warm and make me drink more.
+* Drinking beer at a brewery is enjoyable for me, but it’s quite expensive. A pint of beer costs around $15 at a bar, while you can get the same amount for just $10 if you buy it in a can. However, drinking at a pub is great because the warm atmosphere makes me want to drink more

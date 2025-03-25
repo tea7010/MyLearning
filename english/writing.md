@@ -1123,3 +1123,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Today was good day for me because I successfully convey my messages and opinions in meetings. I need to continue this state and keep brushing my speaking ability to make myself more valuable for the team.
 * Today was a good day for me because I was able to successfully convey my messages and opinions in meetings. I want to maintain this momentum and keep improving my speaking skills to make myself more valuable to the team.
+
+* Todays was bad day for our family as my wife scratched the side of our car. It happend when she drove from childcare parking to go grocery shoppinng. She didn't notice how our car is close to the pillar next to the side seat side and the left rear panel of the car hit to the pillar of parking. Inner wheel difference!!! 
+* Today was a bad day for our family because my wife scratched the side of our car. It happened when she was driving out of the childcare parking lot to go grocery shopping. She didn’t realize how close our car was to the pillar next to the passenger side, and the left rear ended up scraping against it. Inner wheel difference!

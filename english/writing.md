@@ -1126,3 +1126,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Todays was bad day for our family as my wife scratched the side of our car. It happend when she drove from childcare parking to go grocery shoppinng. She didn't notice how our car is close to the pillar next to the side seat side and the left rear panel of the car hit to the pillar of parking. Inner wheel difference!!! 
 * Today was a bad day for our family because my wife scratched the side of our car. It happened when she was driving out of the childcare parking lot to go grocery shopping. She didn’t realize how close our car was to the pillar next to the passenger side, and the left rear ended up scraping against it. Inner wheel difference!
+
+* I am tired as I got up early this morning. I lost a bit of confident of speaking english becuase I notices lots of grammer mistakes when it comes to asking questions. The order of verbs and subject of question forms make me drive nuts.
+* I’m tired because I got up early this morning. I lost a bit of confidence in my English speaking skills today because I noticed a lot of grammar mistakes when asking questions. The word order of verbs and subjects in question forms drives me nuts!

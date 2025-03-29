@@ -1129,3 +1129,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I am tired as I got up early this morning. I lost a bit of confident of speaking english becuase I notices lots of grammer mistakes when it comes to asking questions. The order of verbs and subject of question forms make me drive nuts.
 * I’m tired because I got up early this morning. I lost a bit of confidence in my English speaking skills today because I noticed a lot of grammar mistakes when asking questions. The word order of verbs and subjects in question forms drives me nuts!
+
+* It's been raining since last week and I, probably not only me but everybody is fed up with this weather. It seems to be it will be a good weather next weekend, I am plannign to go camping with my family. I also want to try fossicking that is to find jem stones.
+* It’s been raining since last week, and I’m probably not the only one—everyone must be fed up with this weather. It looks like the weather will be good next weekend, so I’m planning to go camping with my family. I also want to try fossicking, which is searching for gemstones.

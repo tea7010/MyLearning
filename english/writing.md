@@ -1132,3 +1132,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * It's been raining since last week and I, probably not only me but everybody is fed up with this weather. It seems to be it will be a good weather next weekend, I am plannign to go camping with my family. I also want to try fossicking that is to find jem stones.
 * It’s been raining since last week, and I’m probably not the only one—everyone must be fed up with this weather. It looks like the weather will be good next weekend, so I’m planning to go camping with my family. I also want to try fossicking, which is searching for gemstones.
+
+* I made mexican food for the first time. I made tacos and nachos using pre-cooked shredded pork. I bought corn while toltiyas and it made me full soon after I ate two tacos. It is wondering why corn based toltiyas make people full so early.
+* I made Mexican food for the first time. I prepared tacos and nachos using pre-cooked shredded pork. I bought corn tortillas, and I became full after eating just two tacos. It’s interesting how corn-based tortillas make people feel full so quickly.

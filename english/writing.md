@@ -1135,3 +1135,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I made mexican food for the first time. I made tacos and nachos using pre-cooked shredded pork. I bought corn while toltiyas and it made me full soon after I ate two tacos. It is wondering why corn based toltiyas make people full so early.
 * I made Mexican food for the first time. I prepared tacos and nachos using pre-cooked shredded pork. I bought corn tortillas, and I became full after eating just two tacos. It’s interesting how corn-based tortillas make people feel full so quickly.
+
+* I am looking for a campsite that can experience fossicking that is to find a gem stones from natural. There are several places even close to the city, but most of fossicking sites are remote, which take about 6 to 10 hour drive. I want to experience that in close place and if I and my family are really into it, I would consider long trip to the remote sites.
+* I’m looking for a campsite where I can try fossicking, which is searching for gemstones in nature. There are several places near the city, but most fossicking sites are in remote areas, requiring a 6 to 10-hour drive. I’d like to experience it somewhere closer first, and if my family and I really enjoy it, I’d consider taking a longer trip to a remote site.

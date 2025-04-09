@@ -1144,3 +1144,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I was exhausted lots of meetings yesterday, but I was productive today as there are hardly meetings. I also want to concentrate when I am in the office, but some people keep talking to others becuase that is their job, communicating and align with teams. However, my job is more of creating something with lots of consideration, and needs quiete environment when I want to ornagize my idea and dive into thinking world.
 * I was exhausted from having so many meetings yesterday, but I was productive today since there were hardly any. I also want to stay focused when I’m in the office, but some people constantly talk because their job involves communication and team alignment. However, my work is more about creating things that require deep thought, so I need a quiet environment to organize my ideas and fully immerse myself in thinking.
+
+* Being calm is not easy thing to do for me. I am easily fired up and got upset when something unexpected happens.
+* Staying calm isn’t easy for me. I get fired up and upset easily when something unexpected happens.

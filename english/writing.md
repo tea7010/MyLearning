@@ -1147,3 +1147,12 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Being calm is not easy thing to do for me. I am easily fired up and got upset when something unexpected happens.
 * Staying calm isn’t easy for me. I get fired up and upset easily when something unexpected happens.
+
+* Here is a room to read book cozy. There's a desk besides window and give us nice sun light when day and lamp grows when dim. You can also enjoy tea with a small table under the lamp.
+* This is a cozy reading room. There’s a desk by the window that lets in warm sunlight during the day, and a lamp that glows softly when it gets dark. You can also enjoy a cup of tea on the small table placed under the lamp.
+
+* What I can see is a small cottage by the lake. The scene is sunset and the lake reflect the red sunset light beautifully. There is a boat beside the cottage and it looks like it equips an engine to propel it. There is also a wooden chair next to the road to the cottage. Cottage have many windows and the light is coming off from them redly.
+* I see a small cottage by the lake. It’s sunset, and the lake reflects the red and orange hues of the sky beautifully. There’s a boat near the cottage, and it looks like it has an engine for propulsion. A wooden chair sits beside the path leading to the cottage. The cottage has many windows, and warm reddish light shines from them, giving the scene a cozy, peaceful feeling.
+
+* Trying to describe image in words is good practice for me to brush up my language skill. I don't like it even in my mother language, because there is no distinctive answer or clear vision what is correct, but I believe that trying to explain umbigouis things in my words would be really good excercise to connect the image and words and that would make vocaburary in general.
+* Trying to describe an image in words is good practice for improving my language skills. I don’t really enjoy it, even in my native language, because there’s no clear answer or obvious way to know what’s correct. But I believe that trying to explain something ambiguous in my own words is a great exercise to connect images with language, and it helps build my vocabulary overall.

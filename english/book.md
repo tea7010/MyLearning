@@ -70,5 +70,6 @@
 1. Darren Shan, Vampires Mountain: 35,834
 1. Three body problem: 226,341
 1. The dark forest: 209,208
+1. Death's end: 151,000
 
-Total: 2,347,234
+Total: 2,498,234

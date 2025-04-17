@@ -1159,3 +1159,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Reading books should help me acquire english gradually, but I don't know which is better and efficient to learn a language, listening podcasts or reading books. Of-cource, it depends on the learnes preference and lifestyle, but in terms of efficiency and history of human, I think listening is more efficinet method to input.
 * Reading books should help me acquire English gradually, but I’m not sure which is better and more efficient for learning a language—listening to podcasts or reading books. Of course, it depends on the learner’s preference and lifestyle, but in terms of efficiency and human history, I think listening is a more effective method for input.
+
+* the first three or four months of new year is not productive for me somehow. I think this might be a kind of burnout after ending of japanese financial year on March.
+* The first three or four months of the new year are somehow not very productive for me. I think this might be a kind of burnout after the end of the Japanese financial year in March.

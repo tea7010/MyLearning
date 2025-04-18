@@ -1162,3 +1162,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * the first three or four months of new year is not productive for me somehow. I think this might be a kind of burnout after ending of japanese financial year on March.
 * The first three or four months of the new year are somehow not very productive for me. I think this might be a kind of burnout after the end of the Japanese financial year in March.
+
+* I found Listening music using speaker in living room is pleasant. I used to listen music using headphones or earbuds, but hearing through speaker is stressfree. Moreover, it helps my daughter's screentime less as she watches TV and youtube videos all day.
+* I found that listening to music through speakers in the living room is really pleasant. I used to listen with headphones or earbuds, but using speakers feels more stress-free. Also, it helps reduce my daughter’s screen time since she usually watches TV and YouTube videos all day.

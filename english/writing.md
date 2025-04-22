@@ -1165,3 +1165,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I found Listening music using speaker in living room is pleasant. I used to listen music using headphones or earbuds, but hearing through speaker is stressfree. Moreover, it helps my daughter's screentime less as she watches TV and youtube videos all day.
 * I found that listening to music through speakers in the living room is really pleasant. I used to listen with headphones or earbuds, but using speakers feels more stress-free. Also, it helps reduce my daughter’s screen time since she usually watches TV and YouTube videos all day.
+
+* I forgot to journal in here for several days since I had been going camping and didn't bring laptop to write them. I believe the habit journaling helps me organize my thoughts and improve writing skill. I needed to mal over what I wanted to say before starting this habit, but I am now able to start conversation without thinking so much.
+* I forgot to journal here for several days because I went camping and didn’t bring my laptop. I believe that journaling helps me organize my thoughts and improve my writing skills. Before I started this habit, I used to have to mull over what I wanted to say, but now I can start conversations without thinking too much.

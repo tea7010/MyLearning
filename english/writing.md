@@ -1168,3 +1168,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I forgot to journal in here for several days since I had been going camping and didn't bring laptop to write them. I believe the habit journaling helps me organize my thoughts and improve writing skill. I needed to mal over what I wanted to say before starting this habit, but I am now able to start conversation without thinking so much.
 * I forgot to journal here for several days because I went camping and didn’t bring my laptop. I believe that journaling helps me organize my thoughts and improve my writing skills. Before I started this habit, I used to have to mull over what I wanted to say, but now I can start conversations without thinking too much.
+
+* Editing a creative tonie content reminds me of criating a my best CD and MD when I was a teenager. There is 90mins limit to feed mp3 files in a creative tonie and the limitation makes me think over what music to put on it and it is really fun.
+* Editing creative Tonie content reminds me of making my best CD or MD mix when I was a teenager. There’s a 90-minute limit for uploading MP3 files to a Creative Tonie, and that limitation makes me think carefully about which music to include — it’s really fun!

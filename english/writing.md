@@ -1171,3 +1171,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Editing a creative tonie content reminds me of criating a my best CD and MD when I was a teenager. There is 90mins limit to feed mp3 files in a creative tonie and the limitation makes me think over what music to put on it and it is really fun.
 * Editing creative Tonie content reminds me of making my best CD or MD mix when I was a teenager. There’s a 90-minute limit for uploading MP3 files to a Creative Tonie, and that limitation makes me think carefully about which music to include — it’s really fun!
+
+* I didn't know that rib fingers - a part of beef meat is Nakaochi Karubi in Japanese. I was really thick part and contains lots of fat. I grilled them with charcoal and they were really joucy and tasty. I couldn't use all in the pack. I am a bit excited to eat the leftover tomorrow.
+*  I didn’t know that rib fingers — a part of beef — are called “Nakaochi Karubi” in Japanese. It was a really thick cut with lots of fat. I grilled them over charcoal, and they were super juicy and tasty. I couldn’t use all of them in one meal, so I’m excited to eat the leftovers tomorrow.

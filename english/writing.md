@@ -1174,3 +1174,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I didn't know that rib fingers - a part of beef meat is Nakaochi Karubi in Japanese. I was really thick part and contains lots of fat. I grilled them with charcoal and they were really joucy and tasty. I couldn't use all in the pack. I am a bit excited to eat the leftover tomorrow.
 *  I didn’t know that rib fingers — a part of beef — are called “Nakaochi Karubi” in Japanese. It was a really thick cut with lots of fat. I grilled them over charcoal, and they were super juicy and tasty. I couldn’t use all of them in one meal, so I’m excited to eat the leftovers tomorrow.
+
+* Large hard boxes to organize camping gears is necessary for me. I used to use cheap smaller boxes, but I ended up being confused in which box I put a gear. Putting all gears in a larger box can acoid the problem and also easy to pack up.
+* Large hard boxes for organizing camping gear are necessary for me. I used to use cheap smaller boxes, but I always ended up getting confused about which box I put each item in. Putting all the gear in a larger box helps avoid that problem and also makes packing up much easier.

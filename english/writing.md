@@ -1177,3 +1177,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * Large hard boxes to organize camping gears is necessary for me. I used to use cheap smaller boxes, but I ended up being confused in which box I put a gear. Putting all gears in a larger box can acoid the problem and also easy to pack up.
 * Large hard boxes for organizing camping gear are necessary for me. I used to use cheap smaller boxes, but I always ended up getting confused about which box I put each item in. Putting all the gear in a larger box helps avoid that problem and also makes packing up much easier.
+
+* I felt we need a small table for not only camping but picnic when we went to a picnic today. We went to a close beach to hang around when tide is low, and put floor mat on the ground. We brough some food, and they were great, but I though it would have beeen more confortable and enojoyable if we had a even small table. I will search a compact but looking good table this week.
+* I felt that we need a small table not only for camping but also for picnics after we went on one today. We went to a nearby beach to hang out during low tide and laid a floor mat on the ground. We brought some food, which was great, but I thought it would have been more comfortable and enjoyable if we had even a small table. I’ll look for a compact yet stylish table this week.

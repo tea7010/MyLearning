@@ -1180,3 +1180,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I felt we need a small table for not only camping but picnic when we went to a picnic today. We went to a close beach to hang around when tide is low, and put floor mat on the ground. We brough some food, and they were great, but I though it would have beeen more confortable and enojoyable if we had a even small table. I will search a compact but looking good table this week.
 * I felt that we need a small table not only for camping but also for picnics after we went on one today. We went to a nearby beach to hang out during low tide and laid a floor mat on the ground. We brought some food, which was great, but I thought it would have been more comfortable and enjoyable if we had even a small table. I’ll look for a compact yet stylish table this week.
+
+* My favorite shokz earbuds were broken after a half year heavy use. I almost used them all the time and enjoyed listening podcasts. I have already ordered a new pair of the same model of the headsets. I cannot think the life without them.
+* My favorite Shokz earbuds broke after about half a year of heavy use. I used them almost all the time and enjoyed listening to podcasts. I’ve already ordered a new pair of the same model. I can’t imagine life without them.

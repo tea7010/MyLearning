@@ -1183,3 +1183,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * My favorite shokz earbuds were broken after a half year heavy use. I almost used them all the time and enjoyed listening podcasts. I have already ordered a new pair of the same model of the headsets. I cannot think the life without them.
 * My favorite Shokz earbuds broke after about half a year of heavy use. I used them almost all the time and enjoyed listening to podcasts. I’ve already ordered a new pair of the same model. I can’t imagine life without them.
+
+* I againly realized that things I think common sense are not always shared with others. I need to educate them from fundamental ideas to derived ideas to make my proposal more convincing.
+* I was reminded again that what I consider common sense isn’t always shared by others. I need to explain things starting from the fundamental concepts and build up to the derived ideas to make my proposals more convincing.

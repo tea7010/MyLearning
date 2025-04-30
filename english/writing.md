@@ -1186,3 +1186,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I againly realized that things I think common sense are not always shared with others. I need to educate them from fundamental ideas to derived ideas to make my proposal more convincing.
 * I was reminded again that what I consider common sense isn’t always shared by others. I need to explain things starting from the fundamental concepts and build up to the derived ideas to make my proposals more convincing.
+
+* There are many ways to do the same thing, but there are also distinctive differences each way. For example, using our fingers and using stylous pen to manipulate smarphones. Each method can select and click objects on the screen, but the efficiency and preference differ depending on the situation you use it.
+*  There are many ways to do the same thing, but each method has its own distinct characteristics. For example, using our fingers versus a stylus to operate a smartphone. Both can select and tap objects on the screen, but their efficiency and user preference vary depending on the situation.

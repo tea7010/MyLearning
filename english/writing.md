@@ -1195,3 +1195,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * I need to go to the office early tomorrow morning. I will setup an alarm earlier than usual and not attempt to make lunch box.
 * I need to go to the office early tomorrow morning, so I’ll set my alarm earlier than usual and skip making a lunch box
+
+* It is obvious for me why my english acquring speed is not so quick as I expected that is I don't keen to spend time talking with others. This is the same as I am not good speaker even in my mother tongue. I have to be more fun to talk with others.
+* It’s obvious to me why my English isn’t improving as quickly as I expected — I’m not eager to spend time talking with others. It’s the same in my native language; I’m not a strong speaker. I need to find more joy in talking with people.

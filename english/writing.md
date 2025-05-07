@@ -1198,3 +1198,6 @@ I need to spend more time organizing my thoughts and challenging myself to expre
 
 * It is obvious for me why my english acquring speed is not so quick as I expected that is I don't keen to spend time talking with others. This is the same as I am not good speaker even in my mother tongue. I have to be more fun to talk with others.
 * It’s obvious to me why my English isn’t improving as quickly as I expected — I’m not eager to spend time talking with others. It’s the same in my native language; I’m not a strong speaker. I need to find more joy in talking with people.
+
+* I like camping because it is very cozy but very cost effective compared to other accomodations. If you stay at a cottage or motel for a night, it would cost at least 150 buckes if you want to stay decent place. However, camp sites usually cost around 50-90sh depending on the facility.
+* I like camping because it’s cozy and very cost-effective compared to other accommodations. If you stay at a cottage or motel for a night, it can cost at least 150 bucks for a decent place. However, campsites usually cost around 50 to 90 dollars, depending on the facilities.

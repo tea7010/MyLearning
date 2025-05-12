@@ -691,3 +691,4 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * fare: the money paid for a journey on public transport.
 * dumb: temporarily unable or unwilling to speak.
 * palpitating: (of the heart) beating rapidly, strongly, or irregularly.
+* stand upright: stand vertically

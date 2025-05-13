@@ -692,3 +692,14 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * dumb: temporarily unable or unwilling to speak.
 * palpitating: (of the heart) beating rapidly, strongly, or irregularly.
 * stand upright: stand vertically
+* tumble
+* rapid up
+* aweful
+* chill out
+* run on
+* run down
+* put on him
+* go out for dinner
+* bustored
+* unusual 
+* drive me up the wall: 

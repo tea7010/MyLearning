@@ -702,4 +702,17 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * go out for dinner
 * bustored
 * unusual 
-* drive me up the wall: 
+* drive me up the wall
+* in a while
+* laugh at
+* go mad
+* socond in comand
+* come over
+* missing out
+* couldn't put my finger on
+* made that up
+* one point
+* look at the bright side
+* bring everyone down
+* first thing tomorrow
+* pop up

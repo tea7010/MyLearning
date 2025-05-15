@@ -716,3 +716,12 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * bring everyone down
 * first thing tomorrow
 * pop up
+* so far
+* come back
+* pretty nice
+* take pass
+* let him in
+* one of those
+* lyeing cow
+* break down
+* lying down

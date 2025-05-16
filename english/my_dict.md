@@ -725,3 +725,20 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * lyeing cow
 * break down
 * lying down
+* cut the red tape
+* horrible
+* frightning
+* I will be careful
+* you've done a corner
+* suicidal
+* nerve you
+* delicate
+* annoyed
+* silly
+* scientific breakthrough
+* along with
+* blame
+* calm down
+* confession
+* girly night
+* 

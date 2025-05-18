@@ -741,4 +741,14 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * calm down
 * confession
 * girly night
+* taking acount 
+* hang on 
+* teaming up
+* go on
+* call me back
+* urage?
+* eldest child
+* sudden arrive
+* go getter
+* incriminating
 * 

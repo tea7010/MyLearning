@@ -751,4 +751,23 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * sudden arrive
 * go getter
 * incriminating
+* I'll be delighted
+* go into
+* tha's settle
+* perfection itself
+* euphonism
+* still alive
+* get tickle
+* about to start
+* captivated
+* bend over
+* keep it down
+* just get over it
+* disoriented
+* keep going
+* get upright
+* slack in off
+* grip of it
+* the thing is happen to me is ...
+* hundred to one
 * 

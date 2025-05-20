@@ -770,4 +770,25 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * grip of it
 * the thing is happen to me is ...
 * hundred to one
-* 
+* Grieving
+* hold in
+* what;s up with you
+* we are stagnating
+* I can't take it anymore
+* if anything
+* I will stand over here
+* everyone is oppressed
+* congregate
+* nifty
+* Pessimist
+* willingly
+* made up my mind
+* take your cloths off
+* so am I
+* no, thanks very much
+* such a let down
+* come over here
+* do let if I will do
+* turns out
+* good for you
+* yYou’re a bit wanky

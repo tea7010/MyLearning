@@ -792,3 +792,17 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * turns out
 * good for you
 * yYou’re a bit wanky
+* I'm not a slat
+* out of it
+* call off
+* reconstructive
+* sit besides
+* overexited
+* kill myself
+* take advantage of me
+* get to know
+* 60 is coming up
+* pair off
+* big telly
+* can I lend this
+* hold on

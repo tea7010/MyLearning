@@ -806,3 +806,28 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * big telly
 * can I lend this
 * hold on
+* crazy down here
+* fiasco
+* get Moss to do it
+* things moving so fast
+* let's get started
+* what's going on in the middle earth
+* bloody pain in the ass
+* hang on a second
+* disguising
+* ruining
+* take your top off
+* worthless
+* you are gonna be a day
+* how does that sound
+* I'm afraind I'm very late
+* bloody mess
+* there am I
+* that's why I come in
+* overall yield
+* gone away
+* I could sue you
+* sorted out
+* biggest moment is coming on
+* will you come on with me
+* 

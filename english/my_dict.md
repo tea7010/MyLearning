@@ -830,4 +830,11 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * sorted out
 * biggest moment is coming on
 * will you come on with me
+* tell me your tale
+* oh my word
+* squosh on saturday
+* would you do me a favor
+* this isn't woking out
+* super cheap shot
+* rewind
 * 

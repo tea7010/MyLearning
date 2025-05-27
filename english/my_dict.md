@@ -837,4 +837,27 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * this isn't woking out
 * super cheap shot
 * rewind
+* lending money
+* borrow money off
+* i'd better crack on
+* pissed
+* get home
+* stand up for yourself
+* come back at me
+* cavarier
+* you'd better go
+* I can't seem to get it open
+* would be beholden to you
+* stay out of trouble
+* sit on ass
+* look in
+* take you thorough
+* winding me up
+* fancied cup of tea
+* weight into
+* out of spite
+* muttering
+* three hours tops
+* I was born ready
+* crafty
 * 

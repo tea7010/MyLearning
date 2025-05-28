@@ -860,4 +860,18 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * three hours tops
 * I was born ready
 * crafty
-* 
+* mind how you go
+* I'm a bit of desing freak
+* you are habing laugh
+* can I have a natter with you
+* hang out
+* break up
+* another one bites the dust
+* you got here
+* pull over 
+* running towards
+* keep going
+* driving me mad
+* I don't see any way past me
+* beloved
+* bob'a your ancle

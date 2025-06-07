@@ -875,3 +875,25 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * I don't see any way past me
 * beloved
 * bob'a your ancle
+* amicable agreement
+* I'm not asleep
+* like being tased in the ball
+* quid
+* right on the lip
+* provocatively
+* better cough up
+* let's split the difference and call it a tenner
+* peaky
+* up against
+* dead end
+* the look on your face
+* concussed
+* twats
+* audacity
+* hang up
+* that's not my area
+* chuck me out
+* beg your perdon
+* fiddle about it
+* piss off
+* 

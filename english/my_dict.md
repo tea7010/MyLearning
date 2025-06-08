@@ -896,4 +896,22 @@ attain（すごく頑張った） ＞ achieve（困難を乗り越えた） ＞ 
 * beg your perdon
 * fiddle about it
 * piss off
+* got scavvy
+* quite a while back
+* entail
+* quickfire question
+* widen the question
+* hull
+* fiddling about computers
+* public figure
+* snowed under here
+* throw around ideas
+* I could dance around the subject
+* hang on
+* quite a response
+* ejackulated
+* primeval
+* telly
+* come to an end
+* doesn't weigh
 * 

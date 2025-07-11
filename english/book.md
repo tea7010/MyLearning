@@ -72,5 +72,6 @@
 1. The dark forest: 209,208
 1. Death's end: 151,000
 1. Darren Shan, Trials of death: 38,569
+1. Darren Shan, The Vampire prince: 36,846
 
-Total: 2,536,803
+Total: 2,573,649
